@@ -1,0 +1,12 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 144.70m (surface 0.00m, duplicated 0.00m)\nvertical range: 4.21m (from 203.11@mountaineye23 at 2.46m to 203.14@mountaineye23 at -1.75m)\nnorth-south range: 82.88m (from 203.16@mountaineye23 at 82.88m to 203.2@mountaineye23 at 0.00m)\neast-west range: 67.23m (from 203.12@mountaineye23 at 67.23m to 203.2@mountaineye23 at 0.00m)\nnumber of shots: 14\nnumber of stations: 15"
+xth_cp_data_tree_insert 17 1 1 mountaineye23 mountaineye23 "" "" "length: 144.70m (surface 0.00m, duplicated 0.00m)\nvertical range: 4.21m (from 203.11@mountaineye23 at 2.46m to 203.14@mountaineye23 at -1.75m)\nnorth-south range: 82.88m (from 203.16@mountaineye23 at 82.88m to 203.2@mountaineye23 at 0.00m)\neast-west range: 67.23m (from 203.12@mountaineye23 at 67.23m to 203.2@mountaineye23 at 0.00m)\nnumber of shots: 14\nnumber of stations: 15"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert map 1 238X1 p1 1 mountaineye23 mountaineye23@mountaineye23 "Mountain eye cave part 23" "Mountain eye cave part 23"
+xth_cp_map_tree_create
+xth_cp_comp_stat 145 1
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1534943327
+
