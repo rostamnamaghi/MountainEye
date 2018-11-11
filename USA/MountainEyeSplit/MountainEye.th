@@ -39,7 +39,7 @@ centerline
   equate 1.58@mountaineye5 1.58@mountaineye2 
   equate 105.0@mountaineye20 1.8@mountaineye1
   equate 205.1@mountaineye21 205.0@mountaineye3
-  equate 204.0@mountaineye22 203.1@mountaineye3
+  equate 204.0@mountaineye22 204.2@mountaineye3
   equate 203.2@mountaineye23 203.1@mountaineye3    
 endcenterline
    

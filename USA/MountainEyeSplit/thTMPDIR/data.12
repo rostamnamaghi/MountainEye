@@ -1,0 +1,25 @@
+%!PS
+%%BoundingBox: -62 -29 62 11 
+%%HiResBoundingBox: -61.33534 -28.25816 61.33533 10.02834 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2018.11.10:1625
+%%Pages: 1
+%*Font: cmss10 2.65651 9.96265 2e:9c000101240014012d
+%*Font: cmss10 17.9325 9.96265 2e:98000101240014002c
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor
+gsave [0.7627 0.6468 -0.6468 0.7627 -1.36491 -27.86417 ] concat 0 0 moveto
+(Sump) cmss10 2.65651 fshow grestore
+-59.27701 -4.4831 moveto
+(ME21.scrapSP1) cmss10 17.9325 fshow
+ 0 0.11667 dtransform truncate idtransform setlinewidth pop [] 0 setdash
+ 1 setlinejoin 10 setmiterlimit
+newpath -61.27701 -9.96999 moveto
+61.277 -9.96999 lineto
+61.277 9.97 lineto
+-61.27701 9.97 lineto
+ closepath stroke
+showpage
+%%EOF

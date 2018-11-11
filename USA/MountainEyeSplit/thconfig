@@ -55,12 +55,13 @@ layout Layout
   # debug station-names               # Displays all station names
 
   #Foreground color - turn on altitdude to see various heights
-  #colour map-fg [80 80 80]
+  #colour map-fg
   #color map-fg altitude
   #color-legend on
   colour map-bg [70 90 70]
   #sketches on 
   #debug scrap-names
+  debug off
 
   symbol-hide line survey        # Hides the center line, including small centerline bits around the drives
   symbol-hide point station      # Hides the symbol and name at the stations
@@ -157,6 +158,6 @@ layout Debug
   debug on
   scale 1 1000			
   base-scale 1 1000 			
-  colour map-fg [100 100 100]	
-  colour map-bg [60 60 60]	
+  colour map-fg [100 100 100]
+  colour map-bg [60 60 60]
 endlayout

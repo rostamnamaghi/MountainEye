@@ -1,0 +1,55 @@
+%!PS
+%%BoundingBox: -57 -11 488 216 
+%%HiResBoundingBox: -56.85219 -10.02832 487.88889 215.04689 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2018.11.10:1625
+%%Pages: 1
+%*Font: cmss10 2.65666 9.96265 2e:9800414126001f72efc
+%*Font: cmss10 17.93265 9.96265 2e:9400010d24001515ef08
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor
+gsave [0.56644 -0.8241 0.8241 0.56644 471.31683 160.18398 ] concat 0 0 moveto
+(?) cmss10 2.65666 fshow grestore
+gsave [0.56644 -0.8241 0.8241 0.56644 472.529 158.42024 ] concat 0 0 moveto
+(2) cmss10 2.65666 fshow grestore
+gsave [0.56644 -0.8241 0.8241 0.56644 473.78297 156.59572 ] concat 0 0 moveto
+(lo) cmss10 2.65666 fshow grestore
+gsave [0.56644 -0.8241 0.8241 0.56644 474.85297 155.03886 ] concat 0 0 moveto
+(w) cmss10 2.65666 fshow grestore
+gsave [0.56644 -0.8241 0.8241 0.56644 476.38283 152.81288 ] concat 0 0 moveto
+(diverging) cmss10 2.65666 fshow grestore
+gsave [0.56644 -0.8241 0.8241 0.56644 482.53972 143.85455 ] concat 0 0 moveto
+(cra) cmss10 2.65666 fshow grestore
+gsave [0.56644 -0.8241 0.8241 0.56644 484.40393 141.1421 ] concat 0 0 moveto
+(wls) cmss10 2.65666 fshow grestore
+gsave [0.99377 -0.11147 0.11147 0.99377 135.36357 163.56685 ] concat 0 0 moveto
+(Kamik) cmss10 17.93265 fshow grestore
+gsave [0.99377 -0.11147 0.11147 0.99377 182.93546 158.231 ] concat 0 0 moveto
+(aze) cmss10 17.93265 fshow grestore
+gsave [0.99377 -0.11147 0.11147 0.99377 213.10715 154.84683 ] concat 0 0 moveto
+(Junction) cmss10 17.93265 fshow grestore
+gsave [0.77827 0.62794 -0.62794 0.77827 109.28271 0.29465 ] concat 0 0 moveto
+(T) cmss10 2.65666 fshow grestore
+gsave [0.77827 0.62794 -0.62794 0.77827 110.51747 1.29097 ] concat 0 0 moveto
+(abletop) cmss10 2.65666 fshow grestore
+gsave [0.77827 0.62794 -0.62794 0.77827 117.52985 6.94922 ] concat 0 0 moveto
+(Mountain) cmss10 2.65666 fshow grestore
+gsave [0.77827 0.62794 -0.62794 0.77827 144.73125 203.93512 ] concat 0 0 moveto
+(Mind) cmss10 2.65666 fshow grestore
+gsave [0.77827 0.62794 -0.62794 0.77827 149.85986 208.07338 ] concat 0 0 moveto
+(the) cmss10 2.65666 fshow grestore
+gsave [0.77827 0.62794 -0.62794 0.77827 153.28275 210.83528 ] concat 0 0 moveto
+(Gap) cmss10 2.65666 fshow grestore
+gsave [0.99998 0 0 0.99998 -54.79385 -4.4831 ] concat 0 0 moveto
+(ME3.scrapSP1) cmss10 17.93265 fshow grestore
+ 0 0.11667 dtransform truncate idtransform setlinewidth pop [] 0 setdash
+ 1 setlinejoin 10 setmiterlimit
+newpath -56.79385 -9.96999 moveto
+56.79385 -9.96999 lineto
+56.79385 9.97 lineto
+-56.79385 9.97 lineto
+ closepath stroke
+showpage
+%%EOF

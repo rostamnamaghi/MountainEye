@@ -43,39 +43,28 @@ processing projection plan ... done
 average distortion: 0.07%
 writing mountaineye_th5.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  23 AUG 2018 16:07
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  11 NOV 2018 14:38
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
-[4014]
-[Error: area borders l82-6499--6099 and l136-6127--6463 don't intersect in scra
-p ME5_scrapSP2@mountaineye5 (file mountaineye5.th2 [6425])] [1] [2] [3]
-[Error: area borders l722-14154-12866 and l718-14128-12849 don't intersect in s
-crap ME5_scrapSP1@mountaineye5 (file mountaineye5.th2 [5050])]
-[Error: area borders l655-14061-14354 and l654-13991-14333 don't intersect in s
-crap ME5_scrapSP1@mountaineye5 (file mountaineye5.th2 [4014])]
-[Error: area borders l670-14023-14372 and l669-13966-14326 don't intersect in s
-crap ME5_scrapSP1@mountaineye5 (file mountaineye5.th2 [4014])]
-[Error: area borders l688-14177-13543 and l710-14239-13466 don't intersect in s
-crap ME5_scrapSP1@mountaineye5 (file mountaineye5.th2 [3935])] [4] [5] [6]
-[7] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
-(./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [8] [9] [10] [11] [12] [13]
-[14] [15] [16] [17] )
+[4014] [1] [2] [3] [4] [5] [6] [7] (./mptextmp.mp) (./mptextmp.mp)
+(./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
+[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] )
  
 Here is how much of MetaPost's memory you used:
  1137 strings out of 1162
  14529 string characters out of 20720
- 1320271 words of memory out of 1500000
+ 1319271 words of memory out of 1500000
  1396 symbolic tokens out of 16384
  11i,75n,14p,208b,4f stack positions out of 300i,84n,5000p,250b,15f
- 96 string compactions (moved 1193057 characters, 94503 strings)
+ 96 string compactions (moved 1189133 characters, 94198 strings)
 31 output files written: data.1 .. data.4014
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  23 AUG 2018 16:07
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  11 NOV 2018 14:38
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -96,14 +85,14 @@ Overfull \hbox (171.79181pt too wide) detected at line 12
 Here is how much of TeX's memory you used:
  263 strings out of 95617
  2654 string characters out of 1171098
- 3195382 words of memory out of 3500000
+ 3193874 words of memory out of 3500000
  1676 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 939090 bytes).
+Output written on data.pdf (1 page, 907403 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -113,7 +102,7 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing xtherion file ... done
-compilation time: 10 sec
+compilation time: 8 sec
 
 
 ###################### scrap distortions #######################

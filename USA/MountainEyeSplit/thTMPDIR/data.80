@@ -1,0 +1,61 @@
+%!PS
+%%BoundingBox: -284 -99 318 28 
+%%HiResBoundingBox: -283.95306 -98.44644 317.96915 27.012 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2018.11.10:1625
+%%Pages: 1
+%*Font: cmss10 35.86559 9.96265 30:fa8000029000304d
+%*Font: cmss10 55.79088 9.96265 30:c42400011000554a2
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.16667 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinejoin 10 setmiterlimit
+newpath -94.48825 0 moveto
+94.48825 0 lineto
+94.48825 -25 lineto
+-94.48825 -25 lineto
+ closepath stroke
+newpath -94.48827 0 moveto
+-56.69296 0 lineto
+-56.69296 -25 lineto
+-94.48827 -25 lineto
+ closepath fill
+newpath -18.89766 0 moveto
+18.89764 0 lineto
+18.89764 -25 lineto
+-18.89766 -25 lineto
+ closepath fill
+newpath 56.69296 0 moveto
+94.48827 0 lineto
+94.48827 -25 lineto
+56.69296 -25 lineto
+ closepath fill
+-103.45459 3.5 moveto
+(0) cmss10 35.86559 fshow
+-74.62643 3.5 moveto
+(20) cmss10 35.86559 fshow
+-36.83028 3.5 moveto
+(40) cmss10 35.86559 fshow
+0.96446 3.5 moveto
+(60) cmss10 35.86559 fshow
+38.76062 3.5 moveto
+(80) cmss10 35.86559 fshow
+50.35342 3.5 moveto
+(100) cmss10 35.86559 fshow
+110.12975 3.5 moveto
+(m) cmss10 35.86559 fshow
+-283.95306 -87.59814 moveto
+(Original) cmss10 55.79088 fshow
+-81.71112 -87.59814 moveto
+(Scale) cmss10 55.79088 fshow
+57.61151 -87.59814 moveto
+(=) cmss10 55.79088 fshow
+119.6013 -87.59814 moveto
+(1) cmss10 55.79088 fshow
+166.09367 -87.59814 moveto
+(:) cmss10 55.79088 fshow
+206.3868 -87.59814 moveto
+(1500) cmss10 55.79088 fshow
+showpage
+%%EOF

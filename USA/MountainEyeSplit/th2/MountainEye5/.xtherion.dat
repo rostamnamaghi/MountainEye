@@ -4,9 +4,9 @@ xth_cp_data_tree_insert 46 1 1 mountaineye5 mountaineye5 "" "" "length: 1222.70m
 xth_cp_data_tree_create
 set xth(ctrl,cp,maplist) {}
 xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
-xth_cp_map_tree_insert map 1 694X1 p1 1 mountaineye5 mountaineye5@mountaineye5 "Mountain eye cave part 5" "Mountain eye cave part 5"
+xth_cp_map_tree_insert map 1 687X1 p1 1 mountaineye5 mountaineye5@mountaineye5 "Mountain eye cave part 5" "Mountain eye cave part 5"
 xth_cp_map_tree_create
 xth_cp_comp_stat 1223 2
 set xth(th_exit_state) 2
-set xth(th_exit_number) 1535036859
+set xth(th_exit_number) 1541947119
 

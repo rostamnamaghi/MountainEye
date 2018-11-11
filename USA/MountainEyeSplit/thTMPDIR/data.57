@@ -1,0 +1,43 @@
+%!PS
+%%BoundingBox: -40 -120 47 134 
+%%HiResBoundingBox: -39.96568 -119.54874 46.12863 133.59753 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2018.11.10:1625
+%%Pages: 1
+%*Font: cmss10 2.65666 9.96265 53:80032244ce
+%*Font: cmss10 17.9325 9.96265 53:a002227de8
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor
+gsave [0.99994 0.01047 -0.01047 0.99994 -34.05527 -119.03217 
+] concat 0 0 moveto
+(Slipp) cmss10 2.65666 fshow grestore
+gsave [0.99994 0.01047 -0.01047 0.99994 -28.639 -118.97546 ] concat 0 0 moveto
+(y) cmss10 2.65666 fshow grestore
+gsave [0.99994 0.01047 -0.01047 0.99994 -26.52852 -118.95337 
+] concat 0 0 moveto
+(Six) cmss10 2.65666 fshow grestore
+gsave [0.99994 0.01047 -0.01047 0.99994 -22.30768 -118.9092 ] concat 0 0 moveto
+(Split) cmss10 2.65666 fshow grestore
+gsave [0.27563 0.96126 -0.96126 0.27563 -3.41803 -30.93643 ] concat 0 0 moveto
+(Upstream) cmss10 17.9325 fshow grestore
+gsave [0.27563 0.96126 -0.96126 0.27563 18.04897 43.92827 ] concat 0 0 moveto
+(Sup) cmss10 17.9325 fshow grestore
+gsave [0.27563 0.96126 -0.96126 0.27563 26.03986 71.79599 ] concat 0 0 moveto
+(erstition) cmss10 17.9325 fshow grestore
+-37.90735 -4.4831 moveto
+(sup) cmss10 17.9325 fshow
+-12.00485 -4.4831 moveto
+(erw) cmss10 17.9325 fshow
+13.84795 -4.4831 moveto
+(alls) cmss10 17.9325 fshow
+ 0 0.11667 dtransform truncate idtransform setlinewidth pop [] 0 setdash
+ 1 setlinejoin 10 setmiterlimit
+newpath -39.90735 -9.96999 moveto
+39.90735 -9.96999 lineto
+39.90735 9.97 lineto
+-39.90735 9.97 lineto
+ closepath stroke
+showpage
+%%EOF
