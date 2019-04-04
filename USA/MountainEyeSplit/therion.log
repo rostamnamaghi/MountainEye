@@ -1,7 +1,7 @@
 therion 5.4.1 (2017-04-18)
 initialization file: C:\Program Files (x86)\Therion/therion.ini
 reading ... done
-configuration file: thconfig
+configuration file: thconfig.MountainEye
 reading ... done
 reading source files ... done
 preprocessing database ... done
@@ -9,134 +9,64 @@ scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
 average loop error: 0.31%
-processing survey data ... 
-####################### cavern log file ########################
- 1> Survex 1.2.34
- 2> Copyright ¸ 1990-2017 Olly Betts
- 3> Survey has no control points. Therefore I've fixed 1 at (0,0,0)
- 4> 
- 5> Survey contains 1772 survey stations, joined by 1777 shots.
- 6> There are 7 loops.
- 7> Survey has 2 connected components.
- 8> Total length of survey shots = 14439.65m (14439.65m adjusted)
- 9> Total plan length of survey shots = 13554.21m
-10> Total vertical length of survey shots = 2532.24m
-11> Vertical range = 75.09m (from 826 at 60.59m to 1573 at -14.51m)
-12> North-South range = 2771.02m (from 1399 at 1609.87m to 763 at -1161.15m)
-13> East-West range = 2807.67m (from 816 at 2554.83m to 763 at -252.84m)
-14> 1197 1-nodes.
-15>  360 2-nodes.
-16>   12 3-nodes.
-17>    4 4-nodes.
-18>   23 5-nodes.
-19>   55 6-nodes.
-20>   28 7-nodes.
-21>   33 8-nodes.
-22>   18 9-nodes.
-23>   10 10-nodes.
-24>   13 11-nodes.
-25>    6 12-nodes.
-26>    3 13-nodes.
-27>    2 14-nodes.
-28>    2 15-nodes.
-29>    1 16-node.
-30>    4 17-nodes.
-31>    1 22-node.
-32> 
-######################### transcription ########################
- 3> 1 : 1.0@mountaineye1.Mountaineye
- 5> 1772 : 3.110@connection.Mountaineye
- 6> 7 : -@mountaineye1.Mountaineye
- 7> 2 : -@mountaineye1.Mountaineye
-11> 826 : -@cob.Mountaineye -- 1573 : -@connection.Mountaineye
-12> 1399 : -@connection.Mountaineye -- 763 : 1.118@mountaineye5.Mountaineye
-13> 816 : -@cob.Mountaineye -- 763 : 1.118@mountaineye5.Mountaineye
-14> 1197 : -@cob.Mountaineye
-15> 360 : -@mountaineye1.Mountaineye
-16> 12 : -@mountaineye1.Mountaineye
-17> 4 : -@mountaineye1.Mountaineye
-18> 23 : -@mountaineye1.Mountaineye
-19> 55 : -@mountaineye1.Mountaineye
-20> 28 : -@mountaineye1.Mountaineye
-21> 33 : -@mountaineye1.Mountaineye
-22> 18 : -@mountaineye1.Mountaineye
-23> 10 : -@mountaineye1.Mountaineye
-24> 13 : -@mountaineye1.Mountaineye
-25> 6 : -@mountaineye1.Mountaineye
-26> 3 : -@mountaineye1.Mountaineye
-27> 2 : -@mountaineye1.Mountaineye
-28> 2 : -@mountaineye1.Mountaineye
-29> 1 : 1.0@mountaineye1.Mountaineye
-30> 4 : -@mountaineye1.Mountaineye
-31> 1 : 1.0@mountaineye1.Mountaineye
-#################### end of cavern log file ####################
-done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
-writing export\MountaineyeDatabase.sql ... 
 processing projection plan ... done
 average distortion: 0.05%
-done
-writing export\MountaineyeDatabase.csv ... done
-writing export\MountaineyeCaves.html ... done
-writing export\MountaineyeSurveys.html ... done
-writing export\MountaineyeQuestions.html ... done
-writing export\MountaineyeMap1.3d ... done
-writing export\MountaineyeMap.pdf ...
+writing export\MountaineyeMap2.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  11 NOV 2018 13:54
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  16 MAR 2019 10:07
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
-[4014] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
-[17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+[18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
+[33] [34] [35] [36] [37]
 [Warning: scrap outline intersects itself in scrap ME3_scrapSP1@mountaineye3.Mo
-untaineye] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
-[42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
-[57] [58] [59] [60] [61] [62] [63] [64] [65] [66] (./mptextmp.mp)
-(./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
-(./mptextmp.mp) [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] )
+untaineye] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50]
+[51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
+[66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80]
+[81] [82] [83] [84] [85] (./mptextmp.mp) [86] )
  
 Here is how much of MetaPost's memory you used:
- 1546 strings out of 1638
- 18992 string characters out of 26823
- 244292 words of memory out of 1500000
- 1548 symbolic tokens out of 16384
+ 1954 strings out of 2233
+ 15501 string characters out of 26823
+ 195506 words of memory out of 1500000
+ 1396 symbolic tokens out of 16384
  11i,75n,16p,600b,5f stack positions out of 300i,84n,5000p,608b,15f
- 406 string compactions (moved 6660692 characters, 564792 strings)
-90 output files written: data.1 .. data.4014
+ 568 string compactions (moved 7660789 characters, 771596 strings)
+99 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  11 NOV 2018 13:54
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  16 MAR 2019 10:07
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
 (c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
 (./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
-(./th_formdef.tex) (./th_pagedef.tex (./th_legend.tex) (./th_legendcolor.tex))
-(./th_pages.tex)
- 157 numeric registers used out of 32768
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 167 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 360 strings out of 95617
- 3630 string characters out of 1171098
- 356205 words of memory out of 1808183
- 1767 multiletter control sequences out of 15000+50000
+ 364 strings out of 95617
+ 3672 string characters out of 1171098
+ 335854 words of memory out of 1792832
+ 1777 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
- 10i,5n,6p,493b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 9i,5n,8p,493b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 735538 bytes).
+Output written on data.pdf (1 page, 823796 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
+ 297 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 803 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 863 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
@@ -159,26 +89,26 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.08%   85.95%  ME5_scrapSP1@mountaineye5.Mountaineye
-   0.18%   67.75%  ME2_scrapSP1@mountaineye2.Mountaineye
-   0.05%   19.90%  ME1_scrapSP1@mountaineye1.Mountaineye
-   0.05%   10.81%  bellywalls@connection.Mountaineye
-   0.09%    4.40%  ME3_scrapSP1@mountaineye3.Mountaineye
-   0.01%    1.24%  ME4_scrapSP2@mountaineye4.Mountaineye
-   0.05%    1.06%  Highlinewalls@connection.Mountaineye
-   0.09%    0.78%  ME5_scrapSP2@mountaineye5.Mountaineye
-   0.01%    0.37%  ME4_scrapSP4@mountaineye4.Mountaineye
-   0.03%    0.33%  ME22_scrapSP1@mountaineye22.Mountaineye
-   0.01%    0.30%  ME23_scrapSP1@mountaineye23.Mountaineye
-   0.01%    0.29%  ME4_scrapSP3@mountaineye4.Mountaineye
-   0.01%    0.29%  cobSP1@cob.Mountaineye
-   0.01%    0.28%  cobSP2@cob.Mountaineye
-   0.01%    0.26%  ancientwalls@connection.Mountaineye
-   0.01%    0.20%  ME20_scrapSP1@mountaineye20.Mountaineye
-   0.00%    0.10%  ME4_scrapSP1@mountaineye4.Mountaineye
-   0.02%    0.10%  ME21_scrapSP1@mountaineye21.Mountaineye
-   0.01%    0.10%  fossiltrunkwalls@connection.Mountaineye
-   0.01%    0.09%  cobSP3@cob.Mountaineye
-   0.01%    0.09%  superwalls@connection.Mountaineye
+   0.08%   85.94%  ME5_scrapSP1@mountaineye5.Mountaineye
+   0.18%   67.73%  ME2_scrapSP1@mountaineye2.Mountaineye
+   0.05%   19.50%  ME1_scrapSP1@mountaineye1.Mountaineye
+   0.04%   10.95%  bellywalls@connection.Mountaineye
+   0.12%   10.13%  ME3_scrapSP1@mountaineye3.Mountaineye
+   0.04%    1.07%  Highlinewalls@connection.Mountaineye
+   0.09%    0.77%  ME5_scrapSP2@mountaineye5.Mountaineye
+   0.00%    0.23%  ME4_scrapSP2@mountaineye4.Mountaineye
+   0.00%    0.05%  superwalls@connection.Mountaineye
+   0.00%    0.04%  ME23_scrapSP1@mountaineye23.Mountaineye
+   0.00%    0.04%  ancientwalls@connection.Mountaineye
+   0.00%    0.03%  ME4_scrapSP3@mountaineye4.Mountaineye
+   0.00%    0.03%  ME4_scrapSP4@mountaineye4.Mountaineye
+   0.00%    0.03%  cobSP1@cob.Mountaineye
+   0.00%    0.03%  cobSP3@cob.Mountaineye
+   0.00%    0.03%  cobSP2@cob.Mountaineye
+   0.00%    0.03%  ME22_scrapSP1@mountaineye22.Mountaineye
+   0.00%    0.03%  ME21_scrapSP1@mountaineye21.Mountaineye
+   0.00%    0.02%  ME4_scrapSP1@mountaineye4.Mountaineye
+   0.00%    0.02%  fossiltrunkwalls@connection.Mountaineye
+   0.00%    0.01%  ME20_scrapSP1@mountaineye20.Mountaineye
    0.00%    0.00%  scrap20a@mountaineye22.Mountaineye
 ################### end of scrap distortions ###################

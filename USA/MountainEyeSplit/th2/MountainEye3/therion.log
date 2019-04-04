@@ -9,47 +9,15 @@ scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
 average loop error: 0.32%
-processing survey data ... 
-####################### cavern log file ########################
- 1> Survex 1.2.34
- 2> Copyright ¸ 1990-2017 Olly Betts
- 3> Survey has no control points. Therefore I've fixed 1 at (0,0,0)
- 4> 
- 5> Survey contains 74 survey stations, joined by 75 shots.
- 6> There are 2 loops.
- 7> Total length of survey shots = 1642.59m (1642.59m adjusted)
- 8> Total plan length of survey shots = 1612.33m
- 9> Total vertical length of survey shots =  199.06m
-10> Vertical range = 36.72m (from 19 at 30.71m to 53 at -6.01m)
-11> North-South range = 274.16m (from 37 at 274.16m to 1 at 0.00m)
-12> East-West range = 585.91m (from 52 at 585.91m to 1 at 0.00m)
-13>    7 1-nodes.
-14>   59 2-nodes.
-15>    7 3-nodes.
-16>    1 4-node.
-17> 
-######################### transcription ########################
- 3> 1 : 2.64@mountaineye3
- 5> 74 : 4.19@mountaineye3
- 6> 2 : 2.65@mountaineye3
-10> 19 : 2.82@mountaineye3 -- 53 : 203.1@mountaineye3
-11> 37 : 2.96@mountaineye3 -- 1 : 2.64@mountaineye3
-12> 52 : 3.10@mountaineye3 -- 1 : 2.64@mountaineye3
-13> 7 : 2.70@mountaineye3
-14> 59 : 4.4@mountaineye3
-15> 7 : 2.70@mountaineye3
-16> 1 : 2.64@mountaineye3
-#################### end of cavern log file ####################
-done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 0.09%
+average distortion: 0.11%
 writing mountaineye_th3.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  11 NOV 2018 13:46
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  30 MAR 2019 17:03
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
@@ -58,19 +26,19 @@ This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31) 
 [2] [3] [4] [5] (./mptextmp.mp) [6] )
  
 Here is how much of MetaPost's memory you used:
- 1146 strings out of 1162
- 13455 string characters out of 20720
- 190373 words of memory out of 1500000
+ 1222 strings out of 1638
+ 13713 string characters out of 26823
+ 193376 words of memory out of 1500000
  1388 symbolic tokens out of 16384
- 11i,75n,16p,343b,5f stack positions out of 300i,84n,5000p,390b,15f
- 106 string compactions (moved 1311574 characters, 106054 strings)
+ 11i,75n,16p,629b,5f stack positions out of 300i,84n,5000p,760b,15f
+ 279 string compactions (moved 3631325 characters, 306395 strings)
 19 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  11 NOV 2018 13:46
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  30 MAR 2019 17:03
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -82,14 +50,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  252 strings out of 95617
  2554 string characters out of 1171098
- 273729 words of memory out of 1731707
+ 280229 words of memory out of 1737207
  1665 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 129717 bytes).
+Output written on data.pdf (1 page, 136307 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -99,7 +67,7 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing xtherion file ... done
-compilation time: 2 sec
+compilation time: 3 sec
 
 
 ######################### loop errors ##########################
@@ -112,5 +80,5 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.09%    4.34%  ME3_scrapSP1@mountaineye3
+   0.11%   10.13%  ME3_scrapSP1@mountaineye3
 ################### end of scrap distortions ###################

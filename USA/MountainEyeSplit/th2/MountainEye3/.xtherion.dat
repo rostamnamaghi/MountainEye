@@ -1,12 +1,12 @@
 set xth(ctrl,cp,datlist) {}
-xth_cp_data_tree_insert 1 {} 0   "" "" "length: 1642.59m (surface 0.00m, duplicated 0.00m)\nvertical range: 36.72m (from 2.82@mountaineye3 at 30.71m to 203.1@mountaineye3 at -6.01m)\nnorth-south range: 274.16m (from 2.96@mountaineye3 at 274.16m to 2.64@mountaineye3 at 0.00m)\neast-west range: 585.91m (from 3.10@mountaineye3 at 585.91m to 2.64@mountaineye3 at 0.00m)\nnumber of shots: 75\nnumber of stations: 74"
-xth_cp_data_tree_insert 18 1 1 mountaineye3 mountaineye3 "" "" "length: 1642.59m (surface 0.00m, duplicated 0.00m)\nvertical range: 36.72m (from 2.82@mountaineye3 at 30.71m to 203.1@mountaineye3 at -6.01m)\nnorth-south range: 274.16m (from 2.96@mountaineye3 at 274.16m to 2.64@mountaineye3 at 0.00m)\neast-west range: 585.91m (from 3.10@mountaineye3 at 585.91m to 2.64@mountaineye3 at 0.00m)\nnumber of shots: 75\nnumber of stations: 74"
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 1642.59m (surface 0.00m, duplicated 0.00m)\nvertical range: 36.81m (from 2.82@mountaineye3 at 30.71m to 203.1@mountaineye3 at -6.10m)\nnorth-south range: 274.36m (from 2.96@mountaineye3 at 274.36m to 2.64@mountaineye3 at 0.00m)\neast-west range: 585.92m (from 3.10@mountaineye3 at 585.92m to 2.64@mountaineye3 at 0.00m)\nnumber of shots: 75\nnumber of stations: 74"
+xth_cp_data_tree_insert 18 1 1 mountaineye3 mountaineye3 "" "" "length: 1642.59m (surface 0.00m, duplicated 0.00m)\nvertical range: 36.81m (from 2.82@mountaineye3 at 30.71m to 203.1@mountaineye3 at -6.10m)\nnorth-south range: 274.36m (from 2.96@mountaineye3 at 274.36m to 2.64@mountaineye3 at 0.00m)\neast-west range: 585.92m (from 3.10@mountaineye3 at 585.92m to 2.64@mountaineye3 at 0.00m)\nnumber of shots: 75\nnumber of stations: 74"
 xth_cp_data_tree_create
 set xth(ctrl,cp,maplist) {}
 xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
-xth_cp_map_tree_insert map 1 498X1 p1 1 mountaineye3 mountaineye3@mountaineye3 "Mountain eye cave part 3" "Mountain eye cave part 3"
+xth_cp_map_tree_insert map 1 529X1 p1 1 mountaineye3 mountaineye3@mountaineye3 "Mountain eye cave part 3" "Mountain eye cave part 3"
 xth_cp_map_tree_create
 xth_cp_comp_stat 1643 1
 set xth(th_exit_state) 2
-set xth(th_exit_number) 1541943967
+set xth(th_exit_number) 1553965428
 

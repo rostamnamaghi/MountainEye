@@ -14,29 +14,31 @@ processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 0.00%
+average distortion: 0.02%
 writing mountaineye_th4.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  10 MAR 2019 12:31
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  17 MAR 2019 15:26
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
-[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] (./mptextmp.mp) [14] )
+[1] [2] [3] [4] [5] [6] [7]
+[Warning: scrap outline intersects itself in scrap ME4_scrapSP2@mountaineye4]
+[8] [9] [10] [11] [12] [13] (./mptextmp.mp) [14] )
  
 Here is how much of MetaPost's memory you used:
- 1171 strings out of 1638
- 13357 string characters out of 20720
- 601704 words of memory out of 1500000
+ 1172 strings out of 1638
+ 13359 string characters out of 20720
+ 626774 words of memory out of 1500000
  1385 symbolic tokens out of 16384
  11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
- 204 string compactions (moved 2593270 characters, 216136 strings)
+ 212 string compactions (moved 2700605 characters, 225229 strings)
 27 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  10 MAR 2019 12:31
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  17 MAR 2019 15:26
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -49,14 +51,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  266 strings out of 95617
  2724 string characters out of 1171098
- 782455 words of memory out of 2171433
+ 845830 words of memory out of 2226808
  1676 multiletter control sequences out of 15000+50000
  21229 words of font info for 66 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  12i,5n,8p,238b,78s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program F
 iles (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 236049 bytes).
+Output written on data.pdf (1 page, 285612 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -66,7 +68,7 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing xtherion file ... done
-compilation time: 7 sec
+compilation time: 5 sec
 
 
 ######################### loop errors ##########################
@@ -79,8 +81,8 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.00%    0.23%  ME4_scrapSP2@mountaineye4
+   0.06%    6.72%  ME4_scrapSP2@mountaineye4
+   0.00%    0.04%  ME4_scrapSP4@mountaineye4
    0.00%    0.03%  ME4_scrapSP3@mountaineye4
-   0.00%    0.03%  ME4_scrapSP4@mountaineye4
    0.00%    0.02%  ME4_scrapSP1@mountaineye4
 ################### end of scrap distortions ###################
