@@ -1,0 +1,17 @@
+therion 5.4.3 (2019-02-01)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing dwarffortressth.3d ... done
+writing xtherion file ... done
+compilation time: 0 sec

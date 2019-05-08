@@ -1,0 +1,52 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 41 survey stations, joined by 40 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs =  314.43m ( 314.43m adjusted)
+ 8> Total plan length of survey legs =  275.22m
+ 9> Total vertical length of survey legs =  117.95m
+10> Vertical range = 20.16m (from 28 at 20.16m to 1 at 0.00m)
+11> North-South range = 47.16m (from 1 at 0.00m to 30 at -47.16m)
+12> East-West range = 29.56m (from 1 at 0.00m to 31 at -29.56m)
+13>   35 1-nodes.
+14>    1 4-node.
+15>    2 6-nodes.
+16>    1 7-node.
+17>    1 9-node.
+18>    1 13-node.
+19> 
+######################### transcription ########################
+ 3> 1 : 301.2.22@Omen-dog-west
+ 5> 41 : -@Omen-dog-west -- 40 : -@Omen-dog-west
+10> 28 : -@Omen-dog-west -- 1 : 301.2.22@Omen-dog-west
+11> 1 : 301.2.22@Omen-dog-west -- 30 : -@Omen-dog-west
+12> 1 : 301.2.22@Omen-dog-west -- 31 : -@Omen-dog-west
+13> 35 : -@Omen-dog-west
+14> 1 : 301.2.22@Omen-dog-west
+15> 2 : 301.4.1@Omen-dog-west
+16> 1 : 301.2.22@Omen-dog-west
+17> 1 : 301.2.22@Omen-dog-west
+18> 1 : 301.2.22@Omen-dog-west
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing Omen-dog-west-th.3d ... done
+writing xtherion file ... done
+compilation time: 0 sec

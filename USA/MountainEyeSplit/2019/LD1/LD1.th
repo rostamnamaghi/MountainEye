@@ -1,0 +1,113 @@
+encoding  utf-8
+# 2019.04.16 created by TopoDroid v 4.1.2q
+
+survey LD1 -title "LD1"
+    # from 105.7 down hole underneath 
+ input "LD1-LDI_Planp.th2"
+  centerline
+    date 2019.04.15 
+    team "Peter Talling" notes
+    team "Fleur Loveridge" instruments
+    units length meters
+    units compass clino degrees
+    data normal from to length compass clino
+    extend right
+    0 1 12.71 122.9 -12.3
+    # extend left
+    1 2 4.19 222.8 11.3
+    2 3 3.02 266.7 -72.4
+    # extend auto
+    3 . 3.00 176.8 78.2
+    3 . 3.30 115.4 62.8
+    3 . 1.07 134.4 20.7
+    3 . 0.32 325.0 16.6
+    3 . 1.97 141.9 -36.0
+    3 . 0.89 199.9 -51.4
+    # extend right
+    3 4 1.79 147.9 -33.1
+    # extend auto
+    4 . 2.40 49.4 13.9
+    4 . 2.43 89.7 2.0
+    4 . 0.97 151.2 13.2
+    4 . 2.55 287.3 15.1
+    4 . 2.10 253.3 8.9
+    extend left
+    4 5 5.12 218.6 -14.3
+    # extend auto
+    5 . 7.85 59.6 6.0
+    5 . 2.29 138.5 19.7
+    5 . 1.08 121.6 78.2
+    5 . 0.16 44.2 -80.3
+    5 . 2.50 311.2 18.4
+    5 . 5.61 264.2 5.6
+    5 . 4.91 241.5 8.8
+    extend left
+    5 6 4.33 267.3 3.7
+    # extend auto
+    6 . 3.45 272.7 -23.3
+    6 . 1.51 239.5 17.5
+    6 . 0.61 193.4 59.2
+    6 . 2.08 179.0 16.4
+    6 . 1.11 312.0 25.6
+    6 . 1.08 342.0 25.2
+    6 . 0.35 128.6 -72.5
+    extend left
+    6 7 2.87 272.0 -20.7
+    # extend auto
+    7 . 0.44 12.8 -77.7
+    7 . 0.68 5.6 11.5
+    7 . 0.39 12.0 45.9
+    7 . 0.60 7.1 -34.2
+    extend left
+    7 8 2.16 258.7 -4.0
+    # extend auto
+    8 . 0.95 144.8 -10.1
+    8 . 0.70 144.7 11.3
+    8 . 0.57 139.2 41.7
+    8 . 0.19 127.9 70.7
+    8 . 0.35 116.0 -81.0
+    extend left
+    8 9 2.08 217.9 0.3
+    # extend auto
+    9 . 0.69 30.3 -1.5
+    9 . 0.55 347.4 4.1
+    9 . 0.50 354.8 37.8
+    9 . 0.36 7.4 73.5
+    9 . 0.31 304.4 -74.9
+    extend left
+    9 10 4.99 241.6 6.9
+    # extend auto
+    10 . 0.29 337.3 65.3
+    10 . 0.86 269.0 6.6
+    10 . 0.48 322.3 8.6
+    10 . 0.48 13.1 2.9
+    10 . 1.00 7.2 -43.1
+    10 . 0.85 0.2 -69.0
+    extend left
+    10 11 2.32 332.7 -8.3
+    # extend auto
+    11 . 1.41 310.2 7.6
+    11 . 0.51 231.0 82.7
+    11 . 0.99 201.0 -75.9
+    11 . 0.62 220.7 -41.6
+    11 . 1.15 233.0 1.9
+    11 . 0.76 249.8 20.1
+    11 . 0.73 187.6 -5.5
+    11 . 1.16 130.8 -1.0
+    11 . 8.11 239.4 4.0
+    11 . 3.99 242.9 5.3
+    11 . 2.65 237.8 6.1
+  endcenterline
+
+  # input "LD1-LDI_Planp.th2"
+  # input "LD1-LDI_Plans.th2"
+
+  map mLDI_Planp -projection plan
+    LD1-LDI_Planp
+  endmap
+  # map mLDI_Plans -projection extended
+  #   LD1-LDI_Plans
+  # endmap
+
+endsurvey
+

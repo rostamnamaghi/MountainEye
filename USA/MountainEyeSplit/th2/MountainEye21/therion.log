@@ -10,15 +10,15 @@ searching for centerline loops ... done
 calculating station coordinates ... done
 processing survey data ... 
 ####################### cavern log file ########################
- 1> Survex 1.2.34
- 2> Copyright ¸ 1990-2017 Olly Betts
- 3> Survey has no control points. Therefore I've fixed 1 at (0,0,0)
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
  4> 
- 5> Survey contains 4 survey stations, joined by 3 shots.
+ 5> Survey contains 4 survey stations, joined by 3 legs.
  6> There are 0 loops.
- 7> Total length of survey shots =   35.48m (  35.48m adjusted)
- 8> Total plan length of survey shots =   35.40m
- 9> Total vertical length of survey shots =    1.76m
+ 7> Total length of survey legs =   35.48m (  35.48m adjusted)
+ 8> Total plan length of survey legs =   35.40m
+ 9> Total vertical length of survey legs =    1.76m
 10> Vertical range = 1.07m (from 3 at 0.31m to 4 at -0.76m)
 11> North-South range = 24.11m (from 1 at 0.00m to 4 at -24.11m)
 12> East-West range = 10.90m (from 2 at 5.01m to 3 at -5.89m)
@@ -43,7 +43,7 @@ processing projection plan ... done
 average distortion: 0.02%
 writing mountaineye_th21.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  10 NOV 2018 15:37
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  22 APR 2019 23:50
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
@@ -51,18 +51,18 @@ This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31) 
  
 Here is how much of MetaPost's memory you used:
  1064 strings out of 1162
- 13402 string characters out of 20720
+ 13402 string characters out of 15838
  59943 words of memory out of 1500000
  1387 symbolic tokens out of 16384
  8i,75n,16p,197b,5f stack positions out of 300i,84n,5000p,200b,15f
- 21 string compactions (moved 184791 characters, 15170 strings)
+ 21 string compactions (moved 179094 characters, 14783 strings)
 19 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  10 NOV 2018 15:37
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  22 APR 2019 23:50
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -74,14 +74,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  253 strings out of 95617
  2558 string characters out of 1171098
- 23145 words of memory out of 1509123
+ 23419 words of memory out of 1509397
  1666 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 21828 bytes).
+Output written on data.pdf (1 page, 24798 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

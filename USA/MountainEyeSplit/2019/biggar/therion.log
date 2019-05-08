@@ -1,0 +1,126 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 288 survey stations, joined by 287 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs = 2682.72m (2682.72m adjusted)
+ 8> Total plan length of survey legs = 2392.13m
+ 9> Total vertical length of survey legs =  710.86m
+10> Vertical range = 31.61m (from 217 at 30.63m to 6 at -0.97m)
+11> North-South range = 182.75m (from 208 at 166.38m to 4 at -16.38m)
+12> East-West range = 430.35m (from 220 at 430.35m to 1 at 0.00m)
+13>  249 1-nodes.
+14>    1 2-node.
+15>    3 5-nodes.
+16>   12 6-nodes.
+17>    4 7-nodes.
+18>    3 8-nodes.
+19>    5 9-nodes.
+20>    4 10-nodes.
+21>    1 11-node.
+22>    1 12-node.
+23>    2 13-nodes.
+24>    1 16-node.
+25>    2 17-nodes.
+26> 
+######################### transcription ########################
+ 3> 1 : 8.6@biggar
+ 5> 288 : -@biggar -- 287 : -@biggar
+10> 217 : -@biggar -- 6 : -@biggar
+11> 208 : -@biggar -- 4 : -@biggar
+12> 220 : -@biggar -- 1 : 8.6@biggar
+13> 249 : -@biggar
+14> 1 : 8.6@biggar
+15> 3 : -@biggar
+16> 12 : 9.3@biggar
+17> 4 : -@biggar
+18> 3 : -@biggar
+19> 5 : -@biggar
+20> 4 : -@biggar
+21> 1 : 8.6@biggar
+22> 1 : 8.6@biggar
+23> 2 : 9.1@biggar
+24> 1 : 8.6@biggar
+25> 2 : 9.1@biggar
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+average distortion: 0.04%
+writing biggar.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  23 APR 2019 00:55
+**data.mp
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[1]
+[Warning: scrap outline intersects itself in scrap biggarSP1@biggar] [2] [3]
+[4] (./mptextmp.mp) [5] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1081 strings out of 1162
+ 13252 string characters out of 20720
+ 166368 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 52 string compactions (moved 592652 characters, 46926 strings)
+18 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  23 APR 2019 00:55
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 53 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 250 strings out of 95617
+ 2539 string characters out of 1171098
+ 340918 words of memory out of 1796896
+ 1663 multiletter control sequences out of 15000+50000
+ 20080 words of font info for 63 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
+Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
+Output written on data.pdf (1 page, 127687 bytes).
+PDF statistics:
+ 40 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing biggarth.3d ... done
+writing xtherion file ... done
+compilation time: 1 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.04%    1.17%  biggarSP1@biggar
+################### end of scrap distortions ###################

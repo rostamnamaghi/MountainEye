@@ -1,0 +1,6 @@
+encoding  utf-8
+
+
+source praise_the_lord.th
+
+export map -projection plan -o Praise_the_Lord.pdf

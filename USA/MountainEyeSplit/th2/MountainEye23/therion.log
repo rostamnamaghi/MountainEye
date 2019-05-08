@@ -10,15 +10,15 @@ searching for centerline loops ... done
 calculating station coordinates ... done
 processing survey data ... 
 ####################### cavern log file ########################
- 1> Survex 1.2.34
- 2> Copyright ¸ 1990-2017 Olly Betts
- 3> Survey has no control points. Therefore I've fixed 1 at (0,0,0)
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
  4> 
- 5> Survey contains 15 survey stations, joined by 14 shots.
+ 5> Survey contains 15 survey stations, joined by 14 legs.
  6> There are 0 loops.
- 7> Total length of survey shots =  144.70m ( 144.70m adjusted)
- 8> Total plan length of survey shots =  143.90m
- 9> Total vertical length of survey shots =   11.00m
+ 7> Total length of survey legs =  144.70m ( 144.70m adjusted)
+ 8> Total plan length of survey legs =  143.90m
+ 9> Total vertical length of survey legs =   11.00m
 10> Vertical range = 4.21m (from 10 at 2.46m to 13 at -1.75m)
 11> North-South range = 82.88m (from 15 at 82.88m to 1 at 0.00m)
 12> East-West range = 67.23m (from 11 at 67.23m to 1 at 0.00m)
@@ -43,7 +43,7 @@ processing projection plan ... done
 average distortion: 0.01%
 writing mountaineye_th23.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  10 NOV 2018 15:30
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  22 APR 2019 23:50
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
@@ -62,7 +62,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  10 NOV 2018 15:30
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  22 APR 2019 23:50
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -74,14 +74,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  252 strings out of 95617
  2554 string characters out of 1171098
- 154803 words of memory out of 1626781
+ 155050 words of memory out of 1627028
  1665 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 65077 bytes).
+Output written on data.pdf (1 page, 67670 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -91,7 +91,7 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing xtherion file ... done
-compilation time: 1 sec
+compilation time: 2 sec
 
 
 ###################### scrap distortions #######################

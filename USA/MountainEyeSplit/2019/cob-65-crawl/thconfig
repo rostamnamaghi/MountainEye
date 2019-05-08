@@ -1,0 +1,15 @@
+encoding utf-8
+
+layout local
+  debug off
+  map-header 0 0 off
+  # symbol-hide group cave-centreline
+endlayout
+
+source "cob-65-crawl.th"
+
+export model -fmt survex -o "cob-65-crawl-th.3d"
+
+# export map -proj plan -layout local -o "cob-65-crawl-plan.pdf"
+
+# export map -proj extended -layout local -o "cob-65-crawl-ee.pdf"

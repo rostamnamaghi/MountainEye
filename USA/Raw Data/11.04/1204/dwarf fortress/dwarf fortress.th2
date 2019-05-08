@@ -1,0 +1,12 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -128.0 -128.0 7608.3149606285 9734.2992125966
+##XTHERION## xth_me_area_zoom_to 25
+##XTHERION## xth_me_image_insert {7453.000708661 1 1.0} {9627.618031496 279.20} {PocketTopo/dwarf fortress_p.xvi} 0 {}
+
+
+
+scrap dwarf -projection plan fortressSP1 -scale [0 0 787.4 787.4 0 0 10 10 m]
+
+endscrap
+
+

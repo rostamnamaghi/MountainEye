@@ -1,0 +1,32 @@
+Shows Windows executables as published
+Head
+
+1.2.2
+Writes instrument details to th file
+Added copying of this file on windows build
+Added manual directory copy on windows build
+Fixed windows bug of sizing of add/delete caver window
+
+1.2.1
+Corrected Averaging of angles
+
+1.2.0
+Added setupfile and moved program information to Defaults.py
+Removed erronious file writen notifications
+Directories added to repositories for svn
+Does not attempt to copy top file if destination same as source
+Added -proj [elevation ###] to projected map in th file.
+Default.layout changed from commom_Layout.th to common_layout.th (m -> n)
+File angle suffix checkbox now initiated to show state.
+
+1.1.1
+Persons now editable
+Output message window added
+Correct checks on directories, and files, with options to overwrite
+Add to repository checkbox now attempts to add to repository
+Initial Defaults stored in .py file not pickled (user Defaults still pickled to home area)
+Added copyright box
+Windows: Launches applications.
+
+1.0.1
+Added Pickled .Top file missing from zip distribution

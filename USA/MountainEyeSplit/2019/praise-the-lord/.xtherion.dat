@@ -1,0 +1,12 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 164.45m (surface 0.00m, duplicated 0.00m)\nvertical range: 22.66m (from 11@praise_the_lord at 14.53m to 25@praise_the_lord at -8.13m)\nnorth-south range: 55.55m (from 7@praise_the_lord at 30.87m to 25@praise_the_lord at -24.68m)\neast-west range: 31.86m (from 26@praise_the_lord at 28.88m to 11@praise_the_lord at -2.98m)\nnumber of shots: 93\nnumber of stations: 94"
+xth_cp_data_tree_insert 17 1 1 praise_the_lord praise_the_lord "praise\_the\_lord" "praise\_the\_lord" "length: 164.45m (surface 0.00m, duplicated 0.00m)\nvertical range: 22.66m (from 11@praise_the_lord at 14.53m to 25@praise_the_lord at -8.13m)\nnorth-south range: 55.55m (from 7@praise_the_lord at 30.87m to 25@praise_the_lord at -24.68m)\neast-west range: 31.86m (from 26@praise_the_lord at 28.88m to 11@praise_the_lord at -2.98m)\nnumber of shots: 93\nnumber of stations: 94"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert map 1 236X1 p1 1 m1p m1p@praise_the_lord "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 164 2
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1555974767
+

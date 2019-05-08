@@ -1,0 +1,12 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust 530.6863928790001 748.147637874 8267.0013535075 10610.4468504706
+##XTHERION## xth_me_area_zoom_to 50
+##XTHERION## xth_me_image_insert {8111.68710154 1 1.0} {10503.765669370001 279.20} PocketTopo/dwarffortress_p.xvi 0 {}
+
+
+
+scrap dwarffortressSP1 -projection plan -scale [0 0 787.4 787.4 0 0 10 10 m]
+
+endscrap
+
+

@@ -1,0 +1,145 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 429 survey stations, joined by 428 legs.
+ 6> There is 1 loop.
+ 7> Survey has 2 connected components.
+ 8> Total length of survey legs = 1495.83m (1495.83m adjusted)
+ 9> Total plan length of survey legs = 1424.55m
+10> Total vertical length of survey legs =  239.69m
+11> Vertical range = 11.08m (from 4 at 7.63m to 428 at -3.45m)
+12> North-South range = 48.11m (from 9 at 6.41m to 429 at -41.70m)
+13> East-West range = 112.87m (from 194 at 94.80m to 11 at -18.07m)
+14>  393 1-nodes.
+15>    1 4-node.
+16>    4 5-nodes.
+17>    1 6-node.
+18>    4 8-nodes.
+19>    1 9-node.
+20>    3 10-nodes.
+21>    5 11-nodes.
+22>    2 12-nodes.
+23>    2 14-nodes.
+24>    3 15-nodes.
+25>    2 16-nodes.
+26>    1 17-node.
+27>    2 20-nodes.
+28>    1 22-node.
+29>    1 23-node.
+30>    1 24-node.
+31>    1 25-node.
+32>    1 27-node.
+33> 
+######################### transcription ########################
+ 3> 1 : 9.34@annoyed
+ 5> 429 : 934.34@annoyed -- 428 : -@annoyed
+ 6> 1 : 9.34@annoyed
+ 7> 2 : -@annoyed
+11> 4 : -@annoyed -- 428 : -@annoyed
+12> 9 : -@annoyed -- 429 : 934.34@annoyed
+13> 194 : -@annoyed -- 11 : -@annoyed
+14> 393 : -@annoyed
+15> 1 : 9.34@annoyed
+16> 4 : -@annoyed
+17> 1 : 9.34@annoyed
+18> 4 : -@annoyed
+19> 1 : 9.34@annoyed
+20> 3 : -@annoyed
+21> 5 : -@annoyed
+22> 2 : -@annoyed
+23> 2 : -@annoyed
+24> 3 : -@annoyed
+25> 2 : -@annoyed
+26> 1 : 9.34@annoyed
+27> 2 : -@annoyed
+28> 1 : 9.34@annoyed
+29> 1 : 9.34@annoyed
+30> 1 : 9.34@annoyed
+31> 1 : 9.34@annoyed
+32> 1 : 9.34@annoyed
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+average distortion: 0.01%
+writing annoyed.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  23 APR 2019 05:02
+**data.mp
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[1]
+[Warning: scrap outline intersects itself in scrap annoyedSP3@annoyed] [2]
+[3] [4]
+[Warning: scrap outline intersects itself in scrap annoyedSP2@annoyed] [5]
+[6] [7] [8] [9] [10] [11] [12] [13] (./mptextmp.mp) [14] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1056 strings out of 1162
+ 13235 string characters out of 20720
+ 61744 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 8i,75n,11p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 61 string compactions (moved 707986 characters, 56315 strings)
+27 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  23 APR 2019 05:02
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 66 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 263 strings out of 95617
+ 2671 string characters out of 1171098
+ 22378 words of memory out of 1509356
+ 1676 multiletter control sequences out of 15000+50000
+ 20080 words of font info for 63 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
+Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
+Output written on data.pdf (1 page, 50100 bytes).
+PDF statistics:
+ 69 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing annoyedth.3d ... done
+writing xtherion file ... done
+compilation time: 1 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.01%    1.76%  annoyedSP1@annoyed
+   0.03%    0.31%  annoyedSP3@annoyed
+   0.00%    0.01%  annoyedSP2@annoyed
+################### end of scrap distortions ###################

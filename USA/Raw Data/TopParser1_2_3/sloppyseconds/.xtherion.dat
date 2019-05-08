@@ -1,0 +1,12 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 95.00m (surface 0.00m, duplicated 0.00m)\nvertical range: 5.11m (from 1.0@sloppyseconds at 0.00m to 274.11@sloppyseconds at -5.11m)\nnorth-south range: 31.31m (from 274.10@sloppyseconds at 31.31m to 1.0@sloppyseconds at 0.00m)\neast-west range: 75.66m (from 274.14@sloppyseconds at 75.66m to 1.0@sloppyseconds at 0.00m)\nnumber of shots: 135\nnumber of stations: 136"
+xth_cp_data_tree_insert 19 1 1 sloppyseconds sloppyseconds "" "" "length: 95.00m (surface 0.00m, duplicated 0.00m)\nvertical range: 5.11m (from 1.0@sloppyseconds at 0.00m to 274.11@sloppyseconds at -5.11m)\nnorth-south range: 31.31m (from 274.10@sloppyseconds at 31.31m to 1.0@sloppyseconds at 0.00m)\neast-west range: 75.66m (from 274.14@sloppyseconds at 75.66m to 1.0@sloppyseconds at 0.00m)\nnumber of shots: 135\nnumber of stations: 136"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert map 1 42X1 p1 1 sloppysecondsM sloppysecondsM@sloppyseconds "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 95 1
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1555950886
+

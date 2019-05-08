@@ -1,0 +1,11 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -1853.47 -3240.54 11120.83 19443.21
+##XTHERION## xth_me_area_zoom_to 50
+##XTHERION## xth_me_image_insert {2832.56236313 1 1.0} {11369.480315 2.52} PocketTopo/mksuperbowl2_p.xvi 0 {}
+
+
+scrap mksuperbowl2SP1 -projection [plan] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+

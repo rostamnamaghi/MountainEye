@@ -1,0 +1,12 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 74.79m (surface 0.00m, duplicated 0.00m)\nvertical range: 1.84m (from 601.10@First-guano at 1.64m to 601.6@First-guano at -0.20m)\nnorth-south range: 35.29m (from 601.4@First-guano at 7.31m to 601.10@First-guano at -27.98m)\neast-west range: 35.84m (from 601.10@First-guano at 15.55m to 601.6@First-guano at -20.29m)\nnumber of shots: 90\nnumber of stations: 91"
+xth_cp_data_tree_insert 19 1 1 First-guano First-guano "" "" "length: 74.79m (surface 0.00m, duplicated 0.00m)\nvertical range: 1.84m (from 601.10@First-guano at 1.64m to 601.6@First-guano at -0.20m)\nnorth-south range: 35.29m (from 601.4@First-guano at 7.31m to 601.10@First-guano at -27.98m)\neast-west range: 35.84m (from 601.10@First-guano at 15.55m to 601.6@First-guano at -20.29m)\nnumber of shots: 90\nnumber of stations: 91"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert map 1 38X1 p1 1 First-guanoM First-guanoM@First-guano "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 75 1
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1555097604
+

@@ -1,0 +1,27 @@
+encoding  utf-8
+source tunnel.th
+# Change name to the main therion file
+
+
+#Surveys to output
+#-----------------
+
+export map -proj plan -layout local -o tunnel.pdf
+#Produces plan of cave, on a single sheet
+
+#export map -proj extended -layout local -o tunnelEe.pdf
+
+export model -fmt survex -o tunnelth.3d
+#Survex file showing centre line only
+
+#export model -o tunnel.lox
+#3d therion model to be viewed in the therion viewer
+
+#export map -proj plan -o tunnel_Walls.3d
+#Survex file showing walls only
+
+layout local
+debug off
+map-header 0 0 ne
+#symbol-hide group cave-centreline
+endlayout

@@ -1,0 +1,147 @@
+therion 5.4.1+82e637b (2018-09-20)
+checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
+checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+configuration file: USA/MountainEyeSplit/thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+average loop error: 0.31%
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing USA/MountainEyeSplit/export/MountaineyeDatabase.sql ... 
+processing projection plan ... done
+average distortion: 0.04%
+done
+writing USA/MountainEyeSplit/export/MountaineyeDatabase.csv ... done
+writing USA/MountainEyeSplit/export/MountaineyeCaves.html ... done
+writing USA/MountainEyeSplit/export/MountaineyeSurveys.html ... done
+writing USA/MountainEyeSplit/export/MountaineyeQuestions.html ... done
+writing USA/MountainEyeSplit/export/MountaineyeMap1.3d ... done
+writing USA/MountainEyeSplit/export/MountaineyeMap.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  10 APR 2019 21:01
+**data.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
+(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp [4001] [4002] [4003]
+[4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [4012] [4013]
+[4014] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
+[17] [18]
+[Warning: scrap outline intersects itself in scrap ME4_scrapSP2@mountaineye4.Mo
+untaineye]
+[Warning: scrap outline intersects itself in scrap ME4_scrapSP2@mountaineye4.Mo
+untaineye] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
+[Warning: scrap outline intersects itself in scrap ME3_scrapSP1@mountaineye3.Mo
+untaineye] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44]
+[45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
+[60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] (./mptextmp.mp)
+(./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
+(./mptextmp.mp) [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] )
+ 
+Here is how much of MetaPost's memory you used:
+ 76637 strings using 1690163 characters
+ 4870784 bytes of node memory
+ 1586 symbolic tokens
+ 11i,81n,16p,634b,5f stack positions out of 16i,96n,17p,760b,6f
+95 output files written: data.1 .. data.4014
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdfetex 2018.9.25)  10 APR 2019 21:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
+(./th_fontdef.tex{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdf
+tex.map})
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.692 /input th_
+                legend
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.693 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.700 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+(./th_formdef.tex) (./th_pagedef.tex
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+\eject ->\par 
+              \break 
+l.1 \eject
+          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (245.06473pt too wide) in paragraph at lines 682--1
+\THFa end-width 65 cm /leg-end-text-size=/size[42] /hsize=/legendwidth /in-put 
+th$[]\teni egend=legendbox[][][][][][][][]$ |
+
+\hbox(7.5+2.5)x569.05511, glue set - 1.0
+.\THFa e
+.\THFa n
+.\THFa d
+.\discretionary
+..\THFa -
+.\THFa w
+.etc.
+
+[1]
+! pdfTeX error (ext1): cannot find referenced object.
+\northarrow ->\pdfrefxform \THWnortharrow 
+                                          
+<inserted text> ...o 0pt{\line {\hfil \northarrow 
+                                                  }\vss }\fi \edef \tmp {\th...
+<argument> \the \legendcontent 
+                               
+\legendbox ...>\unskip \setbox \tmpboxa =\vbox {#4
+                                                  }\sx =\wd \tmpboxa \sy =\h...
+l.12 \setbox\xxx=\hbox to \x{\maplayout
+                                       \hfill}%\dp\xxx=0bp
+
+ 
+Here is how much of TeX's memory you used:
+ 338 strings out of 494645
+ 3478 string characters out of 6148133
+ 367179 words of memory out of 5000000
+ 1983 multiletter control sequences out of 15000+600000
+ 16503 words of font info for 54 fonts, out of 8000000 for 9000
+ 1416 hyphenation exceptions out of 8191
+ 8i,4n,6p,339b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
+
+##################### end of pdftex log file #####################
+/Users/Olly/Source/therion/therion: error -- pdftex exit code -- 256

@@ -1,0 +1,4 @@
+encoding  utf-8
+source LD2.th
+
+export map -projection plan -o LD2CJ+DP.pdf

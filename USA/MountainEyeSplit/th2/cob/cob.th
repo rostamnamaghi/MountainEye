@@ -23,10 +23,15 @@ centreline
 
 copyright 2018 "GNU GPL"
 
-### TRIP COMMENT FROM POCKETTOPO ###
-#
+  ### TRIP COMMENT FROM POCKETTOPO ###
 
-  date 2006.10.09
+  date 2018.04.10
+
+  team "Rostam Namaghi" notes
+  team "Paul Fairman" instruments
+  team "Clinton Elmore" dog
+
+  instrument  instruments "WCMS"
 
 data normal from to tape compass clino ignoreall
   extend right

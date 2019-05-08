@@ -1,0 +1,15 @@
+encoding utf-8
+
+layout local
+  debug off
+  map-header 0 0 off
+  # symbol-hide group cave-centreline
+endlayout
+
+source "ScallopRunAdrianAlice.th"
+
+export model -fmt survex -o "ScallopRunAdrianAlice-th.3d"
+
+# export map -proj plan -layout local -o "ScallopRunAdrianAlice-plan.pdf"
+
+# export map -proj extended -layout local -o "ScallopRunAdrianAlice-ee.pdf"

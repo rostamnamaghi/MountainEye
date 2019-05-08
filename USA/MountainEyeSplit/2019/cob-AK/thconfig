@@ -1,0 +1,15 @@
+encoding utf-8
+
+layout local
+  debug off
+  map-header 0 0 off
+  # symbol-hide group cave-centreline
+endlayout
+
+source "cob-AK.th"
+
+# export model -fmt survex -o "cob-AK-th.3d"
+
+export map -proj plan -layout local -o "cob-AK-plan.pdf"
+
+# export map -proj extended -layout local -o "cob-AK-ee.pdf"

@@ -1,0 +1,15 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 272.62m (surface 0.00m, duplicated 0.00m)\nvertical range: 9.96m (from 21.4@mousehouse4 at 2.61m to 20.37@mousehouse4 at -7.34m)\nnorth-south range: 117.27m (from 20.33@mousehouse4 at 113.64m to 20.1@mousehouse4 at -3.63m)\neast-west range: 80.61m (from 20.36@mousehouse4 at 79.32m to 21.7@mousehouse4 at -1.29m)\nnumber of shots: 312\nnumber of stations: 313"
+xth_cp_data_tree_insert 18 1 1 mousehouse4 mousehouse4 "" "" "length: 272.62m (surface 0.00m, duplicated 0.00m)\nvertical range: 9.96m (from 21.4@mousehouse4 at 2.61m to 20.37@mousehouse4 at -7.34m)\nnorth-south range: 117.27m (from 20.33@mousehouse4 at 113.64m to 20.1@mousehouse4 at -3.63m)\neast-west range: 80.61m (from 20.36@mousehouse4 at 79.32m to 21.7@mousehouse4 at -1.29m)\nnumber of shots: 312\nnumber of stations: 313"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert projection 0 p2 {} 0 none {} {} {}
+xth_cp_map_tree_insert projection 0 p3 {} 0 extended {} {} {}
+xth_cp_map_tree_insert map 1 86X1 p1 1 mousehouse4M mousehouse4M@mousehouse4 "" ""
+xth_cp_map_tree_insert map 1 87X1 p3 1 mousehouse4ME mousehouse4ME@mousehouse4 "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 273 4
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1556240301
+

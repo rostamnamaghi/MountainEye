@@ -11,6 +11,57 @@ survey Mountaineye
   input th2/MountainEye23/mountaineye23.th
   input th2/cob/cob.th
   input th2/connection/connection.th
+  input 2019/cob-AK/cob-AK.th
+  input 2019/cob-series-6-continued-ak/cob-series-6-continued-ak.th
+  input 2019/cob-vadose-canyon-ak/cob-vadose-canyon-ak.th
+  input 2019/cob-65-crawl/cob-65-crawl.th
+  input 2019/cob-passage-off-salt-peter/cob-passage-off-salt-peter.th
+  input 2019/First-guano/First-guano.th
+  input 2019/biggar/biggar.th
+  input 2019/downsup/downsup.th
+  input 2019/endofem/endofem.th
+  input 2019/tunnel/tunnel.th
+  input 2019/bl256/bl256.th
+  input 2019/downstream/Downstream_compile.th
+  input 2019/mksuperbowl2/mksuperbowl2.th
+  input 2019/drywank/drywank
+  input 2019/kessel/Empire-kessel-run.th
+  input 2019/kessel2/Empire-kessel-run-2
+  input 2019/mousehouse/mousehouse.th
+  input 2019/mousehouse2/mousehouse2.th
+  input 2019/mountain-eye-lower-canyon/mountain-eye-lower-canyon.th
+  input 2019/New-Maze-Ways/Stream-large-south.th
+  input 2019/mousehouse3/mousehouse3.th
+  input 2019/mousehouse4/mousehouse4.th
+  input 2019/mousehouse5/mousehouse5.th
+  input 2019/mousehouse6/mousehouse6.th
+  input 2019/mousehouse7/mousehouse7.th
+  input 2019/LD1/LD1.th
+  input 2019/LD2/LD2.th
+  input 2019/shinlet/shinlet.th
+  input 2019/sloppyseconds/sloppyseconds.th
+  input 2019/dwarffortress/dwarffortress.th
+  input 2019/belhaver/belhaver.th
+  input 2019/cba/cba.th
+  input 2019/Mission-from-god/mission_from_god.th
+  input 2019/praise-the-lord/praise_the_lord.th
+  input 2019/Omen-dog/Omen-dog.th
+  input 2019/Omen-dog-nw/Omen-dog-nw.th
+  input 2019/Omen-dog-west/Omen-dog-west.th
+  input 2019/annoyed/annoyed.th
+  input 2019/hyperborean-bore-north/hyperborean-bore-north.th
+  input 2019/picnic-table-bypass/picnic-table-bypass.th
+  input 2019/3012-continuation/3012-continuation.th
+  input 2019/3016-continuation/3016-continuation.th
+  input 2019/3016-continuation-2/3016-continuation-2.th
+  input 2019/3016-continuation-3/3016-continuation-3.th
+  input 2019/BoulderChokeAdrianAlice/BoulderChokeAdrianAlice.th
+  input 2019/EoEAdrianAlice/EoEAdrianAlice.th
+  input 2019/ScallopRunAdrianAlice/ScallopRunAdrianAlice.th
+  input 2019/934LHS/934LHS.th
+  input 2019/hyperborium_cave_north_from_main_bh/hyperborium_cave_north_from_main_bh_complete.th
+  input 2019/MBEE/MBE_extension.th
+  input 2019/ld3/ld3.th
   
 map Mountaineye -projection plan
   mountaineye1
@@ -24,13 +75,80 @@ map Mountaineye -projection plan
   mountaineye23
   cob
   connection
+  cob-AK
+  cob-series-6-continued-ak
+  cob-vadose-canyon-ak
+  cob-65-crawl
+  First-guano
+  biggar
+  downsup
+  endofem
+  tunnel
+  bl256
+  mksuperbowl2
+  Downstream_Compile
+  drywank
+  Empire-kessel-run
+  Empire-kessel-run-2
+  mousehouse
+  mountain-eye-lower-canyon
+  mousehouse2
+  Stream-large-south
+  mousehouse3
+  mousehouse4
+  mousehouse5
+  mousehouse6
+  mousehouse7
+  LD1
+  LD2
+  Shinlet
+  sloppyseconds
+  dwarffortress
+  belhaver
+  cba
+  Mission_From_God
+  praise_the_lord
+  Omen-dog
+  Omen-dog-nw
+  Omen-dog-west
+  annoyed
+  hyperborean-bore-north
+  picnic-table-bypass
+  3012-continuation
+  3016-continuation
+  3016-continuation-3
+  3016-continuation-2
+  BoulderChokeAdrianAlice
+  EoEAdrianAlice
+  ScallopRunAdrianAlice
+  934LHS
+  hyperborium_cave_north_from_main_bh_complete
+  MBE_extension
+	ld3
 endmap
 
 join ME2_scrapSP1@mountaineye2 ME5_scrapSP1@mountaineye5
 join ME1_scrapSP1@mountaineye1 ME2_scrapSP1@mountaineye2
 
 
+join wall-join-1@mountaineye4:end wall-join-1@mountain-eye-lower-canyon:end
+join wall-join-2@mountaineye4:0 wall-join-2@mountain-eye-lower-canyon:0
+
+join wall-join-1@connection:0 wall-join-1@endofem:end
+join wall-join-2@connection:end wall-join-2@endofem:0
+
+join wall-join-3@connection wall-join-3@biggar
+join wall-join-4@connection wall-join-4@biggar
+
 centerline
+  cs lat-long
+
+  station 6.0@cob "Cobb Creek Balcony Entrance" entrance
+  fix 6.0@cob 36:17:30.4 -085:00:42.1 283
+
+  station 1.0@mousehouse "Hyperborean Entrance" entrance
+  fix 1.0@mousehouse 36:17:37.0 -085:00:40.0 229
+
   equate 6.12@connection 6.12@cob
   equate 3.110@connection 3.110@mountaineye4
   equate 3.10@mountaineye4 3.10@mountaineye3
@@ -38,9 +156,66 @@ centerline
   equate 1.42@mountaineye2 1.42@mountaineye1
   equate 1.58@mountaineye5 1.58@mountaineye2 
   equate 105.0@mountaineye20 1.8@mountaineye1
-  equate 205.1@mountaineye21 205.0@mountaineye3
+  equate 205.1@mountaineye21 205.1@mountaineye3
   equate 204.0@mountaineye22 204.2@mountaineye3
-  equate 203.2@mountaineye23 203.1@mountaineye3    
+  equate 203.2@mountaineye23 203.1@mountaineye3
+  equate 6.17@cob 602.0@cob-AK
+  equate 6.21@cob 602.7@cob-AK
+  equate 6.51@cob 6.51@cob-series-6-continued-ak
+  equate 6.8@cob 6.8@cob-vadose-canyon-ak
+  equate 6.5@cob 6.5@cob-65-crawl
+  equate 6.15@cob 6.15@cob-passage-off-salt-peter
+  equate 601.2@cob 601.2@First-guano
+  equate 8.6@connection 8.6@biggar
+  equate 8.2@connection 8.2@downsup
+  equate 8.7@connection 8.7@endofem
+  equate 8.7@connection 8.7@tunnel
+  equate 9.35@tunnel 9.35@biggar
+  equate 2.56@mountaineye2 2.56@bl256
+  equate 2.52@mountaineye2 2.52@mksuperbowl2
+  equate 1.118@mountaineye5 1.118@Downstream_Compile
+  equate 3.24@mountaineye4 3.24@drywank
+  equate 9.904@biggar 9.904@Empire-kessel-run
+  equate 904.32@Empire-kessel-run 904.32@Empire-kessel-run-2
+  equate 1.118@mountaineye5 1.118@Downstream_Compile
+  equate 3.100@mountaineye4 3100.0@mountain-eye-lower-canyon
+  equate 2.22@mousehouse 2.22@mousehouse2
+  equate 3.69@mountaineye4 69@Stream-large-south
+  equate 7.62@mousehouse2 7.62@mousehouse3
+  equate 105.7@mountaineye20 0@LD1
+  equate 1.13@mountaineye1 0@LD2
+  equate 2.3@mountaineye2 200.1@Shinlet
+  equate 2.73@mountaineye3 274.0@sloppyseconds
+  equate 2.79@mountaineye3 279.0@dwarffortress
+  equate 2.90@mountaineye3 290.0@belhaver
+  equate 2.97@mountaineye3 297.0@cba
+  equate 2.62@mountaineye2 11@Mission_From_God
+  equate 2.62@mountaineye2 26@praise_the_lord
+  equate 301.2.22@Omen-dog 301.2.22@Stream-large-south
+  equate 301.2.22@Stream-large-south 301.2.22@Omen-dog-nw
+  equate 301.2.22@Omen-dog-west 301.2.22@Stream-large-south
+  equate 9.34@annoyed 9.34@biggar 9.34@934LHS
+  equate 10.1@mousehouse3 10.1@hyperborean-bore-north
+  equate 2.50@mountaineye2 1@picnic-table-bypass
+  equate 2.52@mountaineye2 7@picnic-table-bypass
+  equate 301.2@mountaineye4 1@3012-continuation
+  equate 301.1@mountaineye4 6@3012-continuation
+  equate 301.6@mountaineye4 301.6@3016-continuation
+  equate 1@3016-continuation-2 301.20@3016-continuation
+  equate 2@3016-continuation-2 1@3016-continuation-3
+  equate 301.6@mountaineye4 5@3016-continuation-3
+  equate 934.6@annoyed 934.6@BoulderChokeAdrianAlice
+  equate 9.9@biggar 910.0@EoEAdrianAlice
+  equate 934.34@annoyed 934.34@ScallopRunAdrianAlice
+  equate 8.8@mousehouse3 8.8@mousehouse4
+  equate 21.1@mousehouse4 21.1@mousehouse5
+  equate 20.37@mousehouse4 20.37@mousehouse6
+  equate 6.7@mousehouse2 6.7@mousehouse7
+  equate 100.1@hyperborean-bore-north 0@hyperborium_cave_north_from_main_bh_complete
+  equate 7.67@mousehouse2 44@hyperborium_cave_north_from_main_bh_complete
+  equate 23.4@mousehouse5 32@hyperborium_cave_north_from_main_bh_complete
+  equate 9.23@biggar 0@MBE_extension
+	equate 107.8@ld3 107.8@Downstream_Compile
 endcenterline
    
 endsurvey

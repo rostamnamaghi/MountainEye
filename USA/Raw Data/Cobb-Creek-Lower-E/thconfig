@@ -1,0 +1,15 @@
+encoding utf-8
+
+layout local
+  debug off
+  map-header 0 0 off
+  # symbol-hide group cave-centreline
+endlayout
+
+source "Cobb-Creek-Lower-E.th"
+
+export model -fmt survex -o "Cobb-Creek-Lower-E-th.3d"
+
+# export map -proj plan -layout local -o "Cobb-Creek-Lower-E-plan.pdf"
+
+# export map -proj extended -layout local -o "Cobb-Creek-Lower-E-ee.pdf"

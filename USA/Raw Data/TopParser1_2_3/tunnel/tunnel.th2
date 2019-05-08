@@ -1,0 +1,56 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -7211.54 -4809.13 43269.24 28854.8
+##XTHERION## xth_me_area_zoom_to 50
+##XTHERION## xth_me_image_insert {6616.08481253 1 1.0} {17307.6377953 8.7} PocketTopo/tunnel_p.xvi 0 {}
+
+
+scrap tunnelSP1 -projection [plan] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
+scrap tunnelSPX803.33 -projection [none] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
+scrap tunnelSPX803.32 -projection [none] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
+scrap tunnelSPX803.24 -projection [none] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
+scrap tunnelSPX803.20 -projection [none] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
+scrap tunnelSPX803.22 -projection [none] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
+scrap tunnelSPX803.12 -projection [none] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
+scrap tunnelSPX803.4 -projection [none] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
+scrap tunnelSPX803.1 -projection [none] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
+scrap tunnelSPX802.1 -projection [none] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+

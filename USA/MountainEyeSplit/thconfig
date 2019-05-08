@@ -17,33 +17,33 @@ source MountainEye.th
   select connection@Mountaineye
 
 # Exports Independant of Layout
-  export database                       -o export\MountaineyeDatabase.sql
-  export database                       -o export\MountaineyeDatabase.csv
-  export cave-list -location on         -o export\MountaineyeCaves.html
-  export survey-list                    -o export\MountaineyeSurveys.html
-  export continuation-list -filter off  -o export\MountaineyeQuestions.html
-  #export continuation-list -filter off -o export\MountaineyeQuestions.txt
-  #export continuation-list -filter off -o export\MountaineyeQuestions.dbf
-  #export continuation-list -filter off -o export\MountaineyeQuestions.kml
-  #export model                         -o export\MountaineyeModel.lox
-  #export model -format compass         -o export\MountaineyeModel.plt
-  #export model -format survex          -o export\MountaineyeModel.3d
-  #export model -format kml             -o export\MountaineyeModel.kml
-  #export map -format kml               -o export\MountaineyeMap1.kml
-  #export map -format xvi               -o export\MountaineyeMap1.xvi # scale 100 DPI and grid 1 meter.
-  export map -format survex             -o export\MountaineyeMap1.3d
+  export database                       -o export/MountaineyeDatabase.sql
+  export database                       -o export/MountaineyeDatabase.csv
+  export cave-list -location on         -o export/MountaineyeCaves.html
+  export survey-list                    -o export/MountaineyeSurveys.html
+  export continuation-list -filter off  -o export/MountaineyeQuestions.html
+  #export continuation-list -filter off -o export/MountaineyeQuestions.txt
+  #export continuation-list -filter off -o export/MountaineyeQuestions.dbf
+  #export continuation-list -filter off -o export/MountaineyeQuestions.kml
+  #export model                         -o export/MountaineyeModel.lox
+  #export model -format compass         -o export/MountaineyeModel.plt
+  #export model -format survex          -o export/MountaineyeModel.3d
+  #export model -format kml             -o export/MountaineyeModel.kml
+  #export map -format kml               -o export/MountaineyeMap1.kml
+  #export map -format xvi               -o export/MountaineyeMap1.xvi # scale 100 DPI and grid 1 meter.
+  export map -format survex             -o export/MountaineyeMap1.3d
   
 # Exports Independant of Layout
   # Survey based on LAYOUT:
-  export map                    -o export\MountaineyeMap.pdf -layout Layout
+  export map                    -o export/MountaineyeMap.pdf -layout Layout
 
   # Survey based on DEBUG-Survey layout:
-  #export map                    -o export\MountaineyeDebug.pdf -layout Debug
+  #export map                    -o export/MountaineyeDebug.pdf -layout Debug
 
 #inject standard code for layouts
-  input ..\..\CodeLibrary\_layouts.mp        # custom Metapost
-  input ..\..\CodeLibrary\_layouts.tex       # custom tex
-  input ..\..\CodeLibrary\_layouts.thc       # custom layouts 
+  input ../../CodeLibrary/_layouts.mp        # custom Metapost
+  input ../../CodeLibrary/_layouts.tex       # custom tex
+  input ../../CodeLibrary/_layouts.thc       # custom layouts 
 
 # LAYOUT
 layout Layout
@@ -131,23 +131,23 @@ layout Layout
 ################################################################# 
   
   code tex-map
-  \cavename={Mountain Eye - 2017}
-  \def\maplayout{
-    \legendbox{05}{97}{NW}{
-      \legendwidth 60 cm
-      \the\legendcontent
+  /cavename={Mountain Eye - 2017}
+  /def/maplayout{
+    /legendbox{05}{97}{NW}{
+      /legendwidth 60 cm
+      /the/legendcontent
       }
-    \legendbox{05}{83}{NW}{
-      \legendwidth 65 cm
-      \legendtextsize={\size[42]}
-      \hsize=\legendwidth
-      \input th_legend
+    /legendbox{05}{83}{NW}{
+      /legendwidth 65 cm
+      /legendtextsize={/size[42]}
+      /hsize=/legendwidth
+      /input th_legend
       }
-    \legendbox{05}{35}{NW}{
-      \legendwidth 65 cm
-      \legendtextsize={\size[42]}
-      \hsize=\legendwidth
-      \input th_legendcolor
+    /legendbox{05}{35}{NW}{
+      /legendwidth 65 cm
+      /legendtextsize={/size[42]}
+      /hsize=/legendwidth
+      /input th_legendcolor
       }
   }
 

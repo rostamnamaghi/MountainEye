@@ -1,0 +1,11 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -340.02 -128.46 2040.13 770.75
+##XTHERION## xth_me_area_zoom_to 50
+##XTHERION## xth_me_image_insert {170.011109711 1 1.0} {706.51641755 6.7} PocketTopo/mousehouse7_e.xvi 0 {}
+
+
+scrap mousehouse7SE1 -projection [extended] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+

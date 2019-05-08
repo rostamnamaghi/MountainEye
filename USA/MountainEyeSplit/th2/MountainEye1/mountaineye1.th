@@ -16,7 +16,15 @@ centreline
 endcentreline
 
 centerline
-  date 2018.05.22
+  ### TRIP COMMENT FROM POCKETTOPO ###
+
+  date 2018.04.10
+
+  team "Rostam Namaghi" notes
+  team "Paul Fairman" instruments
+  team "Clinton Elmore" dog
+
+  instrument  instruments "WCMS"
   data normal from to tape compass clino ignoreall
   extend right
 1.0  -  3.28  168.0  -1.03  

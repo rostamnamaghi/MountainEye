@@ -10,15 +10,15 @@ searching for centerline loops ... done
 calculating station coordinates ... done
 processing survey data ... 
 ####################### cavern log file ########################
- 1> Survex 1.2.34
- 2> Copyright ¸ 1990-2017 Olly Betts
- 3> Survey has no control points. Therefore I've fixed 1 at (0,0,0)
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
  4> 
- 5> Survey contains 61 survey stations, joined by 60 shots.
+ 5> Survey contains 61 survey stations, joined by 60 legs.
  6> There are 0 loops.
- 7> Total length of survey shots = 1222.70m (1222.70m adjusted)
- 8> Total plan length of survey shots = 1219.47m
- 9> Total vertical length of survey shots =   56.10m
+ 7> Total length of survey legs = 1222.70m (1222.70m adjusted)
+ 8> Total plan length of survey legs = 1219.47m
+ 9> Total vertical length of survey legs =   56.10m
 10> Vertical range = 11.59m (from 29 at 9.77m to 2 at -1.82m)
 11> North-South range = 980.14m (from 1 at 0.00m to 61 at -980.14m)
 12> East-West range = 400.03m (from 1 at 0.00m to 61 at -400.03m)
@@ -43,7 +43,7 @@ processing projection plan ... done
 average distortion: 0.07%
 writing mountaineye_th5.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  11 NOV 2018 14:38
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  22 APR 2019 23:49
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
@@ -64,7 +64,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  11 NOV 2018 14:38
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  22 APR 2019 23:49
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -85,14 +85,14 @@ Overfull \hbox (171.79181pt too wide) detected at line 12
 Here is how much of TeX's memory you used:
  263 strings out of 95617
  2654 string characters out of 1171098
- 3193874 words of memory out of 3500000
+ 3194909 words of memory out of 3500000
  1676 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 907403 bytes).
+Output written on data.pdf (1 page, 910954 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -102,7 +102,7 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing xtherion file ... done
-compilation time: 8 sec
+compilation time: 7 sec
 
 
 ###################### scrap distortions #######################

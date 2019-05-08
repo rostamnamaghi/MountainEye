@@ -1,0 +1,15 @@
+encoding utf-8
+
+layout local
+  debug off
+  map-header 0 0 off
+  # symbol-hide group cave-centreline
+endlayout
+
+source "Omen-dog-nw.th"
+
+export model -fmt survex -o "Omen-dog-nw-th.3d"
+
+# export map -proj plan -layout local -o "Omen-dog-nw-plan.pdf"
+
+# export map -proj extended -layout local -o "Omen-dog-nw-ee.pdf"

@@ -1,0 +1,7 @@
+therion 5.4.3 (2019-02-01)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ...
+C:\Program Files (x86)\Therion\therion.exe: error -- thconfig [2] -- one file name expected
+writing xtherion file ... done

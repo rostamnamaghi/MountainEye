@@ -9,7 +9,17 @@ map mountaineye5 -title "Mountain eye cave part 5"
 endmap
 
 centerline
-  date 2006.10.09
+    ### TRIP COMMENT FROM POCKETTOPO ###
+
+  date 2018.04.10
+
+  team "Rostam Namaghi" notes
+  team "Paul Fairman" instruments
+  team "Clinton Elmore" dog
+  team "Jason Lavender" dog
+  team "Alfred Crabtree" dog
+
+  instrument  instruments "WCMS"
   data normal from to compass clino tape
   extend right
   1.58 1.59 221.54 -5.67 18.456

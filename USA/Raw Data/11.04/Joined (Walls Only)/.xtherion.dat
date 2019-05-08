@@ -1,0 +1,12 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 1132.52m (surface 0.00m, duplicated 0.00m)\nvertical range: 18.00m (from 110.05@Downstream_Compile at 8.97m to 111.16@Downstream_Compile at -9.03m)\nnorth-south range: 597.43m (from 1.118a@Downstream_Compile at 0.00m to 108.25@Downstream_Compile at -597.43m)\neast-west range: 167.80m (from 108.25@Downstream_Compile at 151.02m to 1.123@Downstream_Compile at -16.78m)\nnumber of shots: 798\nnumber of stations: 799"
+xth_cp_data_tree_insert 10 1 1 Downstream_Compile Downstream_Compile "" "" "length: 1132.52m (surface 0.00m, duplicated 0.00m)\nvertical range: 18.00m (from 110.05@Downstream_Compile at 8.97m to 111.16@Downstream_Compile at -9.03m)\nnorth-south range: 597.43m (from 1.118a@Downstream_Compile at 0.00m to 108.25@Downstream_Compile at -597.43m)\neast-west range: 167.80m (from 108.25@Downstream_Compile at 151.02m to 1.123@Downstream_Compile at -16.78m)\nnumber of shots: 798\nnumber of stations: 799"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert projection 0 p2 {} 0 extended {} {} {}
+xth_cp_map_tree_create
+xth_cp_comp_stat 1133 6
+set xth(th_exit_state) 1
+set xth(th_exit_number) 1555041425
+

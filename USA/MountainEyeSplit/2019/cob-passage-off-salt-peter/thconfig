@@ -1,0 +1,15 @@
+encoding utf-8
+
+layout local
+  debug off
+  map-header 0 0 off
+  # symbol-hide group cave-centreline
+endlayout
+
+source "cob-passage-off-salt-peter.th"
+
+export model -fmt survex -o "cob-passage-off-salt-peter-th.3d"
+
+# export map -proj plan -layout local -o "cob-passage-off-salt-peter-plan.pdf"
+
+# export map -proj extended -layout local -o "cob-passage-off-salt-peter-ee.pdf"

@@ -1,0 +1,134 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+average loop error: 0.81%
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 250 survey stations, joined by 250 legs.
+ 6> There is 1 loop.
+ 7> Total length of survey legs = 1117.29m (1117.31m adjusted)
+ 8> Total plan length of survey legs = 1078.67m
+ 9> Total vertical length of survey legs =  151.54m
+10> Vertical range = 6.75m (from 25 at 5.48m to 9 at -1.28m)
+11> North-South range = 74.51m (from 90 at 67.49m to 245 at -7.02m)
+12> East-West range = 158.74m (from 11 at 14.47m to 245 at -144.28m)
+13>  210 1-nodes.
+14>    4 2-nodes.
+15>    3 4-nodes.
+16>    9 5-nodes.
+17>    3 6-nodes.
+18>    6 7-nodes.
+19>    3 8-nodes.
+20>    3 9-nodes.
+21>    1 10-node.
+22>    1 11-node.
+23>    3 12-nodes.
+24>    1 13-node.
+25>    2 14-nodes.
+26>    1 16-node.
+27> 
+######################### transcription ########################
+ 3> 1 : 2.56@bl256
+ 5> 250 : 40@bl256 -- 250 : 40@bl256
+ 6> 1 : 2.56@bl256
+10> 25 : -@bl256 -- 9 : -@bl256
+11> 90 : -@bl256 -- 245 : -@bl256
+12> 11 : -@bl256 -- 245 : -@bl256
+13> 210 : -@bl256
+14> 4 : -@bl256
+15> 3 : 1@bl256
+16> 9 : -@bl256
+17> 3 : 1@bl256
+18> 6 : -@bl256
+19> 3 : 1@bl256
+20> 3 : 1@bl256
+21> 1 : 2.56@bl256
+22> 1 : 2.56@bl256
+23> 3 : 1@bl256
+24> 1 : 2.56@bl256
+25> 2 : -@bl256
+26> 1 : 2.56@bl256
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+average distortion: 0.00%
+writing bl256.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  12 APR 2019 23:50
+**data.mp
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[Warning: scrap outline intersects itself in scrap bl256SP1@bl256] [1] [2]
+[3] (./mptextmp.mp) [4] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1040 strings out of 1162
+ 13224 string characters out of 20720
+ 61756 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 8i,75n,11p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 38 string compactions (moved 406522 characters, 32441 strings)
+17 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  12 APR 2019 23:50
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 52 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 247 strings out of 95617
+ 2514 string characters out of 1171098
+ 22546 words of memory out of 1509524
+ 1662 multiletter control sequences out of 15000+50000
+ 17652 words of font info for 57 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 8i,5n,8p,238b,45s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb>
+Output written on data.pdf (1 page, 19362 bytes).
+PDF statistics:
+ 33 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing bl256th.3d ... done
+writing xtherion file ... done
+compilation time: 2 sec
+
+
+######################### loop errors ##########################
+REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
+  0.81%    0.5m   57.2m  14    0.1m    0.4m    0.2m [5@bl256 - 20 - 19 - 18 - 17 - 16 - 15 - 12 - 11 - 10 - 9 - 8 - 7 - 6 - 5]
+##################### end of loop errors #######################
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.00%    0.01%  bl256SP1@bl256
+################### end of scrap distortions ###################

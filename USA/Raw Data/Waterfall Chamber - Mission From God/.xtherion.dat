@@ -1,0 +1,11 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 117.98m (surface 0.00m, duplicated 0.00m)\nvertical range: 23.48m (from 1@Mission_From_God at 0.07m to 10@Mission_From_God at -23.41m)\nnorth-south range: 38.98m (from 2@Mission_From_God at 3.83m to 16@Mission_From_God at -35.15m)\neast-west range: 29.73m (from 0@Mission_From_God at 0.00m to 10@Mission_From_God at -29.73m)\nnumber of shots: 105\nnumber of stations: 106"
+xth_cp_data_tree_insert 17 1 1 Mission_From_God Mission_From_God "Mission\_From\_God.th" "Mission\_From\_God.th" "length: 117.98m (surface 0.00m, duplicated 0.00m)\nvertical range: 23.48m (from 1@Mission_From_God at 0.07m to 10@Mission_From_God at -23.41m)\nnorth-south range: 38.98m (from 2@Mission_From_God at 3.83m to 16@Mission_From_God at -35.15m)\neast-west range: 29.73m (from 0@Mission_From_God at 0.00m to 10@Mission_From_God at -29.73m)\nnumber of shots: 105\nnumber of stations: 106"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_create
+xth_cp_comp_stat 118 2
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1555909925
+

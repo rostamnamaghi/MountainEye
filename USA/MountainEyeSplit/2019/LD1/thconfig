@@ -1,0 +1,4 @@
+encoding  utf-8
+source LD1.th
+
+export map -projection plan -o LD1.pdf

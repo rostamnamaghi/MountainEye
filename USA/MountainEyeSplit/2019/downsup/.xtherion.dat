@@ -1,0 +1,12 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 193.68m (surface 0.00m, duplicated 0.00m)\nvertical range: 5.03m (from 10.1@downsup at 0.71m to 10.8@downsup at -4.32m)\nnorth-south range: 140.96m (from 10.20@downsup at 140.96m to 8.2@downsup at 0.00m)\neast-west range: 82.08m (from 10.20@downsup at 73.36m to 10.4@downsup at -8.72m)\nnumber of shots: 120\nnumber of stations: 121"
+xth_cp_data_tree_insert 19 1 1 downsup downsup "" "" "length: 193.68m (surface 0.00m, duplicated 0.00m)\nvertical range: 5.03m (from 10.1@downsup at 0.71m to 10.8@downsup at -4.32m)\nnorth-south range: 140.96m (from 10.20@downsup at 140.96m to 8.2@downsup at 0.00m)\neast-west range: 82.08m (from 10.20@downsup at 73.36m to 10.4@downsup at -8.72m)\nnumber of shots: 120\nnumber of stations: 121"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert map 1 48X1 p1 1 downsupM downsupM@downsup "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 194 1
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1555975127
+

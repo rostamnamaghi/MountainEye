@@ -12,7 +12,15 @@ map connection
 endmap
 
 centreline
-  date 2006.10.09
+    ### TRIP COMMENT FROM POCKETTOPO ###
+
+  date 2018.04.10
+
+  team "Rostam Namaghi" notes
+  team "Jason Lavender" instruments
+  team "Clinton Elmore" dog
+
+  instrument  instruments "WCMS"
   data normal from to tape compass clino ignoreall
   extend right
 6.12  -  0.0  0.0  0.0  
