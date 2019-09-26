@@ -1,0 +1,11 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -2130.2 -4074.64 12781.18 24447.87
+##XTHERION## xth_me_area_zoom_to 50
+##XTHERION## xth_me_image_insert {1700.72292677 1 1.0} {2329.83594568 520.0} PocketTopo/milly1_p.xvi 0 {}
+
+
+scrap milly1SP1 -projection [plan] -scale [0 0 787.4 787.4  0 0 10 10 m]
+
+endscrap
+
+
