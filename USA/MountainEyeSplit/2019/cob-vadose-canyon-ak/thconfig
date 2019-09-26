@@ -1,4 +1,4 @@
-encoding utf-8
+encoding  utf-8
 
 layout local
   debug off
@@ -10,6 +10,6 @@ source "cob-vadose-canyon-ak.th"
 
 export model -fmt survex -o "cob-vadose-canyon-ak-th.3d"
 
-# export map -proj plan -layout local -o "cob-vadose-canyon-ak-plan.pdf"
+export map -proj plan -layout local -o "cob-vadose-canyon-ak-plan.pdf"
 
 # export map -proj extended -layout local -o "cob-vadose-canyon-ak-ee.pdf"

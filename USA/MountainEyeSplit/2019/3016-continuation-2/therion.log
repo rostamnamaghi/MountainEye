@@ -1,0 +1,107 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 55 survey stations, joined by 54 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs =  112.91m ( 112.91m adjusted)
+ 8> Total plan length of survey legs =  109.05m
+ 9> Total vertical length of survey legs =   18.75m
+10> Vertical range = 3.29m (from 49 at 1.29m to 15 at -2.01m)
+11> North-South range = 16.95m (from 7 at 4.76m to 48 at -12.19m)
+12> East-West range = 16.27m (from 1 at 0.00m to 52 at -16.27m)
+13>   49 1-nodes.
+14>    1 6-node.
+15>    2 9-nodes.
+16>    1 11-node.
+17>    2 12-nodes.
+18> 
+######################### transcription ########################
+ 3> 1 : 1@3016-continuation-2
+ 5> 55 : -@3016-continuation-2 -- 54 : -@3016-continuation-2
+10> 49 : -@3016-continuation-2 -- 15 : -@3016-continuation-2
+11> 7 : -@3016-continuation-2 -- 48 : -@3016-continuation-2
+12> 1 : 1@3016-continuation-2 -- 52 : -@3016-continuation-2
+13> 49 : -@3016-continuation-2
+14> 1 : 1@3016-continuation-2
+15> 2 : 2@3016-continuation-2
+16> 1 : 1@3016-continuation-2
+17> 2 : 2@3016-continuation-2
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing 3016-continuation-2-th.3d ... done
+processing projection plan ... done
+average distortion: 0.08%
+writing 3016-continuation-2-plan.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  24 SEP 2019 12:49
+**data.mp
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[1] [2] [3] [4] (./mptextmp.mp) [5] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1050 strings out of 1162
+ 13322 string characters out of 20720
+ 60163 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 22 string compactions (moved 197929 characters, 16121 strings)
+18 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  24 SEP 2019 12:49
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 53 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 248 strings out of 95617
+ 2524 string characters out of 1171098
+ 43378 words of memory out of 1527356
+ 1663 multiletter control sequences out of 15000+50000
+ 16503 words of font info for 54 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 6i,5n,6p,238b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb>
+Output written on data.pdf (1 page, 23753 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing xtherion file ... done
+compilation time: 1 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.08%    0.50%  3016-continuation-2-SP1@3016-continuation-2
+################### end of scrap distortions ###################

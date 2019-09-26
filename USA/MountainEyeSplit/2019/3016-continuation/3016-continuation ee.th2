@@ -1,5 +1,6 @@
-encoding utf-8
-
+encoding  utf-8
 ##XTHERION## xth_me_area_adjust -1007.63 -332.28 6045.80 1993.69
-##XTHERION## zoom_to 50
-##XTHERION## xth_me_image_insert {1912.9736215148334 1 1.0} {799.7149147270112 301.6} "3016-continuation ee.xvi" 0 {}
+##XTHERION## xth_me_area_zoom_to 48
+##XTHERION## xth_me_image_insert {1912.9736215148334 1 1.0} {799.7149147270112 301.6} {3016-continuation ee.xvi} 0 {}
+
+

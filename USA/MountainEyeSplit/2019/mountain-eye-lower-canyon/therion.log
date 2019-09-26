@@ -1,6 +1,6 @@
-therion 5.4.1+82e637b (2018-09-20)
-checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
-checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
 configuration file: thconfig
 reading ... done
 reading source files ... done
@@ -8,71 +8,132 @@ preprocessing database ... done
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 478 survey stations, joined by 477 legs.
+ 6> There is 1 loop.
+ 7> Survey has 2 connected components.
+ 8> Total length of survey legs = 2880.85m (2880.85m adjusted)
+ 9> Total plan length of survey legs = 2665.70m
+10> Total vertical length of survey legs =  677.28m
+11> Vertical range = 18.23m (from 91 at 14.46m to 473 at -3.77m)
+12> North-South range = 183.34m (from 475 at 180.08m to 3 at -3.26m)
+13> East-West range = 264.37m (from 478 at 263.79m to 4 at -0.58m)
+14>  444 1-nodes.
+15>    6 6-nodes.
+16>    1 7-node.
+17>    1 8-node.
+18>    2 9-nodes.
+19>    1 11-node.
+20>    1 12-node.
+21>    3 13-nodes.
+22>    4 14-nodes.
+23>    1 15-node.
+24>    1 16-node.
+25>    2 18-nodes.
+26>    3 19-nodes.
+27>    1 21-node.
+28>    1 22-node.
+29>    1 23-node.
+30>    1 25-node.
+31>    1 26-node.
+32>    2 27-nodes.
+33>    1 28-node.
+34> 
+######################### transcription ########################
+ 3> 1 : 3100.0@mountain-eye-lower-canyon
+ 5> 478 : -@mountain-eye-lower-canyon -- 477 : -@mountain-eye-lower-canyon
+ 6> 1 : 3100.0@mountain-eye-lower-canyon
+ 7> 2 : -@mountain-eye-lower-canyon
+11> 91 : -@mountain-eye-lower-canyon -- 473 : -@mountain-eye-lower-canyon
+12> 475 : -@mountain-eye-lower-canyon -- 3 : -@mountain-eye-lower-canyon
+13> 478 : -@mountain-eye-lower-canyon -- 4 : -@mountain-eye-lower-canyon
+14> 444 : -@mountain-eye-lower-canyon
+15> 6 : -@mountain-eye-lower-canyon
+16> 1 : 3100.0@mountain-eye-lower-canyon
+17> 1 : 3100.0@mountain-eye-lower-canyon
+18> 2 : -@mountain-eye-lower-canyon
+19> 1 : 3100.0@mountain-eye-lower-canyon
+20> 1 : 3100.0@mountain-eye-lower-canyon
+21> 3 : -@mountain-eye-lower-canyon
+22> 4 : -@mountain-eye-lower-canyon
+23> 1 : 3100.0@mountain-eye-lower-canyon
+24> 1 : 3100.0@mountain-eye-lower-canyon
+25> 2 : -@mountain-eye-lower-canyon
+26> 3 : -@mountain-eye-lower-canyon
+27> 1 : 3100.0@mountain-eye-lower-canyon
+28> 1 : 3100.0@mountain-eye-lower-canyon
+29> 1 : 3100.0@mountain-eye-lower-canyon
+30> 1 : 3100.0@mountain-eye-lower-canyon
+31> 1 : 3100.0@mountain-eye-lower-canyon
+32> 2 : -@mountain-eye-lower-canyon
+33> 1 : 3100.0@mountain-eye-lower-canyon
+#################### end of cavern log file ####################
+done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 0.00%
+average distortion: 0.01%
 writing mountain-eye-lower-canyon-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  15 APR 2019 21:56
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 00:09
 **data.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
-Preloading the plain mem file, version 1.005) ) (./data.mp [4001] [4002] [4003]
-[4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [4012] [4013]
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
 [1] [2] [3] [4] (./mptextmp.mp) [5] )
  
 Here is how much of MetaPost's memory you used:
- 4020 strings using 93260 characters
- 2919992 bytes of node memory
- 1422 symbolic tokens
- 8i,81n,11p,202b,4f stack positions out of 16i,96n,12p,250b,6f
+ 1086 strings out of 1162
+ 13399 string characters out of 20720
+ 439993 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 37 string compactions (moved 391576 characters, 31311 strings)
 18 output files written: data.1 .. data.4013
-
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdfetex 2018.9.25)  15 APR 2019 21:56
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 00:09
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
-(/usr/local/texlive/2018/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
-(./th_fontdef.tex{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map})
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
- 53 numeric registers used out of 32768
+ 55 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 248 strings out of 494645
- 2565 string characters out of 6148133
- 45676 words of memory out of 5000000
- 1890 multiletter control sequences out of 15000+600000
- 16503 words of font info for 54 fonts, out of 8000000 for 9000
- 1416 hyphenation exceptions out of 8191
- 6i,5n,6p,274b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
-.pfb>
-Output written on data.pdf (1 page, 32192 bytes).
+ 250 strings out of 95617
+ 2532 string characters out of 1171098
+ 924314 words of memory out of 2352292
+ 1665 multiletter control sequences out of 15000+50000
+ 16503 words of font info for 54 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 6i,5n,6p,274b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb>
+Output written on data.pdf (1 page, 335761 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
 done
-compilation time: 1 sec
+writing xtherion file ... done
+compilation time: 2 sec
 
 
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.00%    0.01%  mountain-eye-lower-canyon-SP1@mountain-eye-lower-canyon
+   0.01%    0.27%  mountain-eye-lower-canyon-SP1@mountain-eye-lower-canyon
 ################### end of scrap distortions ###################

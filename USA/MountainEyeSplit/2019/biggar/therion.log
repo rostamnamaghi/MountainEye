@@ -62,10 +62,10 @@ processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 0.04%
+average distortion: 0.01%
 writing biggar.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  23 APR 2019 00:55
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 08:32
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
@@ -75,18 +75,18 @@ This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31) 
  
 Here is how much of MetaPost's memory you used:
  1081 strings out of 1162
- 13252 string characters out of 20720
- 166368 words of memory out of 1500000
+ 13250 string characters out of 20720
+ 311418 words of memory out of 1500000
  1385 symbolic tokens out of 16384
  11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
- 52 string compactions (moved 592652 characters, 46926 strings)
+ 52 string compactions (moved 591152 characters, 46878 strings)
 18 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  23 APR 2019 00:55
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 08:32
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -98,14 +98,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  250 strings out of 95617
  2539 string characters out of 1171098
- 340918 words of memory out of 1796896
+ 701141 words of memory out of 2117119
  1663 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 127687 bytes).
+Output written on data.pdf (1 page, 207095 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -115,12 +115,13 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing biggarth.3d ... done
-writing xtherion file ... done
-compilation time: 1 sec
+writing xtherion file ... 
+C:\Program Files (x86)\Therion\therion.exe: warning -- can't open xtherion file for output -- thconfig.xth
+compilation time: 3 sec
 
 
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.04%    1.17%  biggarSP1@biggar
+   0.01%    1.17%  biggarSP1@biggar
 ################### end of scrap distortions ###################

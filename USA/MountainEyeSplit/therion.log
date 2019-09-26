@@ -1,11 +1,11 @@
-therion 5.4.1+82e637b (2018-09-20)
-checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
-checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
 configuration file: thconfig.MountainEye
 reading ... done
 reading source files ... done
 preprocessing database ... done
-/Users/Olly/Source/therion/therion: warning -- unable to determine magnetic declination for undated surveys
+C:\Program Files (x86)\Therion\therion.exe: warning -- unable to determine magnetic declination for undated surveys
 output coordinate system: UTM16
 meridian convergence (deg): -1.1774
 geomag declinations (deg):
@@ -29,55 +29,138 @@ scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
 average loop error: 2.01%
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> 
+ 4> Survey contains 13104 survey stations, joined by 13118 legs.
+ 5> There are 18 loops.
+ 6> Survey has 4 connected components.
+ 7> Total length of survey legs = 59308.76m (59309.46m adjusted)
+ 8> Total plan length of survey legs = 53971.53m
+ 9> Total vertical length of survey legs = 13574.56m
+10> Vertical range = 119.83m (from 827 at 284.22m to 5239 at 164.39m)
+11> North-South range = 3843.80m (from 6170 at 4018402.90m to 4315 at 4014559.10m)
+12> East-West range = 2870.95m (from 8414 at 678915.50m to 3706 at 676044.56m)
+13> 10921 1-nodes.
+14>   451 2-nodes.
+15>    43 3-nodes.
+16>    45 4-nodes.
+17>   232 5-nodes.
+18>   361 6-nodes.
+19>   222 7-nodes.
+20>   188 8-nodes.
+21>   153 9-nodes.
+22>   126 10-nodes.
+23>   100 11-nodes.
+24>    65 12-nodes.
+25>    49 13-nodes.
+26>    39 14-nodes.
+27>    28 15-nodes.
+28>    12 16-nodes.
+29>    14 17-nodes.
+30>    13 18-nodes.
+31>    10 19-nodes.
+32>     8 20-nodes.
+33>     3 21-nodes.
+34>     3 22-nodes.
+35>     3 23-nodes.
+36>     2 24-nodes.
+37>     6 25-nodes.
+38>     2 26-nodes.
+39>     3 27-nodes.
+40>     1 28-node.
+41>     1 29-node.
+42> 
+######################### transcription ########################
+ 4> 13104 : -@ld3.Mountaineye
+ 5> 18 : -@mountaineye1.Mountaineye
+ 6> 4 : -@mountaineye1.Mountaineye
+10> 827 : -@cob.Mountaineye -- 5239 : -@Empire-kessel-run.Mountaineye
+11> 6170 : -@mousehouse2.Mountaineye -- 4315 : -@Downstream_Compile.Mountaineye
+12> 8414 : -@mousehouse6.Mountaineye -- 3706 : -@Downstream_Compile.Mountaineye
+13> 10921 : -@hyperborean-bore-north.Mountaineye
+14> 451 : 2.3@mountaineye2.Mountaineye
+15> 43 : -@mountaineye1.Mountaineye
+16> 45 : -@mountaineye1.Mountaineye
+17> 232 : -@mountaineye1.Mountaineye
+18> 361 : -@mountaineye1.Mountaineye
+19> 222 : -@mountaineye1.Mountaineye
+20> 188 : 1.28@mountaineye1.Mountaineye
+21> 153 : -@mountaineye1.Mountaineye
+22> 126 : -@mountaineye1.Mountaineye
+23> 100 : -@mountaineye1.Mountaineye
+24> 65 : -@mountaineye1.Mountaineye
+25> 49 : -@mountaineye1.Mountaineye
+26> 39 : -@mountaineye1.Mountaineye
+27> 28 : -@mountaineye1.Mountaineye
+28> 12 : -@mountaineye1.Mountaineye
+29> 14 : 1.2@mountaineye1.Mountaineye
+30> 13 : -@mountaineye1.Mountaineye
+31> 10 : -@mountaineye1.Mountaineye
+32> 8 : 1.1@mountaineye1.Mountaineye
+33> 3 : -@mountaineye1.Mountaineye
+34> 3 : -@mountaineye1.Mountaineye
+35> 3 : -@mountaineye1.Mountaineye
+36> 2 : -@mountaineye1.Mountaineye
+37> 6 : -@mountaineye1.Mountaineye
+38> 2 : -@mountaineye1.Mountaineye
+39> 3 : -@mountaineye1.Mountaineye
+40> 1 : 1.0@mountaineye1.Mountaineye
+41> 1 : 1.0@mountaineye1.Mountaineye
+#################### end of cavern log file ####################
+done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 0.07%
+average distortion: 0.08%
 writing export/MountaineyeMap3.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  25 APR 2019 23:18
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 08:33
 **data.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
-Preloading the plain mem file, version 1.005) ) (./data.mp [4001] [4002] [4003]
-[4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [4012] [4013]
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
 [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
 [18] [19] [20] [21]
 [Warning: scrap outline intersects itself in scrap belhaverSP1@belhaver.Mountai
-neye] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
-[36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50]
-[51] [52] [53]
+neye] [22] [23] [24] [25] [26] [27]
+[Warning: scrap outline intersects itself in scrap mousehouse4SP2@mousehouse4.M
+ountaineye] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40]
+[41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]
+[56]
 [Warning: scrap outline intersects itself in scrap scrap1@Stream-large-south.Mo
-untaineye] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66]
-[67] [68]
-[Warning: scrap outline intersects itself in scrap bl256SP1@bl256.Mountaineye]
-[69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80]
+untaineye] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69]
+[70] [71] [72] [73] [74]
+[Warning: scrap outline intersects itself in scrap mousehouse2SP2@mousehouse2.M
+ountaineye] [75] [76] [77]
+[Warning: scrap outline intersects itself in scrap mousehouse2SP3@mousehouse2.M
+ountaineye] [78] [79] [80] [81]
 [Warning: scrap outline intersects itself in scrap mousehouse2SP4@mousehouse2.M
-ountaineye] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93]
-[94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107]
-[108] [109] [110] [111] [112] [113] [114] [115] [116]
+ountaineye] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94]
+[95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+[109] [110] [111] [112] [113] [114] [115] [116] [117]
 [Warning: scrap outline intersects itself in scrap 934LHS-SP1@934LHS.Mountainey
-e] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128]
-[Warning: scrap outline intersects itself in scrap ME4_scrapSP2@mountaineye4.Mo
-untaineye] [129] [130] [131] [132] [133] [134]
-[Warning: scrap outline intersects itself in scrap LD1-LDI_Planp@LD1.Mountainey
-e] [135] [136] [137]
+e] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129]
+[130] [131] [132] [133] [134] [135] [136] [137] [138]
 [Warning: scrap outline intersects itself in scrap ME2_scrapSP1@mountaineye2.Mo
-untaineye] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148]
-[149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
+untaineye] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
+[150] [151] [152] [153] [154]
 [Warning: scrap outline intersects itself in scrap hyperborean-bore-north-2-SP1
-@hyperborean-bore-north.Mountaineye] [162] [163] [164] [165] [166] [167] [168]
-[169] [170] [171] [172] [173] [174] [175] [176] [177]
+@hyperborean-bore-north.Mountaineye] [155] [156] [157] [158] [159] [160] [161]
+[162] [163] [164] [165] [166] [167] [168] [169] [170] [171]
 [Warning: scrap outline intersects itself in scrap ME3_scrapSP1@mountaineye3.Mo
 untaineye]
 [Warning: scrap outline intersects itself in scrap ME3_scrapSP1@mountaineye3.Mo
-untaineye] [178] [179] [180] [181]
+untaineye] [172] [173] [174] [175]
+[Warning: scrap outline intersects itself in scrap mousehouse3SP1@mousehouse3.M
+ountaineye] [176] [177] [178] [179]
 [Warning: scrap outline intersects itself in scrap ShinletSP1@Shinlet.Mountaine
-ye] [182] [183] [184] [185] [186] [187] [188] [189] [190]
+ye] [180] [181] [182] [183] [184] [185] [186] [187] [188]
 [Warning: scrap outline intersects itself in scrap biggarSP1@biggar.Mountaineye
-] [191] [192] [193] [194] [195]
+] [189] [190] [191] [192] [193]
 [Error: area borders l5--168--80 and l6--380--424 don't intersect in scrap scra
 p17@hyperborium_cave_north_from_main_bh_complete.Mountaineye (file 2019/hyperbo
 rium_cave_north_from_main_bh/hyperborium_cave_north_from_main_bh-hb_day_2_no_2p
@@ -105,210 +188,69 @@ h2 [33])]
 [Error: area borders l4-4--50 and l3-28--244 don't intersect in scrap scrap17@h
 yperborium_cave_north_from_main_bh_complete.Mountaineye (file 2019/hyperborium_
 cave_north_from_main_bh/hyperborium_cave_north_from_main_bh-hb_day_2_no_2p.th2 
-[33])] [196]
-[Warning: scrap outline intersects itself in scrap scrap17@hyperborium_cave_nor
-th_from_main_bh_complete.Mountaineye] [197] [198] [199] [200] [201] [202] [203]
+[33])] [194] [195] [196] [197] [198] [199] [200] [201]
 [Warning: scrap outline intersects itself in scrap scrap220@hyperborium_cave_no
-rth_from_main_bh_complete.Mountaineye] [204] [205] [206] [207]
+rth_from_main_bh_complete.Mountaineye] [202] [203] [204] [205]
 [Warning: scrap outline intersects itself in scrap scrap79@hyperborium_cave_nor
 th_from_main_bh_complete.Mountaineye]
 [Warning: scrap outline intersects itself in scrap scrap79@hyperborium_cave_nor
-th_from_main_bh_complete.Mountaineye] [208] [209] [210] [211] [212] [213] [214]
-[215] [216] [217] [218] [219] [220] [221]
-[Warning: scrap outline intersects itself in scrap bago'bones-BAGPLANp@Mission_
-From_God.Mountaineye]
-[Warning: scrap outline intersects itself in scrap bago'bones-BAGPLANp@Mission_
-From_God.Mountaineye] [222] [223] [224] [225] [226] [227] [228] [229] [230]
-[231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [241] [242] [243]
-[244] [245] [246] [247] [248] [249] [250] [251] [252] [253] [254] [255] [256]
+th_from_main_bh_complete.Mountaineye] [206] [207] [208] [209] [210] [211] [212]
+[213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [223] [224] [225]
+[226]
+[Warning: scrap outline intersects itself in scrap scrapSP2_DLD2@Downstream_Com
+pile.Mountaineye] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236]
+[237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249]
+[250] [251] [252] [253] [254] [255] [256]
+[Warning: scrap outline intersects itself in scrap ld3-SP1@ld3.Mountaineye]
 [257] [258] [259] [260] [261] [262] [263] [264] [265] [266] [267] [268] [269]
 [270] [271] [272] [273] [274] [275] [276] [277] [278] [279] [280] [281] [282]
 [283] [284] [285] [286] [287] [288] [289] [290] [291] [292] [293] [294] [295]
-[Warning: scrap outline intersects itself in scrap cob-passage-off-salt-peter-S
-P1@cob-passage-off-salt-peter.Mountaineye] [296] [297] [298] [299] [300] [301]
-[302] [303] [304] [305] [306] [307] [308] [309] [310] [311] [312] [313] [314]
-[315] [316] [317] [318] [319] [320] [321] [322] [323] (./mptextmp.mp) [324] )
+[296] [297] [298] [299] [300] [301] [302] [303] [304] [305] [306] [307] [308]
+[309] [310] [311] [312] [313] [314] [315] [316] [317] [318] [319] [320] [321]
+[322] [323] (./mptextmp.mp) [324] )
  
 Here is how much of MetaPost's memory you used:
- 265882 strings using 6281332 characters
- 6348608 bytes of node memory
- 1442 symbolic tokens
- 11i,81n,16p,634b,5f stack positions out of 16i,96n,17p,760b,6f
+ 3781 strings out of 3907
+ 16501 string characters out of 43988
+ 211494 words of memory out of 1500000
+ 1402 symbolic tokens out of 16384
+ 11i,75n,16p,629b,5f stack positions out of 300i,84n,5000p,760b,15f
+ 1331 string compactions (moved 18934137 characters, 3040899 strings)
 337 output files written: data.1 .. data.4013
-
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdfetex 2018.9.25)  25 APR 2019 23:19
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 08:33
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
-(/usr/local/texlive/2018/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
-(./th_fontdef.tex{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map})
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
 (./th_formdef.tex
 Normal \count register pool exhausted, switching to extended pool.)
 (./th_pagedef.tex (./th_legendcolor.tex)) (./th_pages.tex)
  253 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 736 strings out of 494645
- 7365 string characters out of 6148133
- 332382 words of memory out of 5000000
- 2373 multiletter control sequences out of 15000+600000
- 21229 words of font info for 66 fonts, out of 8000000 for 9000
- 1416 hyphenation exceptions out of 8191
- 12i,5n,9p,2387b,78s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
-.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
-.pfb>
-Output written on data.pdf (1 page, 2119931 bytes).
+ 735 strings out of 95617
+ 7314 string characters out of 1171098
+ 390762 words of memory out of 1846740
+ 2145 multiletter control sequences out of 15000+50000
+ 21229 words of font info for 66 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 12i,5n,9p,2387b,78s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
+Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
+Output written on data.pdf (1 page, 2734084 bytes).
 PDF statistics:
- 1219 PDF objects out of 1440 (max. 8388607)
- 640 compressed objects within 7 object streams
+ 1207 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 3657 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3645 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
-done
-writing mountaineye_Walls.3d ... done
-writing export/MountainEye.kml ... done
-writing export/MountainEyeMap.kml ... done
-writing export/MountainEyeMap.3d ... done
-compilation time: 12 sec
-
-
-######################### loop errors ##########################
-REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
- 28.27%   33.2m  117.5m  15   24.4m   22.1m    4.3m [1.13@drywank.Mountaineye - 1.38 - 1.31 - 1.30 - 1.29 - 1.28 - 1.22 - 1.21 - 1.20 - 1.19 - 1.18 - 1.17 - 1.16 - 1.15 - 1.14 - 1.13]
-  0.81%    0.5m   57.2m  14    0.0m    0.4m    0.2m [5@bl256.Mountaineye - 20 - 19 - 18 - 17 - 16 - 15 - 12 - 11 - 10 - 9 - 8 - 7 - 6 - 5]
-  0.76%    9.3m 1221.0m  86    4.4m   -8.2m   -0.4m [8.6@biggar.Mountaineye - 9.1 - 9.2 - 9.3 - 9.4 - 9.5 - 9.6 - 9.7 - 9.8 - 9.9 - 9.10 - 9.11 - 9.12 - 9.13 - 9.14 - 9.15 - 9.16 - 9.17 - 9.18 - 9.19 - 9.20 - 9.21 - 9.22 - 9.23 - 9.24 - 9.25 - 9.26 - 9.27 - 9.28 - 9.29 - 9.30 - 9.31 - 9.32 - 9.33 - 9.34 - 9.35 = 9.35@tunnel.Mountaineye - 803.55 - 803.54 - 803.53 - 803.52 - 803.51 - 803.50 - 803.49 - 803.48 - 803.47 - 803.46 - 803.45 - 803.44 - 803.43 - 803.42 - 803.41 - 803.40 - 803.39 - 803.38 - 803.37 - 803.36 - 803.35 - 803.34 - 803.33 - 803.32 - 803.31 - 803.30 - 803.29 - 803.28 - 803.27 - 803.26 - 803.25 - 803.24 - 803.23 - 803.22 - 803.21 - 803.20 - 803.19 - 803.18 - 803.17 - 803.16 - 803.15 - 803.14 - 803.13 - 803.12 - 803.11 - 803.3 - 803.2 - 803.1 - 803.0 - 8.7 = 8.7@connection.Mountaineye - 8.6 = 8.6@biggar.Mountaineye]
-  0.63%    0.3m   40.6m   2    0.0m    0.3m    0.0m [6@3012-continuation.Mountaineye - 1 = 301.2@mountaineye4.Mountaineye - 301.1 = 6@3012-continuation.Mountaineye]
-  0.51%    0.6m  109.3m   3    0.2m    0.5m   -0.1m [201.2@mountaineye3.Mountaineye - 202.1 - 201.1 - 201.2]
-  0.50%    0.3m   60.9m  13    0.3m    0.0m   -0.1m [5@3016-continuation-3.Mountaineye - 4 - 3 - 2 - 1 = 2@3016-continuation-2.Mountaineye - 1 = 301.20@3016-continuation.Mountaineye - 301.19 - 301.18 - 301.17 - 301.14 - 301.13 - 301.12 - 301.11 - 301.6 = 5@3016-continuation-3.Mountaineye]
-  0.40%    0.5m  116.0m  16    0.1m    0.1m   -0.4m [1.28@mountaineye1.Mountaineye - 106.5 - 106.4 - 106.3 - 106.2 - 106.1 - 106.0 - 1.19 - 1.20 - 1.21 - 1.22 - 1.23 - 1.24 - 1.25 - 1.26 - 1.27 - 1.28]
-  0.36%    0.2m   60.1m   8    0.1m   -0.2m    0.0m [7@picnic-table-bypass.Mountaineye - 6 - 5 - 4 - 3 - 2 - 1 = 2.50@mountaineye2.Mountaineye - 2.51 - 2.52 = 7@picnic-table-bypass.Mountaineye]
-  0.34%    0.8m  242.7m  39    0.1m   -0.2m   -0.8m [7.62@mousehouse3.Mountaineye - 8.0 - 8.1 - 8.2 - 8.3 - 8.4 - 8.5 - 8.6 - 8.7 - 8.8 - 8.9 - 8.10 - 8.11 - 8.12 - 8.13 - 8.14 - 8.15 - 10.1 = 10.1@hyperborean-bore-north.Mountaineye - 100.1 = 0@hyperborium_cave_north_from_main_bh_complete.Mountaineye - 1 - 2 - 3 - 4 - 32 - 33 - 34 - 35 - 36 - 37 - 38 - 39 - 40 - 42 - 43 - 44 = 7.67@mousehouse2.Mountaineye - 7.66 - 7.65 - 7.64 - 7.63 - 7.62 = 7.62@mousehouse3.Mountaineye]
-  0.33%    0.3m   83.2m  11   -0.1m    0.2m    0.1m [602.0@cob-AK.Mountaineye - 602.1 - 602.2 - 602.3 - 602.4 - 602.5 - 602.6 - 602.7 = 6.21@cob.Mountaineye - 6.20 - 6.19 - 6.18 - 6.17 = 602.0@cob-AK.Mountaineye]
-  0.26%    0.5m  206.1m  10   -0.2m    0.5m   -0.2m [2.94@mountaineye3.Mountaineye - 201.3 - 201.2 - 201.1 - 2.88 - 2.89 - 2.90 - 2.91 - 2.92 - 2.93 - 2.94]
-  0.26%    0.0m    8.2m   2   -0.0m   -0.0m   -0.0m [103.1@mountaineye1.Mountaineye - 103.0 - 103.1]
-  0.22%    0.6m  254.6m  38   -0.1m   -0.3m    0.5m [8.8@mousehouse4.Mountaineye - 20.0 - 20.1 - 20.2 - 20.3 - 20.4 - 20.5 - 20.6 - 20.7 - 20.8 - 20.9 - 20.10 - 20.11 - 20.12 - 20.13 - 21.0 - 21.1 = 21.1@mousehouse5.Mountaineye - 22.0 - 22.1 - 22.2 - 23.0 - 23.1 - 23.2 - 23.3 - 23.4 = 32@hyperborium_cave_north_from_main_bh_complete.Mountaineye - 4 - 3 - 2 - 1 - 0 = 100.1@hyperborean-bore-north.Mountaineye - 10.1 = 10.1@mousehouse3.Mountaineye - 8.15 - 8.14 - 8.13 - 8.12 - 8.11 - 8.10 - 8.9 - 8.8 = 8.8@mousehouse4.Mountaineye]
-  0.13%    0.1m   92.9m   8    0.1m   -0.0m   -0.1m [100.5@hyperborean-bore-north.Mountaineye - 101.3 - 101.2 - 101.1 - 100.9 - 100.8 - 100.7 - 100.6 - 100.5]
-  0.09%    0.0m   52.7m   2    0.0m   -0.0m   -0.0m [205.1@mountaineye3.Mountaineye - 205.0 - 205.1]
-  0.04%    0.0m   52.7m   2   -0.0m   -0.0m   -0.0m [205.0@mountaineye3.Mountaineye - 205.1 - 205.0]
-  0.00%    0.0m  125.4m   2    0.0m    0.0m    0.0m [3.104@mountaineye4.Mountaineye - 5.1 - 3.104]
-  0.00%    0.0m   40.9m   2    0.0m    0.0m    0.0m [5.1@mountaineye4.Mountaineye - 5.2 - 5.1]
-##################### end of loop errors #######################
-
-
-###################### scrap distortions #######################
- PROJECTION: plan
- AVERAGE  MAXIMAL  SCRAP
-   0.08%   85.94%  ME5_scrapSP1@mountaineye5.Mountaineye
-   0.05%   67.73%  ME2_scrapSP1@mountaineye2.Mountaineye
-   0.21%   61.38%  biggarSP1@biggar.Mountaineye
-   0.14%   59.90%  mountain-eye-lower-canyon-SP1@mountain-eye-lower-canyon.Mountaineye
-   0.02%   51.35%  ME4_scrapSP4@mountaineye4.Mountaineye
-   2.47%   49.60%  superwalls@connection.Mountaineye
-   3.00%   33.76%  endofemSP1@endofem.Mountaineye
-   0.05%   19.84%  ME1_scrapSP1@mountaineye1.Mountaineye
-   0.04%   10.95%  bellywalls@connection.Mountaineye
-   0.02%    9.99%  scrapSP2_DLD2@Downstream_Compile.Mountaineye
-   0.06%    6.72%  ME4_scrapSP2@mountaineye4.Mountaineye
-   0.11%    6.65%  ME3_scrapSP1@mountaineye3.Mountaineye
-   0.29%    5.20%  3016-continuation-SP2@3016-continuation.Mountaineye
-   0.13%    2.79%  scrap79@hyperborium_cave_north_from_main_bh_complete.Mountaineye
-   0.05%    2.28%  praise_the_lord-1p@praise_the_lord.Mountaineye
-   0.08%    2.17%  sloppysecondsSP1@sloppyseconds.Mountaineye
-   0.08%    1.12%  3016-continuation-3-SP1@3016-continuation-3.Mountaineye
-   0.04%    1.07%  Highlinewalls@connection.Mountaineye
-   0.00%    0.98%  ancientwalls@connection.Mountaineye
-   0.13%    0.97%  3012-continuation-SP1@3012-continuation.Mountaineye
-   0.07%    0.96%  ME4_scrapSP3@mountaineye4.Mountaineye
-   0.12%    0.88%  picnic-table-bypass-SP1@picnic-table-bypass.Mountaineye
-   0.09%    0.77%  ME5_scrapSP2@mountaineye5.Mountaineye
-   0.08%    0.77%  3016-continuation-2-SP1@3016-continuation-2.Mountaineye
-   0.05%    0.69%  bago'bones-BAGPLANp@Mission_From_God.Mountaineye
-   0.01%    0.69%  mousehouse4SP2@mousehouse4.Mountaineye
-   0.02%    0.68%  MBE_extension-MBE_extension_1p@MBE_extension.Mountaineye
-   0.12%    0.53%  mousehouse3SP1@mousehouse3.Mountaineye
-   0.05%    0.48%  cobSP2@cob.Mountaineye
-   0.02%    0.45%  mousehouse2SP4@mousehouse2.Mountaineye
-   0.03%    0.45%  LD2-cjsketchp@LD2.Mountaineye
-   0.09%    0.45%  cob-AK-SP1@cob-AK.Mountaineye
-   0.04%    0.44%  scrap66@hyperborium_cave_north_from_main_bh_complete.Mountaineye
-   0.06%    0.43%  mousehouse4SP1@mousehouse4.Mountaineye
-   0.03%    0.42%  bago'bones-WATERFALLCHAMBERp@Mission_From_God.Mountaineye
-   0.02%    0.39%  hyperborean-bore-north-3-SP1@hyperborean-bore-north.Mountaineye
-   0.02%    0.37%  scrap220@hyperborium_cave_north_from_main_bh_complete.Mountaineye
-   0.01%    0.28%  LD2-cjsketch2p@LD2.Mountaineye
-   0.05%    0.21%  mousehouse5SP1@mousehouse5.Mountaineye
-   0.03%    0.21%  LD1-LDI_Planp@LD1.Mountaineye
-   0.02%    0.16%  hyperborean-bore-north-1-SP1@hyperborean-bore-north.Mountaineye
-   0.02%    0.12%  scrap216@praise_the_lord.Mountaineye
-   0.00%    0.11%  934LHS-SP3@934LHS.Mountaineye
-   0.00%    0.11%  mousehouse2SP3@mousehouse2.Mountaineye
-   0.00%    0.09%  mousehouse3SP2@mousehouse3.Mountaineye
-   0.00%    0.08%  ld3-SP1@ld3.Mountaineye
-   0.00%    0.08%  hyperborean-bore-north-4-SP1@hyperborean-bore-north.Mountaineye
-   0.00%    0.07%  BoulderChokeAdrianAlice-SP1@BoulderChokeAdrianAlice.Mountaineye
-   0.00%    0.07%  934LHS-SP2@934LHS.Mountaineye
-   0.02%    0.06%  scrap17@hyperborium_cave_north_from_main_bh_complete.Mountaineye
-   0.00%    0.06%  ScallopRunAdrianAlice-SP1@ScallopRunAdrianAlice.Mountaineye
-   0.01%    0.05%  hyperborean-bore-north-2-SP1@hyperborean-bore-north.Mountaineye
-   0.00%    0.04%  cob-passage-off-salt-peter-SP1@cob-passage-off-salt-peter.Mountaineye
-   0.00%    0.04%  ME23_scrapSP1@mountaineye23.Mountaineye
-   0.01%    0.04%  scrapSP3_DLD3@Downstream_Compile.Mountaineye
-   0.00%    0.04%  mousehouseSP1@mousehouse.Mountaineye
-   0.00%    0.04%  934LHS-SP1@934LHS.Mountaineye
-   0.00%    0.04%  scrap1@Downstream_Compile.Mountaineye
-   0.00%    0.04%  scrap1@Stream-large-south.Mountaineye
-   0.00%    0.03%  annoyedSP1@annoyed.Mountaineye
-   0.00%    0.03%  mousehouseSP3@mousehouse.Mountaineye
-   0.00%    0.03%  scrap14@Omen-dog-nw.Mountaineye
-   0.00%    0.03%  cobSP1@cob.Mountaineye
-   0.00%    0.03%  mousehouse2SP1@mousehouse2.Mountaineye
-   0.00%    0.03%  cobSP3@cob.Mountaineye
-   0.00%    0.03%  cob-65-crawl-SP1@cob-65-crawl.Mountaineye
-   0.00%    0.03%  ME22_scrapSP1@mountaineye22.Mountaineye
-   0.00%    0.03%  ME21_scrapSP1@mountaineye21.Mountaineye
-   0.00%    0.03%  dwarffortressSP1@dwarffortress.Mountaineye
-   0.00%    0.02%  cbaSP1@cba.Mountaineye
-   0.00%    0.02%  mousehouse2SP2@mousehouse2.Mountaineye
-   0.00%    0.02%  ME4_scrapSP1@mountaineye4.Mountaineye
-   0.00%    0.02%  mousehouseSP2@mousehouse.Mountaineye
-   0.00%    0.02%  scrap9@Omen-dog.Mountaineye
-   0.00%    0.02%  fossiltrunkwalls@connection.Mountaineye
-   0.01%    0.02%  3016-continuation-SP1@3016-continuation.Mountaineye
-   0.00%    0.02%  scrap2@Downstream_Compile.Mountaineye
-   0.00%    0.02%  mousehouse6SP1@mousehouse6.Mountaineye
-   0.00%    0.02%  scrapSP1-DLD2@Downstream_Compile.Mountaineye
-   0.00%    0.02%  downsupSP1@downsup.Mountaineye
-   0.00%    0.01%  scrap3@Downstream_Compile.Mountaineye
-   0.00%    0.01%  ME20_scrapSP1@mountaineye20.Mountaineye
-   0.00%    0.01%  EoEAdrianAlice-SP1@EoEAdrianAlice.Mountaineye
-   0.00%    0.01%  belhaverSP1@belhaver.Mountaineye
-   0.00%    0.01%  cob-vadose-canyon-ak-SP1@cob-vadose-canyon-ak.Mountaineye
-   0.00%    0.01%  annoyedSP2@annoyed.Mountaineye
-   0.00%    0.01%  annoyedSP3@annoyed.Mountaineye
-   0.00%    0.01%  bl256SP1@bl256.Mountaineye
-   0.00%    0.01%  cob-series-6-continued-ak-SP1@cob-series-6-continued-ak.Mountaineye
-   0.00%    0.01%  ShinletSP1@Shinlet.Mountaineye
-   0.00%    0.00%  mksuperbowl2SP1@mksuperbowl2.Mountaineye
-   0.00%    0.00%  drywankSP1@drywank.Mountaineye
-   0.00%    0.00%  scrap7@Empire-kessel-run.Mountaineye
-   0.00%    0.00%  guanoSP1@First-guano.Mountaineye
-   0.00%    0.00%  tunnelSP1@tunnel.Mountaineye
-   0.00%    0.00%  scrap1@Empire-kessel-run-2.Mountaineye
-   0.00%    0.00%  mousehouse7SP3@mousehouse7.Mountaineye
-   0.00%    0.00%  hyperborean-bore-north-3-SP2@hyperborean-bore-north.Mountaineye
-   0.00%    0.00%  mousehouse7SP1@mousehouse7.Mountaineye
-   0.00%    0.00%  mousehouse7SP2@mousehouse7.Mountaineye
-   0.00%    0.00%  scrap1@Omen-dog-west.Mountaineye
-   0.00%    0.00%  scrap20a@mountaineye22.Mountaineye
-################### end of scrap distortions ###################
+C:\Program Files (x86)\Therion\therion.exe: error -- cp exit code -- 1
+writing xtherion file ... 
+C:\Program Files (x86)\Therion\therion.exe: warning -- can't open xtherion file for output -- thconfig.MountainEye.xth

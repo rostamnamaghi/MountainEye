@@ -1,4 +1,4 @@
-encoding utf-8
+encoding  utf-8
 
 layout local
   debug off
@@ -8,7 +8,7 @@ endlayout
 
 source "cob-series-6-continued-ak.th"
 
-# export model -fmt survex -o "cob-series-6-continued-ak-th.3d"
+export model -fmt survex -o "cob-series-6-continued-ak-th.3d"
 
 export map -proj plan -layout local -o "cob-series-6-continued-ak-plan.pdf"
 

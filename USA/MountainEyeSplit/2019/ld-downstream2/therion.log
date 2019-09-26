@@ -1,0 +1,124 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 399 survey stations, joined by 398 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs = 1406.79m (1406.79m adjusted)
+ 8> Total plan length of survey legs = 1261.52m
+ 9> Total vertical length of survey legs =  375.86m
+10> Vertical range = 20.09m (from 291 at 13.90m to 257 at -6.19m)
+11> North-South range = 226.17m (from 5 at 11.46m to 242 at -214.71m)
+12> East-West range = 96.11m (from 258 at 88.08m to 9 at -8.03m)
+13>  319 1-nodes.
+14>    6 2-nodes.
+15>    2 3-nodes.
+16>    7 4-nodes.
+17>   18 5-nodes.
+18>   21 6-nodes.
+19>   11 7-nodes.
+20>    9 8-nodes.
+21>    2 9-nodes.
+22>    2 11-nodes.
+23>    1 12-node.
+24>    1 14-node.
+25> 
+######################### transcription ########################
+ 3> 1 : 107.23@ld-downstream2
+ 5> 399 : 111.22@ld-downstream2 -- 398 : 111.21@ld-downstream2
+10> 291 : -@ld-downstream2 -- 257 : -@ld-downstream2
+11> 5 : -@ld-downstream2 -- 242 : -@ld-downstream2
+12> 258 : -@ld-downstream2 -- 9 : -@ld-downstream2
+13> 319 : 111.05@ld-downstream2
+14> 6 : -@ld-downstream2
+15> 2 : 107.24@ld-downstream2
+16> 7 : -@ld-downstream2
+17> 18 : -@ld-downstream2
+18> 21 : -@ld-downstream2
+19> 11 : -@ld-downstream2
+20> 9 : -@ld-downstream2
+21> 2 : 107.24@ld-downstream2
+22> 2 : 107.24@ld-downstream2
+23> 1 : 107.23@ld-downstream2
+24> 1 : 107.23@ld-downstream2
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing ld-downstream2-th.3d ... done
+processing projection plan ... done
+average distortion: 0.00%
+writing ld-downstream2-plan.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 02:06
+**data.mp
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[1] [2] [3] [4]
+[Warning: scrap outline intersects itself in scrap scrap5@ld-downstream2] [5]
+[6] [7] (./mptextmp.mp) [8] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1094 strings out of 1162
+ 13405 string characters out of 15838
+ 143533 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 156 string compactions (moved 1974107 characters, 159730 strings)
+21 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 02:06
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 59 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 254 strings out of 95617
+ 2575 string characters out of 1171098
+ 233039 words of memory out of 1694017
+ 1669 multiletter control sequences out of 15000+50000
+ 16503 words of font info for 54 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 6i,5n,6p,238b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb>
+Output written on data.pdf (1 page, 106837 bytes).
+PDF statistics:
+ 47 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing xtherion file ... done
+compilation time: 1 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.00%    0.02%  scrap112@ld-downstream2
+   0.00%    0.02%  scrap5@ld-downstream2
+################### end of scrap distortions ###################

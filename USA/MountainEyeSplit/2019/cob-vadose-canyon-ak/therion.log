@@ -1,0 +1,109 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 54 survey stations, joined by 53 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs =  311.93m ( 311.93m adjusted)
+ 8> Total plan length of survey legs =  196.62m
+ 9> Total vertical length of survey legs =  168.50m
+10> Vertical range = 21.18m (from 49 at 8.98m to 50 at -12.20m)
+11> North-South range = 18.55m (from 2 at 2.79m to 48 at -15.76m)
+12> East-West range = 19.50m (from 51 at 19.50m to 1 at 0.00m)
+13>   49 1-nodes.
+14>    1 6-node.
+15>    1 9-node.
+16>    1 10-node.
+17>    1 14-node.
+18>    1 18-node.
+19> 
+######################### transcription ########################
+ 3> 1 : 6.8@cob-vadose-canyon-ak
+ 5> 54 : -@cob-vadose-canyon-ak -- 53 : -@cob-vadose-canyon-ak
+10> 49 : -@cob-vadose-canyon-ak -- 50 : -@cob-vadose-canyon-ak
+11> 2 : 690.1@cob-vadose-canyon-ak -- 48 : -@cob-vadose-canyon-ak
+12> 51 : -@cob-vadose-canyon-ak -- 1 : 6.8@cob-vadose-canyon-ak
+13> 49 : -@cob-vadose-canyon-ak
+14> 1 : 6.8@cob-vadose-canyon-ak
+15> 1 : 6.8@cob-vadose-canyon-ak
+16> 1 : 6.8@cob-vadose-canyon-ak
+17> 1 : 6.8@cob-vadose-canyon-ak
+18> 1 : 6.8@cob-vadose-canyon-ak
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing cob-vadose-canyon-ak-th.3d ... done
+processing projection plan ... done
+average distortion: 0.05%
+writing cob-vadose-canyon-ak-plan.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 06:50
+**data.mp
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[1] [2] [3] [4] (./mptextmp.mp) [5] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1048 strings out of 1162
+ 13327 string characters out of 15838
+ 59943 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 20 string compactions (moved 165883 characters, 13683 strings)
+18 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 06:50
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 53 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 248 strings out of 95617
+ 2524 string characters out of 1171098
+ 28773 words of memory out of 1514751
+ 1663 multiletter control sequences out of 15000+50000
+ 16503 words of font info for 54 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 6i,5n,6p,238b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb>
+Output written on data.pdf (1 page, 16920 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing xtherion file ... done
+compilation time: 1 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.05%    0.20%  cob-vadose-canyon-ak-SP1@cob-vadose-canyon-ak
+################### end of scrap distortions ###################

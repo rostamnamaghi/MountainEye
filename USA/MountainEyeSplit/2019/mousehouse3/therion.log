@@ -1,1 +1,131 @@
-ERROR: Can not execute "cmd.exe /c "C:\\Program Files (x86)\\Therion\\therion.exe" -x  thconfig".
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 628 survey stations, joined by 627 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs = 1710.92m (1710.92m adjusted)
+ 8> Total plan length of survey legs = 1524.76m
+ 9> Total vertical length of survey legs =  423.02m
+10> Vertical range = 19.93m (from 397 at 17.24m to 11 at -2.69m)
+11> North-South range = 135.82m (from 11 at 3.12m to 248 at -132.69m)
+12> East-West range = 88.01m (from 132 at 11.07m to 439 at -76.94m)
+13>  531 1-nodes.
+14>   12 2-nodes.
+15>    1 3-node.
+16>    1 4-node.
+17>   10 5-nodes.
+18>   19 6-nodes.
+19>    8 7-nodes.
+20>   11 8-nodes.
+21>    9 9-nodes.
+22>   10 10-nodes.
+23>    4 11-nodes.
+24>    4 12-nodes.
+25>    3 13-nodes.
+26>    3 14-nodes.
+27>    2 15-nodes.
+28> 
+######################### transcription ########################
+ 3> 1 : 7.62@mousehouse3
+ 5> 628 : 18.4@mousehouse3 -- 627 : -@mousehouse3
+10> 397 : -@mousehouse3 -- 11 : -@mousehouse3
+11> 11 : -@mousehouse3 -- 248 : -@mousehouse3
+12> 132 : -@mousehouse3 -- 439 : -@mousehouse3
+13> 531 : -@mousehouse3
+14> 12 : -@mousehouse3
+15> 1 : 7.62@mousehouse3
+16> 1 : 7.62@mousehouse3
+17> 10 : -@mousehouse3
+18> 19 : -@mousehouse3
+19> 8 : -@mousehouse3
+20> 11 : -@mousehouse3
+21> 9 : -@mousehouse3
+22> 10 : -@mousehouse3
+23> 4 : 8.2@mousehouse3
+24> 4 : 8.2@mousehouse3
+25> 3 : 8.1@mousehouse3
+26> 3 : 8.1@mousehouse3
+27> 2 : 8.0@mousehouse3
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+average distortion: 0.01%
+writing mousehouse3.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  25 SEP 2019 21:41
+**data.mp
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[1]
+[Warning: scrap outline intersects itself in scrap mousehouse3SP1@mousehouse3]
+[2] [3] [4] [5] (./mptextmp.mp) [6] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1138 strings out of 1162
+ 13363 string characters out of 20720
+ 326770 words of memory out of 1500000
+ 1387 symbolic tokens out of 16384
+ 11i,75n,16p,197b,5f stack positions out of 300i,84n,5000p,200b,15f
+ 81 string compactions (moved 972898 characters, 77269 strings)
+19 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  25 SEP 2019 21:41
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 54 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 251 strings out of 95617
+ 2550 string characters out of 1171098
+ 545332 words of memory out of 1992310
+ 1664 multiletter control sequences out of 15000+50000
+ 20080 words of font info for 63 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
+Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
+Output written on data.pdf (1 page, 242572 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing xtherion file ... 
+C:\Program Files (x86)\Therion\therion.exe: warning -- can't open xtherion file for output -- thconfig.xth
+compilation time: 2 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.01%    1.14%  mousehouse3SP1@mousehouse3
+   0.00%    0.00%  mousehouse3SP2@mousehouse3
+################### end of scrap distortions ###################

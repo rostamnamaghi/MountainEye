@@ -49,26 +49,26 @@ processing projection plan ... done
 average distortion: 0.01%
 writing endofem.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  23 APR 2019 00:18
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 05:47
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
 [1] [2] [3] [4] (./mptextmp.mp) [5] )
  
 Here is how much of MetaPost's memory you used:
- 1045 strings out of 1162
- 13227 string characters out of 20720
- 59943 words of memory out of 1500000
+ 1049 strings out of 1162
+ 13264 string characters out of 15838
+ 241943 words of memory out of 1500000
  1385 symbolic tokens out of 16384
- 8i,75n,11p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
- 19 string compactions (moved 152491 characters, 12648 strings)
+ 11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 19 string compactions (moved 158183 characters, 13022 strings)
 18 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  23 APR 2019 00:18
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 05:47
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -80,14 +80,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  250 strings out of 95617
  2539 string characters out of 1171098
- 19181 words of memory out of 1506159
+ 261373 words of memory out of 1721351
  1663 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 21693 bytes).
+Output written on data.pdf (1 page, 94002 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -97,8 +97,9 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing endofemth.3d ... done
-writing xtherion file ... done
-compilation time: 1 sec
+writing xtherion file ... 
+C:\Program Files (x86)\Therion\therion.exe: warning -- can't open xtherion file for output -- thconfig.xth
+compilation time: 2 sec
 
 
 ###################### scrap distortions #######################

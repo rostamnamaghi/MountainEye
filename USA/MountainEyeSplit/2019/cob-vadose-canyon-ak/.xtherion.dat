@@ -1,0 +1,12 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 31.55m (surface 0.00m, duplicated 0.00m)\nvertical range: 11.37m (from 6.8@cob-vadose-canyon-ak at 0.00m to 690.5@cob-vadose-canyon-ak at -11.37m)\nnorth-south range: 16.31m (from 690.1@cob-vadose-canyon-ak at 2.79m to 690.4@cob-vadose-canyon-ak at -13.52m)\neast-west range: 16.38m (from 690.5@cob-vadose-canyon-ak at 16.38m to 6.8@cob-vadose-canyon-ak at 0.00m)\nnumber of shots: 53\nnumber of stations: 54"
+xth_cp_data_tree_insert 19 1 1 cob-vadose-canyon-ak cob-vadose-canyon-ak "" "" "length: 31.55m (surface 0.00m, duplicated 0.00m)\nvertical range: 11.37m (from 6.8@cob-vadose-canyon-ak at 0.00m to 690.5@cob-vadose-canyon-ak at -11.37m)\nnorth-south range: 16.31m (from 690.1@cob-vadose-canyon-ak at 2.79m to 690.4@cob-vadose-canyon-ak at -13.52m)\neast-west range: 16.38m (from 690.5@cob-vadose-canyon-ak at 16.38m to 6.8@cob-vadose-canyon-ak at 0.00m)\nnumber of shots: 53\nnumber of stations: 54"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert map 1 44X1 p1 1 cob-vadose-canyon-ak cob-vadose-canyon-ak@cob-vadose-canyon-ak "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 32 1
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1569477025
+

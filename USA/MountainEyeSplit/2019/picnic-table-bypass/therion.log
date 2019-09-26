@@ -1,0 +1,114 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 48 survey stations, joined by 47 legs.
+ 6> There is 1 loop.
+ 7> Survey has 2 connected components.
+ 8> Total length of survey legs =  175.79m ( 175.79m adjusted)
+ 9> Total plan length of survey legs =  162.23m
+10> Total vertical length of survey legs =   39.51m
+11> Vertical range = 5.90m (from 9 at 1.77m to 41 at -4.13m)
+12> North-South range = 28.46m (from 43 at 24.58m to 5 at -3.88m)
+13> East-West range = 17.73m (from 39 at 17.57m to 5 at -0.15m)
+14>   42 1-nodes.
+15>    1 4-node.
+16>    1 7-node.
+17>    1 8-node.
+18>    1 9-node.
+19>    1 10-node.
+20>    1 14-node.
+21> 
+######################### transcription ########################
+ 3> 1 : 1@picnic-table-bypass
+ 5> 48 : 7@picnic-table-bypass -- 47 : -@picnic-table-bypass
+ 6> 1 : 1@picnic-table-bypass
+ 7> 2 : -@picnic-table-bypass
+11> 9 : -@picnic-table-bypass -- 41 : -@picnic-table-bypass
+12> 43 : -@picnic-table-bypass -- 5 : -@picnic-table-bypass
+13> 39 : -@picnic-table-bypass -- 5 : -@picnic-table-bypass
+14> 42 : -@picnic-table-bypass
+15> 1 : 1@picnic-table-bypass
+16> 1 : 1@picnic-table-bypass
+17> 1 : 1@picnic-table-bypass
+18> 1 : 1@picnic-table-bypass
+19> 1 : 1@picnic-table-bypass
+20> 1 : 1@picnic-table-bypass
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing picnic-table-bypass-th.3d ... done
+processing projection plan ... done
+average distortion: 0.04%
+writing picnic-table-bypass-plan.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  25 SEP 2019 16:15
+**data.mp
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[1] [2] [3] [4] (./mptextmp.mp) [5] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1054 strings out of 1162
+ 13346 string characters out of 20720
+ 59943 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 9i,75n,11p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 20 string compactions (moved 171486 characters, 14063 strings)
+18 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  25 SEP 2019 16:15
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 54 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 249 strings out of 95617
+ 2528 string characters out of 1171098
+ 39704 words of memory out of 1524682
+ 1664 multiletter control sequences out of 15000+50000
+ 16503 words of font info for 54 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 6i,5n,6p,238b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb>
+Output written on data.pdf (1 page, 20276 bytes).
+PDF statistics:
+ 36 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing xtherion file ... done
+compilation time: 1 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.04%    0.21%  picnic-table-bypass-SP1@picnic-table-bypass
+################### end of scrap distortions ###################

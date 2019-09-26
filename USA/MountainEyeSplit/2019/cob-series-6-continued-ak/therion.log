@@ -1,6 +1,6 @@
-therion 5.4.1+82e637b (2018-09-20)
-checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
-checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
 configuration file: thconfig
 reading ... done
 reading source files ... done
@@ -8,71 +8,104 @@ preprocessing database ... done
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 89 survey stations, joined by 88 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs =  387.71m ( 387.71m adjusted)
+ 8> Total plan length of survey legs =  346.89m
+ 9> Total vertical length of survey legs =   99.04m
+10> Vertical range = 5.87m (from 81 at 3.64m to 5 at -2.23m)
+11> North-South range = 28.02m (from 53 at 12.08m to 69 at -15.93m)
+12> East-West range = 98.76m (from 89 at 98.76m to 1 at 0.00m)
+13>   78 1-nodes.
+14>    4 6-nodes.
+15>    1 7-node.
+16>    1 8-node.
+17>    2 11-nodes.
+18>    2 12-nodes.
+19>    1 13-node.
+20> 
+######################### transcription ########################
+ 3> 1 : 6.51@cob-series-6-continued-ak
+ 5> 89 : -@cob-series-6-continued-ak -- 88 : -@cob-series-6-continued-ak
+10> 81 : -@cob-series-6-continued-ak -- 5 : -@cob-series-6-continued-ak
+11> 53 : -@cob-series-6-continued-ak -- 69 : -@cob-series-6-continued-ak
+12> 89 : -@cob-series-6-continued-ak -- 1 : 6.51@cob-series-6-continued-ak
+13> 78 : 6.62@cob-series-6-continued-ak
+14> 4 : -@cob-series-6-continued-ak
+15> 1 : 6.51@cob-series-6-continued-ak
+16> 1 : 6.51@cob-series-6-continued-ak
+17> 2 : 6.52@cob-series-6-continued-ak
+18> 2 : 6.52@cob-series-6-continued-ak
+19> 1 : 6.51@cob-series-6-continued-ak
+#################### end of cavern log file ####################
+done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
+writing cob-series-6-continued-ak-th.3d ... done
 processing projection plan ... done
-average distortion: 0.00%
+average distortion: 0.02%
 writing cob-series-6-continued-ak-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  12 APR 2019 10:36
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 07:02
 **data.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
-Preloading the plain mem file, version 1.005) ) (./data.mp [4001] [4002] [4003]
-[4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [4012] [4013]
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
 [1] [2] [3] [4] (./mptextmp.mp) [5] )
  
 Here is how much of MetaPost's memory you used:
- 2056 strings using 46300 characters
- 2749992 bytes of node memory
- 1422 symbolic tokens
- 8i,81n,11p,202b,4f stack positions out of 16i,96n,12p,250b,6f
+ 1054 strings out of 1162
+ 13356 string characters out of 20720
+ 153238 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 23 string compactions (moved 205592 characters, 16760 strings)
 18 output files written: data.1 .. data.4013
-
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdfetex 2018.9.25)  12 APR 2019 10:36
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 07:02
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
-(/usr/local/texlive/2018/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
-(./th_fontdef.tex{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map})
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
  53 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 248 strings out of 494645
- 2565 string characters out of 6148133
- 24757 words of memory out of 5000000
- 1890 multiletter control sequences out of 15000+600000
- 16503 words of font info for 54 fonts, out of 8000000 for 9000
- 1416 hyphenation exceptions out of 8191
- 6i,5n,6p,271b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
-.pfb>
-Output written on data.pdf (1 page, 18468 bytes).
+ 248 strings out of 95617
+ 2524 string characters out of 1171098
+ 166093 words of memory out of 1641071
+ 1663 multiletter control sequences out of 15000+50000
+ 16503 words of font info for 54 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 6i,5n,6p,271b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb>
+Output written on data.pdf (1 page, 68334 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
 done
+writing xtherion file ... done
 compilation time: 1 sec
 
 
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.00%    0.01%  scrap15@cob-series-6-continued-ak
+   0.02%    0.13%  cob-series-6-continued-ak-SP1@cob-series-6-continued-ak
 ################### end of scrap distortions ###################

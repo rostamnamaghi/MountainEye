@@ -1,0 +1,48 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 27 survey stations, joined by 26 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs =   58.18m (  58.18m adjusted)
+ 8> Total plan length of survey legs =   39.24m
+ 9> Total vertical length of survey legs =   28.41m
+10> Vertical range = 13.45m (from 26 at 13.45m to 1 at 0.00m)
+11> North-South range = 8.60m (from 27 at 8.11m to 6 at -0.49m)
+12> East-West range = 14.92m (from 27 at 14.72m to 7 at -0.20m)
+13>   23 1-nodes.
+14>    1 4-node.
+15>    2 7-nodes.
+16>    1 11-node.
+17> 
+######################### transcription ########################
+ 3> 1 : 1@3016-continuation-3
+ 5> 27 : 5@3016-continuation-3 -- 26 : -@3016-continuation-3
+10> 26 : -@3016-continuation-3 -- 1 : 1@3016-continuation-3
+11> 27 : 5@3016-continuation-3 -- 6 : -@3016-continuation-3
+12> 27 : 5@3016-continuation-3 -- 7 : -@3016-continuation-3
+13> 23 : -@3016-continuation-3
+14> 1 : 1@3016-continuation-3
+15> 2 : -@3016-continuation-3
+16> 1 : 1@3016-continuation-3
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+writing 3016-continuation-3-th.3d ... done
+writing xtherion file ... done
+compilation time: 0 sec

@@ -10,6 +10,6 @@ source "Omen-dog-west.th"
 
 export model -fmt survex -o "Omen-dog-west-th.3d"
 
-# export map -proj plan -layout local -o "Omen-dog-west-plan.pdf"
+export map -proj plan -layout local -o "Omen-dog-west-plan.pdf"
 
 # export map -proj extended -layout local -o "Omen-dog-west-ee.pdf"

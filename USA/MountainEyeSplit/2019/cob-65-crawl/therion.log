@@ -1,4 +1,4 @@
-therion 5.4.3 (2019-02-01)
+therion 5.4.1 (2017-04-18)
 initialization file: C:\Program Files (x86)\Therion/therion.ini
 reading ... done
 configuration file: thconfig
@@ -8,58 +8,102 @@ preprocessing database ... done
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 131 survey stations, joined by 130 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs =  299.77m ( 299.77m adjusted)
+ 8> Total plan length of survey legs =  265.48m
+ 9> Total vertical length of survey legs =   73.00m
+10> Vertical range = 8.32m (from 85 at 2.03m to 122 at -6.29m)
+11> North-South range = 19.74m (from 126 at 19.12m to 6 at -0.61m)
+12> East-West range = 66.24m (from 88 at 66.22m to 13 at -0.02m)
+13>  115 1-nodes.
+14>    1 2-node.
+15>    1 5-node.
+16>    1 6-node.
+17>    4 7-nodes.
+18>    1 8-node.
+19>    3 10-nodes.
+20>    1 11-node.
+21>    1 12-node.
+22>    2 13-nodes.
+23>    1 17-node.
+24> 
+######################### transcription ########################
+ 3> 1 : 6.5@cob-65-crawl
+ 5> 131 : -@cob-65-crawl -- 130 : -@cob-65-crawl
+10> 85 : -@cob-65-crawl -- 122 : -@cob-65-crawl
+11> 126 : -@cob-65-crawl -- 6 : -@cob-65-crawl
+12> 88 : -@cob-65-crawl -- 13 : -@cob-65-crawl
+13> 115 : -@cob-65-crawl
+14> 1 : 6.5@cob-65-crawl
+15> 1 : 6.5@cob-65-crawl
+16> 1 : 6.5@cob-65-crawl
+17> 4 : -@cob-65-crawl
+18> 1 : 6.5@cob-65-crawl
+19> 3 : -@cob-65-crawl
+20> 1 : 6.5@cob-65-crawl
+21> 1 : 6.5@cob-65-crawl
+22> 2 : 650.1@cob-65-crawl
+23> 1 : 6.5@cob-65-crawl
+#################### end of cavern log file ####################
+done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
+writing cob-65-crawl-th.3d ... done
 processing projection plan ... done
-average distortion: 0.00%
+average distortion: 0.03%
 writing cob-65-crawl-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  12 APR 2019 09:44
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 07:30
 **data.mp
-(./data.mp
-{randomseed:=42}
- [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
-4012] [4013]
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
 [1] [2] [3] [4] (./mptextmp.mp) [5] )
  
 Here is how much of MetaPost's memory you used:
- 1054 strings out of 1162
- 13504 string characters out of 20720
- 60956 words of memory out of 1500000
- 1396 symbolic tokens out of 16384
- 8i,75n,11p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
- 18 string compactions (moved 148290 characters, 12128 strings)
+ 1070 strings out of 1162
+ 13320 string characters out of 20720
+ 103425 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 34 string compactions (moved 356010 characters, 28597 strings)
 18 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  12 APR 2019 09:44
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 07:30
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
 (c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
 (./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
- 53 numeric registers used out of 32768
+ 55 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 248 strings out of 95617
- 2524 string characters out of 1171098
- 16863 words of memory out of 1503841
- 1663 multiletter control sequences out of 15000+50000
+ 250 strings out of 95617
+ 2532 string characters out of 1171098
+ 108685 words of memory out of 1588663
+ 1665 multiletter control sequences out of 15000+50000
  16503 words of font info for 54 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  6i,5n,6p,238b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb>
-Output written on data.pdf (1 page, 11339 bytes).
+Output written on data.pdf (1 page, 55301 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
@@ -71,5 +115,5 @@ compilation time: 1 sec
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.00%    0.01%  cob-65-crawl-SP1@cob-65-crawl
+   0.03%    0.43%  cob-65-crawl-SP1@cob-65-crawl
 ################### end of scrap distortions ###################

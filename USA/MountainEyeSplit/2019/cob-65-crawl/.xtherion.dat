@@ -1,0 +1,12 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 85.14m (surface 0.00m, duplicated 0.00m)\nvertical range: 7.14m (from 650.10@cob-65-crawl at 1.80m to 650.14@cob-65-crawl at -5.34m)\nnorth-south range: 18.56m (from 650.15@cob-65-crawl at 18.56m to 6.5@cob-65-crawl at 0.00m)\neast-west range: 64.93m (from 650.12@cob-65-crawl at 64.93m to 6.5@cob-65-crawl at 0.00m)\nnumber of shots: 130\nnumber of stations: 131"
+xth_cp_data_tree_insert 19 1 1 cob-65-crawl cob-65-crawl "" "" "length: 85.14m (surface 0.00m, duplicated 0.00m)\nvertical range: 7.14m (from 650.10@cob-65-crawl at 1.80m to 650.14@cob-65-crawl at -5.34m)\nnorth-south range: 18.56m (from 650.15@cob-65-crawl at 18.56m to 6.5@cob-65-crawl at 0.00m)\neast-west range: 64.93m (from 650.12@cob-65-crawl at 64.93m to 6.5@cob-65-crawl at 0.00m)\nnumber of shots: 130\nnumber of stations: 131"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert map 1 67X1 p1 1 cob-65-crawl cob-65-crawl@cob-65-crawl "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 85 1
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1569479442
+

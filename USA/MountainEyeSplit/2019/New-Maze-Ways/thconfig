@@ -10,5 +10,3 @@ source "Stream-large-south.th"
 
 export model -fmt survex -o "Stream-large-south-th.3d"
 export map -proj plan -layout local -o "Stream-large-south-plan.pdf"
-
-# export map -proj extended -layout local -o "Stream-large-south-ee.pdf"

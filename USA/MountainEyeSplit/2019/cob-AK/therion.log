@@ -1,6 +1,6 @@
-therion 5.4.1+82e637b (2018-09-20)
-checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
-checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
 configuration file: thconfig
 reading ... done
 reading source files ... done
@@ -8,71 +8,103 @@ preprocessing database ... done
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 56 survey stations, joined by 55 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs =  240.60m ( 240.60m adjusted)
+ 8> Total plan length of survey legs =  204.26m
+ 9> Total vertical length of survey legs =   88.97m
+10> Vertical range = 11.24m (from 55 at 7.00m to 20 at -4.24m)
+11> North-South range = 12.33m (from 53 at 0.53m to 15 at -11.80m)
+12> East-West range = 34.82m (from 55 at 34.82m to 1 at 0.00m)
+13>   50 1-nodes.
+14>    1 5-node.
+15>    1 6-node.
+16>    1 7-node.
+17>    1 10-node.
+18>    1 15-node.
+19>    1 17-node.
+20> 
+######################### transcription ########################
+ 3> 1 : 602.0@cob-AK
+ 5> 56 : 602.7@cob-AK -- 55 : -@cob-AK
+10> 55 : -@cob-AK -- 20 : -@cob-AK
+11> 53 : -@cob-AK -- 15 : -@cob-AK
+12> 55 : -@cob-AK -- 1 : 602.0@cob-AK
+13> 50 : -@cob-AK
+14> 1 : 602.0@cob-AK
+15> 1 : 602.0@cob-AK
+16> 1 : 602.0@cob-AK
+17> 1 : 602.0@cob-AK
+18> 1 : 602.0@cob-AK
+19> 1 : 602.0@cob-AK
+#################### end of cavern log file ####################
+done
 calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 0.00%
+average distortion: 0.03%
 writing cob-AK-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.00 (TeX Live 2018) (kpathsea version 6.3.0)  10 APR 2019 22:03
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 07:25
 **data.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/mpost.mp
-(/usr/local/texlive/2018/texmf-dist/metapost/base/plain.mp
-Preloading the plain mem file, version 1.005) ) (./data.mp [4001] [4002] [4003]
-[4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [4012] [4013]
-[1] [2] [3] [4] [5] (./mptextmp.mp) [6] )
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[1] [2] [3] [4] (./mptextmp.mp) [5] )
  
 Here is how much of MetaPost's memory you used:
- 1795 strings using 40337 characters
- 2723464 bytes of node memory
- 1423 symbolic tokens
- 8i,81n,12p,202b,5f stack positions out of 16i,96n,15p,250b,6f
-19 output files written: data.1 .. data.4013
-
+ 1050 strings out of 1162
+ 13256 string characters out of 15838
+ 60017 words of memory out of 1500000
+ 1385 symbolic tokens out of 16384
+ 11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 20 string compactions (moved 171070 characters, 14045 strings)
+18 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdfetex 2018.9.25)  10 APR 2019 22:03
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 07:25
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
-(/usr/local/texlive/2018/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
-(./th_fontdef.tex{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map})
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
- 54 numeric registers used out of 32768
+ 53 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 249 strings out of 494645
- 2576 string characters out of 6148133
- 21452 words of memory out of 5000000
- 1891 multiletter control sequences out of 15000+600000
- 16503 words of font info for 54 fonts, out of 8000000 for 9000
- 1416 hyphenation exceptions out of 8191
- 6i,5n,6p,238b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
-.pfb>
-Output written on data.pdf (1 page, 17458 bytes).
+ 248 strings out of 95617
+ 2524 string characters out of 1171098
+ 29271 words of memory out of 1514249
+ 1663 multiletter control sequences out of 15000+50000
+ 16503 words of font info for 54 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 6i,5n,6p,238b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb>
+Output written on data.pdf (1 page, 17087 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
 done
+writing xtherion file ... done
 compilation time: 1 sec
 
 
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.00%    0.02%  cob-AK@cob-AK
+   0.03%    0.20%  cob-AK-SP1@cob-AK
 ################### end of scrap distortions ###################
