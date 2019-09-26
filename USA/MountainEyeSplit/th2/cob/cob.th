@@ -7,7 +7,6 @@ input cobEe.th2
 map cob
     cobSP1
     cobSP2
-    cobSPX6.31
   break
     cobSP3
 endmap
