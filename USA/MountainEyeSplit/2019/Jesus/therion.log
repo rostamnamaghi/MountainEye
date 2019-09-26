@@ -1,4 +1,4 @@
-therion 5.4.3 (2019-02-01)
+therion 5.4.1 (2017-04-18)
 initialization file: C:\Program Files (x86)\Therion/therion.ini
 reading ... done
 configuration file: thconfig
@@ -10,16 +10,16 @@ searching for centerline loops ... done
 calculating station coordinates ... done
 processing survey data ... 
 ####################### cavern log file ########################
- 1> Survex 1.2.30
- 2> Copyright ¸ 1990-2016 Olly Betts
- 3> Survey has no control points. Therefore I've fixed 1 at (0,0,0)
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
  4> 
- 5> Survey contains 519 survey stations, joined by 518 shots.
+ 5> Survey contains 519 survey stations, joined by 518 legs.
  6> There is 1 loop.
  7> Survey has 2 connected components.
- 8> Total length of survey shots = 1525.33m (1525.33m adjusted)
- 9> Total plan length of survey shots = 1300.12m
-10> Total vertical length of survey shots =  474.51m
+ 8> Total length of survey legs = 1525.33m (1525.33m adjusted)
+ 9> Total plan length of survey legs = 1300.12m
+10> Total vertical length of survey legs =  474.51m
 11> Vertical range = 29.78m (from 138 at 15.46m to 505 at -14.32m)
 12> North-South range = 198.55m (from 199 at 82.03m to 484 at -116.52m)
 13> East-West range = 94.92m (from 355 at 22.20m to 90 at -72.72m)
@@ -64,14 +64,12 @@ processing references ... done
 selecting export objects ... done
 processing projection plan ... done
 average distortion: 0.04%
-writing Jesus Was Rarely Politically Correct.pdf ...
+writing jesus_is_not_often_politically_correct.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  13 JUN 2019 16:50
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 15:37
 **data.mp
-(./data.mp
-{randomseed:=42}
- [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
-4012] [4013]
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
 [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
 [Warning: scrap outline intersects itself in scrap jesus_is_not_often_political
 ly_correct-DIRECTLY.abovep@jesus_is_not_often_politically_correct] [13] [14]
@@ -79,19 +77,19 @@ ly_correct-DIRECTLY.abovep@jesus_is_not_often_politically_correct] [13] [14]
 ) [28] )
  
 Here is how much of MetaPost's memory you used:
- 1302 strings out of 1638
- 14063 string characters out of 26823
- 497970 words of memory out of 1500000
- 1405 symbolic tokens out of 16384
- 11i,75n,16p,654b,5f stack positions out of 300i,84n,5000p,760b,15f
- 468 string compactions (moved 6350581 characters, 504436 strings)
+ 1291 strings out of 1638
+ 13804 string characters out of 26823
+ 496957 words of memory out of 1500000
+ 1394 symbolic tokens out of 16384
+ 11i,75n,16p,637b,5f stack positions out of 300i,84n,5000p,760b,15f
+ 417 string compactions (moved 5532339 characters, 444125 strings)
 41 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  13 JUN 2019 16:50
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 15:37
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -103,14 +101,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  278 strings out of 95617
  2841 string characters out of 1171098
- 1237186 words of memory out of 2627164
+ 1237721 words of memory out of 2627699
  1691 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,341b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 601257 bytes).
+Output written on data.pdf (1 page, 601077 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -120,7 +118,7 @@ PDF statistics:
 ##################### end of pdftex log file #####################
 done
 writing xtherion file ... done
-compilation time: 7 sec
+compilation time: 6 sec
 
 
 ###################### scrap distortions #######################

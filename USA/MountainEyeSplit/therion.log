@@ -43,19 +43,19 @@ processing survey data ...
 10> Vertical range = 119.83m (from 827 at 284.22m to 5239 at 164.39m)
 11> North-South range = 3843.80m (from 6170 at 4018402.90m to 4315 at 4014559.10m)
 12> East-West range = 2870.95m (from 8414 at 678915.50m to 3706 at 676044.56m)
-13> 11330 1-nodes.
-14>   460 2-nodes.
+13> 11329 1-nodes.
+14>   461 2-nodes.
 15>    45 3-nodes.
-16>    46 4-nodes.
-17>   274 5-nodes.
+16>    45 4-nodes.
+17>   275 5-nodes.
 18>   391 6-nodes.
 19>   236 7-nodes.
 20>   192 8-nodes.
 21>   157 9-nodes.
 22>   128 10-nodes.
 23>   101 11-nodes.
-24>    65 12-nodes.
-25>    50 13-nodes.
+24>    66 12-nodes.
+25>    49 13-nodes.
 26>    39 14-nodes.
 27>    28 15-nodes.
 28>    12 16-nodes.
@@ -68,8 +68,8 @@ processing survey data ...
 35>     3 23-nodes.
 36>     2 24-nodes.
 37>     6 25-nodes.
-38>     1 26-node.
-39>     4 27-nodes.
+38>     2 26-nodes.
+39>     3 27-nodes.
 40>     1 28-node.
 41>     1 29-node.
 42> 
@@ -80,19 +80,19 @@ processing survey data ...
 10> 827 : -@cob.Mountaineye -- 5239 : -@Empire-kessel-run.Mountaineye
 11> 6170 : -@mousehouse2.Mountaineye -- 4315 : -@Downstream_Compile.Mountaineye
 12> 8414 : -@mousehouse6.Mountaineye -- 3706 : -@Downstream_Compile.Mountaineye
-13> 11330 : -@BoulderChokeAdrianAlice.Mountaineye
-14> 460 : 2.12@mountaineye2.Mountaineye
+13> 11329 : -@BoulderChokeAdrianAlice.Mountaineye
+14> 461 : 2.13@mountaineye2.Mountaineye
 15> 45 : -@mountaineye1.Mountaineye
-16> 46 : -@mountaineye1.Mountaineye
-17> 274 : -@mountaineye1.Mountaineye
+16> 45 : -@mountaineye1.Mountaineye
+17> 275 : -@mountaineye1.Mountaineye
 18> 391 : -@mountaineye1.Mountaineye
 19> 236 : -@mountaineye1.Mountaineye
 20> 192 : -@mountaineye1.Mountaineye
 21> 157 : -@mountaineye1.Mountaineye
 22> 128 : -@mountaineye1.Mountaineye
 23> 101 : -@mountaineye1.Mountaineye
-24> 65 : -@mountaineye1.Mountaineye
-25> 50 : -@mountaineye1.Mountaineye
+24> 66 : -@mountaineye1.Mountaineye
+25> 49 : -@mountaineye1.Mountaineye
 26> 39 : -@mountaineye1.Mountaineye
 27> 28 : -@mountaineye1.Mountaineye
 28> 12 : -@mountaineye1.Mountaineye
@@ -105,8 +105,8 @@ processing survey data ...
 35> 3 : -@mountaineye1.Mountaineye
 36> 2 : -@mountaineye1.Mountaineye
 37> 6 : -@mountaineye1.Mountaineye
-38> 1 : 1.0@mountaineye1.Mountaineye
-39> 4 : -@mountaineye1.Mountaineye
+38> 2 : -@mountaineye1.Mountaineye
+39> 3 : -@mountaineye1.Mountaineye
 40> 1 : 1.0@mountaineye1.Mountaineye
 41> 1 : 1.0@mountaineye1.Mountaineye
 #################### end of cavern log file ####################
@@ -120,7 +120,7 @@ average distortion: 0.08%
 writing export/MountaineyeMap3.pdf ...
 processing projection none ... done
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 15:14
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 15:38
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
@@ -214,17 +214,17 @@ pile.Mountaineye] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236]
 Here is how much of MetaPost's memory you used:
  3826 strings out of 3907
  16533 string characters out of 43988
- 211509 words of memory out of 1500000
+ 210509 words of memory out of 1500000
  1404 symbolic tokens out of 16384
  11i,75n,16p,629b,5f stack positions out of 300i,84n,5000p,760b,15f
- 1468 string compactions (moved 20953663 characters, 3404117 strings)
+ 1465 string compactions (moved 20908032 characters, 3392746 strings)
 347 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 15:15
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 15:38
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -238,14 +238,14 @@ Normal \count register pool exhausted, switching to extended pool.)
 Here is how much of TeX's memory you used:
  749 strings out of 95617
  7466 string characters out of 1171098
- 392300 words of memory out of 1848278
+ 390574 words of memory out of 1846552
  2159 multiletter control sequences out of 15000+50000
  21229 words of font info for 66 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  12i,5n,9p,2387b,78s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 2778868 bytes).
+Output written on data.pdf (1 page, 2776935 bytes).
 PDF statistics:
  1237 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -257,7 +257,7 @@ done
 writing mountaineye_Walls.3d ... done
 writing xtherion file ... 
 C:\Program Files (x86)\Therion\therion.exe: warning -- can't open xtherion file for output -- thconfig.MountainEye.xth
-compilation time: 99 sec
+compilation time: 38 sec
 
 
 ######################### loop errors ##########################
@@ -299,10 +299,10 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
    0.07%    6.68%  ME4_scrapSP2@mountaineye4.Mountaineye
    0.02%    6.18%  jesus_is_not_often_politically_correct-DIRECTLY.abovep@jesus_is_not_often_politically_correct.Mountaineye
    0.33%    5.48%  3016-continuation-SP2@3016-continuation.Mountaineye
-   0.08%    5.16%  jesus_is_not_often_politically_correct-SCOOP.DAWGp@jesus_is_not_often_politically_correct.Mountaineye
+   0.08%    5.17%  jesus_is_not_often_politically_correct-SCOOP.DAWGp@jesus_is_not_often_politically_correct.Mountaineye
    0.08%    4.37%  ME3_scrapSP1@mountaineye3.Mountaineye
    0.01%    3.96%  annoyedSP1@annoyed.Mountaineye
-   0.06%    3.70%  scrap248@jesus_is_not_often_politically_correct.Mountaineye
+   0.05%    3.70%  scrap248@jesus_is_not_often_politically_correct.Mountaineye
    0.70%    3.59%  jesus_is_not_often_politically_correct-PITCHp@jesus_is_not_often_politically_correct.Mountaineye
    0.14%    2.73%  3016-continuation-3-SP1@3016-continuation-3.Mountaineye
    0.07%    2.26%  sloppysecondsSP1@sloppyseconds.Mountaineye
@@ -310,7 +310,7 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
    0.17%    2.13%  tunnelSP1@tunnel.Mountaineye
    0.05%    2.07%  praise_the_lord-1p@praise_the_lord.Mountaineye
    0.12%    1.93%  picnic-table-bypass-SP1@picnic-table-bypass.Mountaineye
-   0.07%    1.90%  jesus_is_not_often_politically_correct-CONNECTING.LOOPp@jesus_is_not_often_politically_correct.Mountaineye
+   0.06%    1.90%  jesus_is_not_often_politically_correct-CONNECTING.LOOPp@jesus_is_not_often_politically_correct.Mountaineye
    0.03%    1.52%  mousehouseSP3@mousehouse.Mountaineye
    0.08%    1.48%  scrap79@hyperborium_cave_north_from_main_bh_complete.Mountaineye
    0.04%    1.40%  934LHS-SP1@934LHS.Mountaineye
@@ -344,6 +344,7 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
    0.10%    0.55%  3016-continuation-2-SP1@3016-continuation-2.Mountaineye
    0.03%    0.53%  belhaverSP1@belhaver.Mountaineye
    0.06%    0.52%  cobSP2@cob.Mountaineye
+   0.09%    0.47%  jesus_is_not_often_politically_correct-SUNKENSHIPSp@jesus_is_not_often_politically_correct.Mountaineye
    0.01%    0.44%  cobSP1@cob.Mountaineye
    0.01%    0.42%  scrap1@Downstream_Compile.Mountaineye
    0.03%    0.42%  mksuperbowl2SP1@mksuperbowl2.Mountaineye
@@ -356,7 +357,6 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
    0.07%    0.35%  3016-continuation-SP1@3016-continuation.Mountaineye
    0.02%    0.33%  scrap2@Downstream_Compile.Mountaineye
    0.05%    0.32%  cob-vadose-canyon-ak-SP1@cob-vadose-canyon-ak.Mountaineye
-   0.05%    0.30%  jesus_is_not_often_politically_correct-SUNKENSHIPSp@jesus_is_not_often_politically_correct.Mountaineye
    0.03%    0.27%  scrap216@praise_the_lord.Mountaineye
    0.02%    0.27%  cob-65-crawl-SP1@cob-65-crawl.Mountaineye
    0.01%    0.26%  scrapSP1-DLD2@Downstream_Compile.Mountaineye
@@ -392,7 +392,7 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
    0.00%    0.00%  mousehouse7SP2@mousehouse7.Mountaineye
    0.00%    0.00%  scrap1@Omen-dog-west.Mountaineye
    0.00%    0.00%  mousehouse7SP1@mousehouse7.Mountaineye
-   0.00%    0.00%  mousehouse3SP2@mousehouse3.Mountaineye
-   0.00%    0.00%  scrap20a@mountaineye22.Mountaineye
    0.00%    0.00%  hyperborean-bore-north-3-SP2@hyperborean-bore-north.Mountaineye
+   0.00%    0.00%  scrap20a@mountaineye22.Mountaineye
+   0.00%    0.00%  mousehouse3SP2@mousehouse3.Mountaineye
 ################### end of scrap distortions ###################
