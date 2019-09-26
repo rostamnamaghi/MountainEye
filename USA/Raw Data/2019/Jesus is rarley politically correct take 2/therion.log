@@ -1,0 +1,136 @@
+therion 5.4.3 (2019-02-01)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.30
+ 2> Copyright ¸ 1990-2016 Olly Betts
+ 3> Survey has no control points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 519 survey stations, joined by 518 shots.
+ 6> There is 1 loop.
+ 7> Survey has 2 connected components.
+ 8> Total length of survey shots = 1525.33m (1525.33m adjusted)
+ 9> Total plan length of survey shots = 1300.12m
+10> Total vertical length of survey shots =  474.51m
+11> Vertical range = 29.78m (from 138 at 15.46m to 505 at -14.32m)
+12> North-South range = 198.55m (from 199 at 82.03m to 484 at -116.52m)
+13> East-West range = 94.92m (from 355 at 22.20m to 90 at -72.72m)
+14>  409 1-nodes.
+15>    9 2-nodes.
+16>    2 3-nodes.
+17>    1 4-node.
+18>   42 5-nodes.
+19>   30 6-nodes.
+20>   14 7-nodes.
+21>    4 8-nodes.
+22>    4 9-nodes.
+23>    2 10-nodes.
+24>    1 11-node.
+25>    1 12-node.
+26> 
+######################### transcription ########################
+ 3> 1 : 0@jesus_is_not_often_politically_correct
+ 5> 519 : 204@jesus_is_not_often_politically_correct -- 518 : 203@jesus_is_not_often_politically_correct
+ 6> 1 : 0@jesus_is_not_often_politically_correct
+ 7> 2 : 1@jesus_is_not_often_politically_correct
+11> 138 : .@jesus_is_not_often_politically_correct -- 505 : 406@jesus_is_not_often_politically_correct
+12> 199 : 1232@jesus_is_not_often_politically_correct -- 484 : 138@jesus_is_not_often_politically_correct
+13> 355 : .@jesus_is_not_often_politically_correct -- 90 : .@jesus_is_not_often_politically_correct
+14> 409 : .@jesus_is_not_often_politically_correct
+15> 9 : 2@jesus_is_not_often_politically_correct
+16> 2 : 1@jesus_is_not_often_politically_correct
+17> 1 : 0@jesus_is_not_often_politically_correct
+18> 42 : .@jesus_is_not_often_politically_correct
+19> 30 : .@jesus_is_not_often_politically_correct
+20> 14 : .@jesus_is_not_often_politically_correct
+21> 4 : .@jesus_is_not_often_politically_correct
+22> 4 : .@jesus_is_not_often_politically_correct
+23> 2 : 1@jesus_is_not_often_politically_correct
+24> 1 : 0@jesus_is_not_often_politically_correct
+25> 1 : 0@jesus_is_not_often_politically_correct
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+average distortion: 0.04%
+writing Jesus Was Rarely Politically Correct.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  13 JUN 2019 16:50
+**data.mp
+(./data.mp
+{randomseed:=42}
+ [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
+4012] [4013]
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
+[Warning: scrap outline intersects itself in scrap jesus_is_not_often_political
+ly_correct-DIRECTLY.abovep@jesus_is_not_often_politically_correct] [13] [14]
+[15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] (./mptextmp.mp
+) [28] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1302 strings out of 1638
+ 14063 string characters out of 26823
+ 497970 words of memory out of 1500000
+ 1405 symbolic tokens out of 16384
+ 11i,75n,16p,654b,5f stack positions out of 300i,84n,5000p,760b,15f
+ 468 string compactions (moved 6350581 characters, 504436 strings)
+41 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  13 JUN 2019 16:50
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 81 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 278 strings out of 95617
+ 2841 string characters out of 1171098
+ 1237186 words of memory out of 2627164
+ 1691 multiletter control sequences out of 15000+50000
+ 20080 words of font info for 63 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 9i,5n,8p,341b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
+Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
+Output written on data.pdf (1 page, 601257 bytes).
+PDF statistics:
+ 108 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing xtherion file ... done
+compilation time: 7 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.09%    5.84%  jesus_is_not_often_politically_correct-SCOOP.DAWGp@jesus_is_not_often_politically_correct
+   0.02%    5.16%  jesus_is_not_often_politically_correct-DIRECTLY.abovep@jesus_is_not_often_politically_correct
+   0.05%    3.14%  scrap248@jesus_is_not_often_politically_correct
+   0.45%    2.43%  jesus_is_not_often_politically_correct-PITCHp@jesus_is_not_often_politically_correct
+   0.07%    1.57%  jesus_is_not_often_politically_correct-CONNECTING.LOOPp@jesus_is_not_often_politically_correct
+   0.07%    1.16%  jesus_is_not_often_politically_correct-CONNECTS2SUMWHEREELSEp@jesus_is_not_often_politically_correct
+   0.04%    0.32%  jesus_is_not_often_politically_correct-SUNKENSHIPSp@jesus_is_not_often_politically_correct
+################### end of scrap distortions ###################

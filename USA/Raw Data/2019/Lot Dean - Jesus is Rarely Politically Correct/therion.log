@@ -1,0 +1,10 @@
+therion 5.4.3 (2019-02-01)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... 
+C:\Program Files (x86)\Therion\therion.exe: error -- can not connect .@jesus_is_not_often_politically_correct to centerline network
+writing xtherion file ... done

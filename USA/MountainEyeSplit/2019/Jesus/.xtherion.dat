@@ -1,0 +1,11 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 719.72m (surface 0.00m, duplicated 0.00m)\nvertical range: 27.75m (from 1217@jesus_is_not_often_politically_correct at 13.43m to 406@jesus_is_not_often_politically_correct at -14.32m)\nnorth-south range: 198.55m (from 1232@jesus_is_not_often_politically_correct at 82.03m to 138@jesus_is_not_often_politically_correct at -116.52m)\neast-west range: 94.27m (from 1081@jesus_is_not_often_politically_correct at 22.13m to 1404@jesus_is_not_often_politically_correct at -72.14m)\nnumber of shots: 518\nnumber of stations: 519"
+xth_cp_data_tree_insert 18 1 1 jesus_is_not_often_politically_correct jesus_is_not_often_politically_correct "Jesus Was Rarely Politically Correct" "Jesus Was Rarely Politically Correct" "length: 719.72m (surface 0.00m, duplicated 0.00m)\nvertical range: 27.75m (from 1217@jesus_is_not_often_politically_correct at 13.43m to 406@jesus_is_not_often_politically_correct at -14.32m)\nnorth-south range: 198.55m (from 1232@jesus_is_not_often_politically_correct at 82.03m to 138@jesus_is_not_often_politically_correct at -116.52m)\neast-west range: 94.27m (from 1081@jesus_is_not_often_politically_correct at 22.13m to 1404@jesus_is_not_often_politically_correct at -72.14m)\nnumber of shots: 518\nnumber of stations: 519"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_create
+xth_cp_comp_stat 720 7
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1560441046
+

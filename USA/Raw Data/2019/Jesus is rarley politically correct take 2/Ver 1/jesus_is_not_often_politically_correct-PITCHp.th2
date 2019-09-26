@@ -1,0 +1,86 @@
+encoding utf-8
+##XTHERION## xth_me_area_adjust 532.7 -474.1 812.1 809.9
+##XTHERION## xth_me_area_zoom_to 25
+
+# 2018.08.24 created by TopoDroid v. 4.1.1l
+
+#P  u:user label air-draught archeo-material blocks breakdown-choke clay continuation curtain u:danger debris dig entrance flowstone:floor flowstone:wall ice moonmilk u:mud pillar popcorn sand section snow stalactite stalagmite water u:water_drip water-flow
+#L  u:user wall arrow border ceiling-meander chimney floor-meander pit wall:presumed rock-border section slope water-flow
+#A  u:user water blocks clay debris pebbles sand snow
+scrap jesus_is_not_often_politically_correct-PITCHp -projection plan -scale [0 0 100 0 0 0 1 0 m]
+
+line pit
+  570.45 -551.27
+  544.21 -569.37
+  521.73 -591.91
+  497.24 -615.54
+  471.88 -636.91
+  453.97 -664.76
+  443.91 -695.79
+  462.26 -717.67
+  493.26 -728.38
+  525.34 -722.45
+  546.01 -697.76
+  564.02 -667.43
+  575.65 -635.62
+  579.25 -601.52
+  577.59 -568.48
+endline
+
+point 671.76 341.62 label -text "204 is the same as 2.599"
+
+
+line u:splay -visibility off
+  473.61 -456.19
+  385.45 -402.10
+endline
+line u:splay -visibility off
+  473.61 -456.19
+  35.61 -391.99
+endline
+line u:splay -visibility off
+  449.97 300.69
+  245.09 555.78
+endline
+line u:splay -visibility off
+  449.97 300.69
+  504.63 608.86
+endline
+line u:splay -visibility off
+  449.97 300.69
+  89.27 -132.44
+endline
+line u:splay -visibility off
+  449.97 300.69
+  31.32 79.90
+endline
+line u:splay -visibility off
+  473.61 -456.19
+  429.03 -696.04
+endline
+line u:splay -visibility off
+  496.33 -618.34
+  575.12 -648.08
+endline
+line u:splay -visibility off
+  496.33 -618.34
+  440.94 -700.32
+endline
+line u:splay -visibility off
+  496.33 -618.34
+  573.11 -553.75
+endline
+line u:splay -visibility off
+  496.33 -618.34
+  500.04 -727.06
+endline
+
+point 500.00 -600.00 station -name "202"
+point 496.33 -618.34 station -name "201"
+point 553.59 121.84 station -name "203"
+point 620.79 133.88 station -name "204"
+point 473.61 -456.19 station -name "2"
+point 449.97 300.69 station -name "3"
+
+
+endscrap

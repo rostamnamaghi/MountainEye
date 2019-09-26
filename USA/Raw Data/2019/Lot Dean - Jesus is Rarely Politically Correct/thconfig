@@ -1,0 +1,4 @@
+encoding  utf-8
+source jesus_is_not_often_politically_correct.th
+
+export map -projection plan -o LD1.pdf

@@ -1,0 +1,142 @@
+encoding utf-8
+##XTHERION## xth_me_area_adjust -428.5 -913.1 1272.5 341.6
+##XTHERION## xth_me_area_zoom_to 25
+
+# 2018.08.24 created by TopoDroid v. 4.1.1l
+
+#P  u:user label air-draught archeo-material blocks breakdown-choke clay continuation curtain u:danger debris dig entrance flowstone:floor flowstone:wall ice moonmilk u:mud pillar popcorn sand section snow stalactite stalagmite water u:water_drip water-flow
+#L  u:user wall arrow border ceiling-meander chimney floor-meander pit wall:presumed rock-border section slope water-flow
+#A  u:user water blocks clay debris pebbles sand snow
+scrap jesus_is_not_often_politically_correct-CONNECTS2SUMWHEREELSEp -projection plan -scale [0 0 100 0 0 0 1 0 m]
+
+line wall
+  983.28 -56.17
+  921.94 -48.70
+  870.55 -54.41
+  824.10 -76.08
+  781.25 -102.31
+  728.63 -128.73
+  683.40 -152.16
+  643.20 -184.26
+  602.10 -223.55
+  555.20 -254.63
+  511.11 -294.69
+  472.74 -333.09
+  428.22 -368.71
+  383.99 -394.52
+  334.16 -426.98
+  290.52 -460.22
+  235.81 -484.67
+  183.77 -510.24
+  127.09 -533.74
+  79.73 -553.02
+  35.69 -578.78
+  -32.22 -609.33
+  -81.10 -626.53
+  -134.90 -655.32
+  -180.23 -678.41
+  -241.67 -715.68
+  -296.81 -753.74
+  -357.08 -800.94
+endline
+
+line wall
+  1060.39 -275.18
+  1005.25 -312.78
+  952.72 -355.53
+  902.92 -386.72
+  858.52 -414.82
+  809.10 -461.91
+  767.32 -503.82
+  711.04 -541.40
+  669.90 -586.27
+  631.70 -629.91
+  593.84 -669.84
+  550.03 -697.75
+  503.74 -727.63
+  450.89 -758.07
+  402.80 -780.71
+  358.21 -803.18
+  308.30 -815.70
+  246.90 -831.49
+  195.49 -839.79
+  139.84 -855.97
+  87.56 -875.59
+  30.48 -906.17
+  -25.63 -933.22
+  -73.46 -958.17
+  -125.74 -988.06
+  -177.70 -1016.54
+  -235.36 -1037.53
+  -299.99 -1069.02
+  -350.48 -1094.27
+endline
+
+point -267.62 -417.76 label -text "406 connects to a new tippex point. (2019) and stn ca5 in carbide" -orientation 319.00 -scale xs
+
+
+line u:splay -visibility off
+  933.24 -1262.15
+  1046.53 -1023.10
+endline
+line u:splay -visibility off
+  933.24 -1262.15
+  1251.00 -926.47
+endline
+line u:splay -visibility off
+  933.24 -1262.15
+  1131.92 -1073.58
+endline
+line u:splay -visibility off
+  1130.03 -945.37
+  1054.94 -1008.19
+endline
+line u:splay -visibility off
+  788.08 -625.47
+  781.15 -648.94
+endline
+line u:splay -visibility off
+  788.08 -625.47
+  469.45 -759.43
+endline
+line u:splay -visibility off
+  788.08 -625.47
+  223.00 -1122.83
+endline
+line u:splay -visibility off
+  788.08 -625.47
+  761.54 -899.56
+endline
+line u:splay -visibility off
+  788.08 -625.47
+  736.20 -552.13
+endline
+line u:splay -visibility off
+  500.00 -600.00
+  511.10 -715.08
+endline
+line u:splay -visibility off
+  500.00 -600.00
+  292.32 -468.76
+endline
+line u:splay -visibility off
+  500.00 -600.00
+  113.13 -832.54
+endline
+line u:splay -visibility off
+  500.00 -600.00
+  640.00 -598.20
+endline
+line u:splay -visibility off
+  500.00 -600.00
+  590.60 -200.29
+endline
+
+point 500.00 -600.00 station -name "405"
+point 480.03 -935.17 station -name "404"
+point -108.45 -765.66 station -name "406"
+point 788.08 -625.47 station -name "4032"
+point 553.50 -968.35 station -name "4033"
+
+
+endscrap

@@ -1,0 +1,148 @@
+therion 5.4.3 (2019-02-01)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.30
+ 2> Copyright ¸ 1990-2016 Olly Betts
+ 3> Survey has no control points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 437 survey stations, joined by 436 shots.
+ 6> There are 0 loops.
+ 7> Total length of survey shots = 1518.74m (1518.74m adjusted)
+ 8> Total plan length of survey shots = 1434.45m
+ 9> Total vertical length of survey shots =  269.02m
+10> Vertical range = 10.75m (from 210 at 9.25m to 325 at -1.50m)
+11> North-South range = 145.24m (from 235 at 145.24m to 1 at 0.00m)
+12> East-West range = 127.96m (from 415 at 90.01m to 321 at -37.95m)
+13>  377 1-nodes.
+14>    2 2-nodes.
+15>    8 6-nodes.
+16>   11 7-nodes.
+17>   12 8-nodes.
+18>    9 9-nodes.
+19>   11 10-nodes.
+20>    5 11-nodes.
+21>    2 12-nodes.
+22> 
+######################### transcription ########################
+ 3> 1 : 0@hyperborium_cave_north_from_main_bh_complete
+ 5> 437 : .@hyperborium_cave_north_from_main_bh_complete -- 436 : .@hyperborium_cave_north_from_main_bh_complete
+10> 210 : .@hyperborium_cave_north_from_main_bh_complete -- 325 : 44@hyperborium_cave_north_from_main_bh_complete
+11> 235 : .@hyperborium_cave_north_from_main_bh_complete -- 1 : 0@hyperborium_cave_north_from_main_bh_complete
+12> 415 : .@hyperborium_cave_north_from_main_bh_complete -- 321 : .@hyperborium_cave_north_from_main_bh_complete
+13> 377 : .@hyperborium_cave_north_from_main_bh_complete
+14> 2 : 1@hyperborium_cave_north_from_main_bh_complete
+15> 8 : 2@hyperborium_cave_north_from_main_bh_complete
+16> 11 : .@hyperborium_cave_north_from_main_bh_complete
+17> 12 : .@hyperborium_cave_north_from_main_bh_complete
+18> 9 : .@hyperborium_cave_north_from_main_bh_complete
+19> 11 : .@hyperborium_cave_north_from_main_bh_complete
+20> 5 : .@hyperborium_cave_north_from_main_bh_complete
+21> 2 : 1@hyperborium_cave_north_from_main_bh_complete
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+average distortion: 0.03%
+writing Pete and Fleurs Most Recent Big Day Out.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 APR 2019 02:48
+**data.mp
+(./data.mp
+{randomseed:=42}
+ [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010] [4011] [
+4012] [4013]
+[1]
+[Warning: scrap outline intersects itself in scrap scrap79@hyperborium_cave_nor
+th_from_main_bh_complete] [2] [3] [4]
+[Error: area borders l5--168--80 and l6--380--424 don't intersect in scrap scra
+p17@hyperborium_cave_north_from_main_bh_complete (file hyperborium_cave_north_f
+rom_main_bh-hb_day_2_no_2p.th2 [62])]
+[Error: area borders l9--808--356 and l7--690--266 don't intersect in scrap scr
+ap17@hyperborium_cave_north_from_main_bh_complete (file hyperborium_cave_north_
+from_main_bh-hb_day_2_no_2p.th2 [62])]
+[Error: area borders l6--380--424 and l8--852--284 don't intersect in scrap scr
+ap17@hyperborium_cave_north_from_main_bh_complete (file hyperborium_cave_north_
+from_main_bh-hb_day_2_no_2p.th2 [62])]
+[Error: area borders l3-28--244 and l4-4--50 don't intersect in scrap scrap17@h
+yperborium_cave_north_from_main_bh_complete (file hyperborium_cave_north_from_m
+ain_bh-hb_day_2_no_2p.th2 [33])]
+[Error: area borders l5--168--80 and l3-28--244 don't intersect in scrap scrap1
+7@hyperborium_cave_north_from_main_bh_complete (file hyperborium_cave_north_fro
+m_main_bh-hb_day_2_no_2p.th2 [33])]
+[Error: area borders l3-28--244 and l5--168--80 don't intersect in scrap scrap1
+7@hyperborium_cave_north_from_main_bh_complete (file hyperborium_cave_north_fro
+m_main_bh-hb_day_2_no_2p.th2 [33])]
+[Error: area borders l4-4--50 and l3-28--244 don't intersect in scrap scrap17@h
+yperborium_cave_north_from_main_bh_complete (file hyperborium_cave_north_from_m
+ain_bh-hb_day_2_no_2p.th2 [33])] [5]
+[Warning: scrap outline intersects itself in scrap scrap17@hyperborium_cave_nor
+th_from_main_bh_complete] [6] [7] [8]
+[Warning: scrap outline intersects itself in scrap scrap220@hyperborium_cave_no
+rth_from_main_bh_complete] [9] [10] [11] [12] [13] [14] [15] [16]
+(./mptextmp.mp) [17] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1149 strings out of 1162
+ 14011 string characters out of 20720
+ 147361 words of memory out of 1500000
+ 1398 symbolic tokens out of 16384
+ 11i,75n,16p,458b,5f stack positions out of 300i,84n,5000p,487b,15f
+ 418 string compactions (moved 5597063 characters, 453942 strings)
+30 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 APR 2019 02:48
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 68 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 265 strings out of 95617
+ 2701 string characters out of 1171098
+ 188962 words of memory out of 1654940
+ 1678 multiletter control sequences out of 15000+50000
+ 20080 words of font info for 63 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 9i,5n,8p,347b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
+Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
+Output written on data.pdf (1 page, 180129 bytes).
+PDF statistics:
+ 76 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing xtherion file ... done
+compilation time: 2 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.06%    0.70%  scrap66@hyperborium_cave_north_from_main_bh_complete
+   0.02%    0.61%  scrap220@hyperborium_cave_north_from_main_bh_complete
+   0.04%    0.48%  scrap79@hyperborium_cave_north_from_main_bh_complete
+   0.04%    0.15%  scrap17@hyperborium_cave_north_from_main_bh_complete
+################### end of scrap distortions ###################

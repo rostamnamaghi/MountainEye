@@ -5,11 +5,11 @@ input cob.th2
 input cobEe.th2
 
 map cob
-    cobSP1
-    cobSP2
-    cobSPX6.31
-  break
     cobSP3
+  break
+    cobSP2
+  break
+    cobSP1
 endmap
 
 #map cobEE

@@ -1,0 +1,139 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -500.0 -1408.0 1396.0 152.0
+##XTHERION## xth_me_area_zoom_to 25
+
+# 2018.08.24 created by TopoDroid v. 4.1.1l
+
+#P  u:user label air-draught archeo-material blocks breakdown-choke clay continuation curtain u:danger debris dig entrance flowstone:floor flowstone:wall ice moonmilk u:mud pillar popcorn sand section snow stalactite stalagmite water u:water_drip water-flow
+#L  u:user wall arrow border ceiling-meander chimney floor-meander pit wall:presumed rock-border section slope water-flow
+#A  u:user water blocks clay debris pebbles sand snow
+
+
+
+
+scrap jesus_is_not_often_politically_correct-CONNECTS2SUMWHEREELSEp -projection plan -scale [0 0 100 0 0 0 1 0 m]
+
+line wall
+  983.28 -56.17
+  962.83 -53.68 942.38 -46.14 921.94 -48.7
+  888.34 -52.9 855.17 -62.6 824.1 -76.08
+  638.95 -156.38 659.66 -186.52 472.74 -333.09
+  414.46 -378.79 355.99 -425.6 290.52 -460.22
+  55.86 -584.31 72.0 -556.0 -357.08 -800.94
+  smooth off
+endline
+
+line wall -reverse on
+  1060.39 -275.18
+  993.1 -321.73 923.6 -365.23 858.52 -414.82
+  806.99 -454.09 806.65 -479.05 760.0 -524.0
+  698.97 -582.81 618.46 -674.51 564.0 -716.0
+  396.0 -844.0 307.91 -956.51 112.0 -972.0
+  -95.56 -988.41 -204.47 -1021.38 -350.48 -1094.27
+  smooth off
+endline
+
+point -267.62 -417.76 label -orientation 319.00 -text "406 connects to a new tippex point. (2019) and stn ca5 in carbide" -scale xs
+
+line u:splay -visibility off
+  933.24 -1262.15
+  1046.53 -1023.1
+endline
+
+line u:splay -visibility off
+  933.24 -1262.15
+  1251.0 -926.47
+endline
+
+line u:splay -visibility off
+  933.24 -1262.15
+  1131.92 -1073.58
+endline
+
+line u:splay -visibility off
+  1130.03 -945.37
+  1054.94 -1008.19
+endline
+
+line u:splay -visibility off
+  788.08 -625.47
+  781.15 -648.94
+endline
+
+line u:splay -visibility off
+  788.08 -625.47
+  469.45 -759.43
+endline
+
+line u:splay -visibility off
+  788.08 -625.47
+  223.0 -1122.83
+endline
+
+point 204.0 -920.0 blocks
+
+point 480.0 -648.0 blocks
+
+point 368.0 -764.0 blocks
+
+point 424.0 -728.0 blocks
+
+point 588.0 -668.0 blocks
+
+point 624.0 -680.0 blocks
+
+point 320.0 -856.0 blocks
+
+point 368.0 -800.0 blocks
+
+area debris
+endarea
+
+line u:splay -visibility off
+  788.08 -625.47
+  761.54 -899.56
+endline
+
+line u:splay -visibility off
+  788.08 -625.47
+  736.2 -552.13
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  511.1 -715.08
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  292.32 -468.76
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  113.13 -832.54
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  640.0 -598.2
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  590.6 -200.29
+endline
+
+point 500.00 -600.00 station -name "405"
+
+point 480.03 -935.17 station -name "404"
+
+point -108.45 -765.66 station -name "406"
+
+point 788.08 -625.47 station -name "4032"
+
+point 553.50 -968.35 station -name "4033"
+
+endscrap
+
+

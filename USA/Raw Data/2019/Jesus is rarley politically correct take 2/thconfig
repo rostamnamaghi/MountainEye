@@ -1,0 +1,11 @@
+encoding  utf-8
+source jesus_is_not_often_politically_correct.th
+
+
+
+ export map -projection plan -layout local -o "Jesus Was Rarely Politically Correct.pdf"
+
+layout local 
+ color map-fg [97 86 38] # pale yellow
+ color map-bg [75 75 75] # light-grey
+endlayout

@@ -66,29 +66,29 @@ processing extended elevation ... done
 processing references ... done
 selecting export objects ... done
 processing projection plan ... done
-average distortion: 0.00%
+average distortion: 0.01%
 writing mksuperbowl2.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 00:23
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 15:12
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
 [1] [2] [3] [4] (./mptextmp.mp) [5] )
  
 Here is how much of MetaPost's memory you used:
- 1050 strings out of 1162
- 13291 string characters out of 20720
- 459717 words of memory out of 1500000
+ 1052 strings out of 1162
+ 13290 string characters out of 20720
+ 460717 words of memory out of 1500000
  1385 symbolic tokens out of 16384
  11i,75n,14p,197b,4f stack positions out of 300i,84n,5000p,200b,15f
- 32 string compactions (moved 329308 characters, 26427 strings)
+ 32 string compactions (moved 329252 characters, 26426 strings)
 18 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 00:23
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 15:12
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -100,14 +100,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  251 strings out of 95617
  2543 string characters out of 1171098
- 572339 words of memory out of 2020317
+ 573197 words of memory out of 2021175
  1664 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 226577 bytes).
+Output written on data.pdf (1 page, 227636 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -119,11 +119,11 @@ done
 writing mksuperbowl2th.3d ... done
 writing xtherion file ... 
 C:\Program Files (x86)\Therion\therion.exe: warning -- can't open xtherion file for output -- thconfig.xth
-compilation time: 1 sec
+compilation time: 5 sec
 
 
 ###################### scrap distortions #######################
  PROJECTION: plan
  AVERAGE  MAXIMAL  SCRAP
-   0.00%    0.01%  mksuperbowl2SP1@mksuperbowl2
+   0.01%    0.16%  mksuperbowl2SP1@mksuperbowl2
 ################### end of scrap distortions ###################
