@@ -1,0 +1,32 @@
+%!PS
+%%BoundingBox: -45 -183 27 118 
+%%HiResBoundingBox: -44.77083 -182.74957 26.7737 117.89543 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%*Font: cmss10 6.97382 9.96265 42:e80264019f3ef3
+%*Font: cmss10 7.97015 9.96265 53:a002223de
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor
+gsave [0.99522 0.09756 -0.09756 0.99522 -44.29826 -181.40004 
+] concat 0 0 moveto
+(Slipp) cmss10 6.97382 fshow grestore
+gsave [0.99522 0.09756 -0.09756 0.99522 -30.14726 -180.01256 
+] concat 0 0 moveto
+(y) cmss10 6.97382 fshow grestore
+gsave [0.99522 0.09756 -0.09756 0.99522 -24.63342 -179.47194 
+] concat 0 0 moveto
+(Six) cmss10 6.97382 fshow grestore
+gsave [0.99522 0.09756 -0.09756 0.99522 -13.60565 -178.39069 
+] concat 0 0 moveto
+(Split) cmss10 6.97382 fshow grestore
+gsave [0.19081 0.98163 -0.98163 0.19081 11.03943 43.72026 ] concat 0 0 moveto
+(Upstream) cmss10 7.97015 fshow grestore
+gsave [0.19081 0.98163 -0.98163 0.19081 17.6443 77.69904 ] concat 0 0 moveto
+(Sup) cmss10 7.97015 fshow grestore
+gsave [0.19081 0.98163 -0.98163 0.19081 20.10292 90.34743 ] concat 0 0 moveto
+(erstition) cmss10 7.97015 fshow grestore
+showpage
+%%EOF

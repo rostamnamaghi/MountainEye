@@ -1,0 +1,25 @@
+%!PS
+%%BoundingBox: -28 9 45 15 
+%%HiResBoundingBox: -27.46906 9.21855 44.74904 14.06145 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%*Font: cmss10 6.97382 9.96265 0d:800000195ff8a48727480ffbfffc
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor
+-27.46906 9.21855 moveto
+(204) cmss10 6.97382 fshow
+-14.68365 9.21855 moveto
+(is) cmss10 6.97382 fshow
+-8.01976 9.21855 moveto
+(the) cmss10 6.97382 fshow
+3.52585 9.21855 moveto
+(same) cmss10 6.97382 fshow
+20.51494 9.21855 moveto
+(as) cmss10 6.97382 fshow
+28.86415 9.21855 moveto
+(2.599) cmss10 6.97382 fshow
+showpage
+%%EOF

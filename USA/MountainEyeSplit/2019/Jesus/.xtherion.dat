@@ -4,8 +4,9 @@ xth_cp_data_tree_insert 18 1 1 jesus_is_not_often_politically_correct jesus_is_n
 xth_cp_data_tree_create
 set xth(ctrl,cp,maplist) {}
 xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert map 1 1546X1 p1 1 jesus_is_not_often_politically_correct jesus_is_not_often_politically_correct@jesus_is_not_often_politically_correct "" ""
 xth_cp_map_tree_create
 xth_cp_comp_stat 720 7
 set xth(th_exit_state) 2
-set xth(th_exit_number) 1569508639
+set xth(th_exit_number) 1569511855
 

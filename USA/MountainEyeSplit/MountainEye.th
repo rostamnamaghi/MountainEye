@@ -63,11 +63,14 @@ survey Mountaineye
   input 2019/MBEE/MBE_extension.th
   input 2019/ld3/ld3.th
   input 2019/Jesus/jesus_is_not_often_politically_correct.th
+  input 2019/milly1/milly1.th
+  input 2019/mooningwae/mooningwae.th
   
 map Mountaineye -projection plan
   mountaineye1
   mountaineye2
   mountaineye3
+  connection
   mountaineye4
   mountaineye5
   mountaineye20
@@ -75,7 +78,6 @@ map Mountaineye -projection plan
   mountaineye22
   mountaineye23
   cob
-  connection
   cob-AK
   cob-series-6-continued-ak
   cob-vadose-canyon-ak
@@ -127,6 +129,8 @@ map Mountaineye -projection plan
   MBE_extension
   ld3
   jesus_is_not_often_politically_correct
+  milly1
+  mooningwae
 endmap
 
 join ME2_scrapSP1@mountaineye2 ME5_scrapSP1@mountaineye5
@@ -219,6 +223,8 @@ centerline
   equate 9.23@biggar 0@MBE_extension
   equate 107.8@ld3 107.8@Downstream_Compile
   equate 2.559@mksuperbowl2 204@jesus_is_not_often_politically_correct
+  equate 5.2@mountaineye4 520.0@milly1
+  equate 5.2@mountaineye4 252.0@mooningwae
 endcenterline
    
 endsurvey

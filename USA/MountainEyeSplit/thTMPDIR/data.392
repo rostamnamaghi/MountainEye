@@ -1,0 +1,25 @@
+%!PS
+%%BoundingBox: -142 -1 142 9 
+%%HiResBoundingBox: -141.90726 -0.175 141.90726 8.5311 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%*Font: cmss10 9.96265 9.96265 30:c100000000000004
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.35 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath -141.73225 0 moveto
+141.73225 0 lineto stroke
+ 0.35 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath -141.73225 0 moveto
+-141.73225 2 lineto stroke
+newpath 141.73225 0 moveto
+141.73225 2 lineto stroke
+-12.25966 2 moveto
+(100) cmss10 9.96265 fshow
+4.34485 2 moveto
+(m) cmss10 9.96265 fshow
+showpage
+%%EOF

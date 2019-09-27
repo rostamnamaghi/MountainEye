@@ -1,0 +1,44 @@
+%!PS
+%%BoundingBox: -68 -63 81 1 
+%%HiResBoundingBox: -67.6064 -62.64944 80.77634 0.13669 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%*Font: cmss10 6.97382 9.96265 32:880400004001f56ef9
+%*Font: cmss10 5.97765 9.96265 2c:c0000000000004fcbac
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor
+28.74364 -61.29344 moveto
+(Survey) cmss10 6.97382 fshow
+50.45944 -61.29344 moveto
+(Station) cmss10 6.97382 fshow
+73.80244 -61.29344 moveto
+(62) cmss10 6.97382 fshow
+-32.52165 -7.65256 moveto
+(connects) cmss10 6.97382 fshow
+-32.31516 -4.0144 moveto
+(to) cmss10 5.97765 fshow
+-27.00175 -4.0144 moveto
+(o) cmss10 5.97765 fshow
+-22.02046 -4.0144 moveto
+(tight,) cmss10 5.97765 fshow
+-6.54515 -4.0144 moveto
+(and) cmss10 5.97765 fshow
+4.49684 -4.0144 moveto
+(puddle) cmss10 5.97765 fshow
+-67.6064 -11.4644 moveto
+(to) cmss10 5.97765 fshow
+-62.293 -11.4644 moveto
+(o) cmss10 5.97765 fshow
+-57.3117 -11.4644 moveto
+(tight) cmss10 5.97765 fshow
+-43.4968 -11.4644 moveto
+(-) cmss10 5.97765 fshow
+-39.5118 -11.4644 moveto
+(no) cmss10 5.97765 fshow
+-31.442 -11.4644 moveto
+(draft) cmss10 5.97765 fshow
+showpage
+%%EOF

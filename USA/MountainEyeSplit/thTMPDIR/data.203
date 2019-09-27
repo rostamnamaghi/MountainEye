@@ -1,0 +1,208 @@
+%!PS
+%%BoundingBox: -56 -31 49 36 
+%%HiResBoundingBox: -55.66501 -30.175 48.935 35.345 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.35 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinejoin 10 setmiterlimit
+newpath 26.4 25.53 moveto
+32.00002 26.23004 lineto
+28.71 30.42998 lineto
+ closepath stroke
+newpath 31.65 27.28 moveto
+33.4 27.98004 lineto
+32.00002 32.53 lineto
+29.19995 32.53 lineto
+ closepath stroke
+newpath 28.00996 29.03 moveto
+29.19995 31.13002 lineto
+26.4 31.48004 lineto
+ closepath stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop 1 setlinecap
+newpath 26.4 25.53 moveto
+29.19995 27.63002 lineto
+28.71 30.42998 lineto stroke
+newpath 29.19995 27.63002 moveto
+32.00002 26.23004 lineto stroke
+newpath 31.65 27.28 moveto
+32.00002 29.03 lineto
+31.29997 30.42998 lineto
+29.19995 32.53 lineto stroke
+newpath 32.00002 32.53 moveto
+31.29997 30.42998 lineto stroke
+newpath 33.4 27.98004 moveto
+32.00002 29.03 lineto stroke
+ 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath 3.87 17.94 moveto
+9.47002 18.64005 lineto
+6.18001 22.83998 lineto
+ closepath stroke
+newpath 9.12 19.69 moveto
+10.87 20.39005 lineto
+9.47002 24.94 lineto
+6.66995 24.94 lineto
+ closepath stroke
+newpath 5.47997 21.44 moveto
+6.66995 23.54002 lineto
+3.87 23.89005 lineto
+ closepath stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop
+newpath 3.87 17.94 moveto
+6.66995 20.04002 lineto
+6.18001 22.83998 lineto stroke
+newpath 6.66995 20.04002 moveto
+9.47002 18.64005 lineto stroke
+newpath 9.12 19.69 moveto
+9.47002 21.44 lineto
+8.76997 22.83998 lineto
+6.66995 24.94 lineto stroke
+newpath 9.47002 24.94 moveto
+8.76997 22.83998 lineto stroke
+newpath 10.87 20.39005 moveto
+9.47002 21.44 lineto stroke
+ 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath 17.46 25.26 moveto
+23.06003 25.96004 lineto
+19.77002 30.15997 lineto
+ closepath stroke
+newpath 22.71 27.01 moveto
+24.46 27.71004 lineto
+23.06003 32.26 lineto
+20.25996 32.26 lineto
+ closepath stroke
+newpath 19.06998 28.76 moveto
+20.25996 30.86002 lineto
+17.46 31.21004 lineto
+ closepath stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop
+newpath 17.46 25.26 moveto
+20.25996 27.36002 lineto
+19.77002 30.15997 lineto stroke
+newpath 20.25996 27.36002 moveto
+23.06003 25.96004 lineto stroke
+newpath 22.71 27.01 moveto
+23.06003 28.76 lineto
+22.35999 30.15997 lineto
+20.25996 32.26 lineto stroke
+newpath 23.06003 32.26 moveto
+22.35999 30.15997 lineto stroke
+newpath 24.46 27.71004 moveto
+23.06003 28.76 lineto stroke
+ 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath 21.83 22.04 moveto
+27.43002 22.74004 lineto
+24.14001 26.93997 lineto
+ closepath stroke
+newpath 27.08 23.79 moveto
+28.83 24.49004 lineto
+27.43002 29.04 lineto
+24.62996 29.04 lineto
+ closepath stroke
+newpath 23.43997 25.54 moveto
+24.62996 27.64001 lineto
+21.83 27.99004 lineto
+ closepath stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop
+newpath 21.83 22.04 moveto
+24.62996 24.14001 lineto
+24.14001 26.93997 lineto stroke
+newpath 24.62996 24.14001 moveto
+27.43002 22.74004 lineto stroke
+newpath 27.08 23.79 moveto
+27.43002 25.54 lineto
+26.72998 26.93997 lineto
+24.62996 29.04 lineto stroke
+newpath 27.43002 29.04 moveto
+26.72998 26.93997 lineto stroke
+newpath 28.83 24.49004 moveto
+27.43002 25.54 lineto stroke
+ 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath -38.19 6.62 moveto
+-31.25 11.89 lineto stroke
+newpath -38.19 6.62 moveto
+-43.76797 6.12344 lineto stroke
+newpath -55.49 5.08 moveto
+-49.91203 5.57655 lineto stroke
+newpath -31.25 11.89 moveto
+-22.72 7.52 lineto stroke
+newpath -31.25 11.89 moveto
+-38.19 6.62 lineto stroke
+newpath -22.72 7.52 moveto
+-18.60466 11.3179 lineto stroke
+newpath -4.83 24.03 moveto
+-8.94534 20.2321 lineto stroke
+newpath -22.72 7.52 moveto
+-31.25 11.89 lineto stroke
+newpath -4.83 24.03 moveto
+-0.27 23.65 lineto stroke
+newpath -4.83 24.03 moveto
+-8.94534 20.2321 lineto stroke
+newpath -22.72 7.52 moveto
+-18.60466 11.3179 lineto stroke
+newpath -0.27 23.65 moveto
+4.46 23.41 lineto stroke
+newpath -0.27 23.65 moveto
+-4.83 24.03 lineto stroke
+newpath 4.46 23.41 moveto
+8.98 25.61 lineto stroke
+newpath 4.46 23.41 moveto
+-0.27 23.65 lineto stroke
+newpath 8.98 25.61 moveto
+12.15077 20.9941 lineto stroke
+newpath 16.33 14.91 moveto
+13.15923 19.52591 lineto stroke
+newpath 8.98 25.61 moveto
+14.48004 26.66325 lineto stroke
+newpath 26.63 28.99 moveto
+21.12996 27.93675 lineto stroke
+newpath 8.98 25.61 moveto
+4.46 23.41 lineto stroke
+newpath 26.63 28.99 moveto
+30.62 28.63 lineto stroke
+newpath 26.63 28.99 moveto
+21.12996 27.93675 lineto stroke
+newpath 8.98 25.61 moveto
+14.48004 26.66325 lineto stroke
+newpath 30.62 28.63 moveto
+34.81 33.76 lineto stroke
+newpath 30.62 28.63 moveto
+26.63 28.99 lineto stroke
+newpath 34.81 33.76 moveto
+40.38165 34.3232 lineto stroke
+newpath 48.76 35.17 moveto
+43.18834 34.6068 lineto stroke
+newpath 34.81 33.76 moveto
+30.62 28.63 lineto stroke
+newpath 48.76 35.17 moveto
+43.18834 34.6068 lineto stroke
+newpath 34.81 33.76 moveto
+40.38165 34.3232 lineto stroke
+newpath 16.33 14.91 moveto
+11.55867 11.97832 lineto stroke
+newpath -22.86 -9.17 moveto
+-18.08867 -6.23831 lineto stroke
+newpath 16.33 14.91 moveto
+13.15923 19.52591 lineto stroke
+newpath 8.98 25.61 moveto
+12.15077 20.9941 lineto stroke
+ 0.35 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath -22.86 -9.17 moveto
+-22.9998 -14.76831 lineto stroke
+newpath -23.38 -30 moveto
+-23.2402 -24.40169 lineto stroke
+ 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath -22.86 -9.17 moveto
+-18.08867 -6.23831 lineto stroke
+newpath 16.33 14.91 moveto
+11.55867 11.97832 lineto stroke
+ 0.35 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath -23.38 -30 moveto
+-23.2402 -24.40169 lineto stroke
+newpath -22.86 -9.17 moveto
+-22.9998 -14.76831 lineto stroke
+showpage
+%%EOF

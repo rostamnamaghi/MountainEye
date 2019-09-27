@@ -1,0 +1,71 @@
+%!PS
+%%BoundingBox: -90 -13 86 34 
+%%HiResBoundingBox: -89.50722 -12.84145 85.1603 33.1369 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%*Font: cmss10 6.97382 9.96265 2c:afb8524391a007fdfff6
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor
+-64.86356 7.64696 moveto
+(station) cmss10 6.97382 fshow
+-42.72156 7.64696 moveto
+(44) cmss10 6.97382 fshow
+-33.42316 7.64696 moveto
+(=) cmss10 6.97382 fshow
+-25.67445 7.64696 moveto
+(7,67) cmss10 6.97382 fshow
+-77.2182 -12.84145 moveto
+(b) cmss10 6.97382 fshow
+-73.4213 -12.84145 moveto
+(oulder) cmss10 6.97382 fshow
+-53.2553 -12.84145 moveto
+(chamb) cmss10 6.97382 fshow
+-33.8641 -12.84145 moveto
+(er) cmss10 6.97382 fshow
+-76.43721 -5.50145 moveto
+(hole) cmss10 6.97382 fshow
+-62.257 -5.50145 moveto
+(to) cmss10 6.97382 fshow
+-53.92722 -5.50145 moveto
+(lo) cmss10 6.97382 fshow
+-48.96802 -5.50145 moveto
+(w) cmss10 6.97382 fshow
+-44.39632 -5.50145 moveto
+(er) cmss10 6.97382 fshow
+-36.58942 -5.50145 moveto
+(level) cmss10 6.97382 fshow
+-89.50722 12.53856 moveto
+(hole) cmss10 6.97382 fshow
+-75.32701 12.53856 moveto
+(to) cmss10 6.97382 fshow
+-66.99722 12.53856 moveto
+(lo) cmss10 6.97382 fshow
+-62.03802 12.53856 moveto
+(w) cmss10 6.97382 fshow
+-57.46632 12.53856 moveto
+(er) cmss10 6.97382 fshow
+-49.65942 12.53856 moveto
+(level) cmss10 6.97382 fshow
+-48.4066 9.34856 moveto
+(?) cmss10 6.97382 fshow
+-80.9964 12.71657 moveto
+(continues) cmss10 6.97382 fshow
+-51.3188 12.71657 moveto
+(very) cmss10 6.97382 fshow
+-37.0805 12.71657 moveto
+(small) cmss10 6.97382 fshow
+1.9197 28.39911 moveto
+(continues.) cmss10 6.97382 fshow
+33.5345 28.39911 moveto
+(equate) cmss10 6.97382 fshow
+55.13399 28.39911 moveto
+(32) cmss10 6.97382 fshow
+64.4325 28.39911 moveto
+(to) cmss10 6.97382 fshow
+72.76239 28.39911 moveto
+(23.4) cmss10 6.97382 fshow
+showpage
+%%EOF

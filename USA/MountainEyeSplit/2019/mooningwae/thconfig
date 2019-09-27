@@ -1,3 +1,4 @@
+encoding  utf-8
 source mooningwae.th
 # Change name to the main therion file
 
@@ -20,6 +21,167 @@ export model -fmt survex -o mooningwaeth.3d
 #Survex file showing walls only
 
 layout local
+code metapost
+initsymbol("a_blocks");
+  
+def a_blocks (expr p) =
+T:=identity;
+symbol_distance:=0.7; % Distance between the blocks as set out in a rectangular grid
+block_randomisation:=0.7; % Max each point of the base block can be moved. Too big and they can intersect themselves
+base_rotation:= 0; % Rotation from 0 of base block, can be used to set all blocks to the same angle
+random_rotation:= 360; % Rotation either side of base rotation eg 20 will be plus or minus 10 each side
+min_scale_factor:=0.7; % Minimum multiplier used for the base shape
+add_scale_factor:= 0.6; % Added to the minimum multiplier to get the maximum scale
+block_rectangle:=1.5; % How much longer the block is than it is wide, before randomising
+shift_randomisation:=0.75; % Max random amount block can be moved from the original grid
+%Now set the proportions of different sided block
+b_tri:=1;
+b_quad:=3;
+b_pent:=4;
+b_hex:=2;
+pickup PenC;
+path q, regular, qq; q = bbox p;
+pair outside;
+outside:= ulcorner q + up;
+picture tmp_pic; 
+uu := max(u, (xpart urcorner q - xpart llcorner q)/100, (ypart urcorner q - ypart     llcorner q)/100);
+iu := uu * block_rectangle;
+blocks := b_tri+b_quad + b_pent + b_hex;
+tmp_pic := image(
+   for i = xpart llcorner q step symbol_distance * block_rectangle * uu until xpart urcorner q:
+      for j = ypart llcorner q step symbol_distance*uu until ypart urcorner q:
+        pick_sides := uniformdeviate(blocks);
+        if pick_sides < b_tri:
+        sides:=3;
+        elseif pick_sides < b_tri + b_quad:
+        sides:=4;
+        elseif pick_sides < b_tri + b_quad +b_pent:
+        sides:=5;
+        else:
+        sides:=6
+        fi;
+
+          qq :=  for n:=0 upto sides-1:
+                  ((cosd(360*n/sides))*iu/2,(sind(360*n/sides))*uu/2) -- 
+                            endfor cycle; %radius is 0.5 divide by 2
+          qq := punked ((qq) 
+          randomized (block_randomisation * uu))
+          scaled (uniformdeviate(add_scale_factor)+min_scale_factor)
+          rotated (base_rotation + random_rotation / 2 - uniformdeviate(random_rotation) )
+          shifted ((i,j) randomized (shift_randomisation * uu));
+         
+         
+          forever: % Repeatedly reduces the size of the image, as this is done round zero it also moves it to the zero location, until it fits in the area
+           exitif xpart (p intersectiontimes qq) < 0;
+           qq:= qq scaled (0.99 );
+          endfor;
+            if pointinside((i,j),p,outside): % Cleans lines on border, assumably ones outside with jut an edge touching
+               thclean qq;
+               thclean qq;
+               thclean qq;
+               thclean qq;
+               thdraw qq;
+            fi;
+      endfor;  
+   endfor;
+);
+ clip tmp_pic to p;
+ drawoptions();
+ draw tmp_pic;
+	enddef;
+  endcode
+code metapost
+initsymbol("a_debris");
+  
+def a_debris (expr p) =
+T:=identity;
+symbol_distance:=0.7; % Distance between the blocks as set out in a rectangular grid
+block_randomisation:=0.7; % Max each point of the base block can be moved. Too big and they can intersect themselves
+base_rotation:= 0; % Rotation from 0 of base block, can be used to set all blocks to the same angle
+random_rotation:= 360; % Rotation either side of base rotation eg 20 will be plus or minus 10 each side
+min_scale_factor:=0.4; % Minimum multiplier used for the base shape
+add_scale_factor:= 0.3; % Added to the minimum multiplier to get the maximum scale
+block_rectangle:=1.5; % How much longer the block is than it is wide, before randomising
+shift_randomisation:=0.75; % Max random amount block can be moved from the original grid
+%Now set the proportions of different sided block
+b_tri:=1;
+b_quad:=3;
+b_pent:=4;
+b_hex:=2;
+pickup PenC;
+path q, regular, qq; q = bbox p;
+pair outside;
+outside:= ulcorner q + up;
+picture tmp_pic; 
+uu := max(u, (xpart urcorner q - xpart llcorner q)/100, (ypart urcorner q - ypart     llcorner q)/100);
+iu := uu * block_rectangle;
+blocks := b_tri+b_quad + b_pent + b_hex;
+tmp_pic := image(
+   for i = xpart llcorner q step symbol_distance * block_rectangle * uu until xpart urcorner q:
+      for j = ypart llcorner q step symbol_distance*uu until ypart urcorner q:
+        pick_sides := uniformdeviate(blocks);
+        if pick_sides < b_tri:
+        sides:=3;
+        elseif pick_sides < b_tri + b_quad:
+        sides:=4;
+        elseif pick_sides < b_tri + b_quad +b_pent:
+        sides:=5;
+        else:
+        sides:=6
+        fi;
+
+          qq :=  for n:=0 upto sides-1:
+                  ((cosd(360*n/sides))*iu/2,(sind(360*n/sides))*uu/2) -- 
+                            endfor cycle; %radius is 0.5 divide by 2
+          qq := punked ((qq) 
+          randomized (block_randomisation * uu))
+          scaled (uniformdeviate(add_scale_factor)+min_scale_factor)
+          rotated (base_rotation + random_rotation / 2 - uniformdeviate(random_rotation) )
+          shifted ((i,j) randomized (shift_randomisation * uu));
+         
+         
+          forever: % Repeatedly reduces the size of the image, as this is done round zero it also moves it to the zero location, until it fits in the area
+           exitif xpart (p intersectiontimes qq) < 0;
+           qq:= qq scaled (0.99 );
+          endfor;
+            if pointinside((i,j),p,outside): % Cleans lines on border, assumably ones outside with jut an edge touching
+               thclean qq;
+               thclean qq;
+               thclean qq;
+               thclean qq;
+               thdraw qq;
+            fi;
+      endfor;  
+   endfor;
+);
+ clip tmp_pic to p;
+ drawoptions();
+ draw tmp_pic;
+	enddef;
+  endcode
+code metapost
+def p_blocks(expr pos,theta,sc,al) =
+  T:=identity aligned al rotated theta scaled sc shifted pos;
+  path p q;
+  p := (0.8u,0.6u)--(0.45u,0.7u)--(-0.7u,0.4u)--(-0.9u,-0.4u)--(-0.8u,-0.5u)--(-0.5u,-0.35u)--(-0.7u,-0.45u)--(-0.6u,-0.45u)--(0.4u,-0.5u)--(0.8u,-0.33u)--(0.7u,-0.10u)--cycle;
+  pickup PenB;
+  thdraw p;
+  % The following line uses the code from Colour Dependant Visualization of Symbols by Bruce Mutton
+  if known colour_block_bg: thfill p withcolor colour_block_bg; else: thfill p withcolor (1,1,1); fi;
+  q := (-2.5u,-0.5u)--(-2u,-0.65u)--(-0.3u,-0.65u)--(0.6u,-0.7u)--(1.1u,-0.5u)--(2.1u,-0.15u)--(2.3u,0.9u)--(2.5u,0.7u)--(2.5u,0.5u)--(2.25u,-0.9u)--(1.1u,-1.3u)--(0.5u,-1.5u)--(-0.75u,-1.4u)--(-2u,-1.15u)--(-2.35u,-0.65u)--cycle;
+  pickup PenD;
+  path p;
+  p := (0,-0)--(-0u,-0u);
+  thdraw p;
+  path p;
+  p := (0u,-0u)--(0u,0u);
+  thdraw p;
+  path p;
+  p := (0u,-0u)--(0u,-0u);
+  thdraw p;
+enddef;
+initsymbol("p_blocks");
+endcode
 debug off
 map-header 0 0 ne
 #symbol-hide group cave-centreline

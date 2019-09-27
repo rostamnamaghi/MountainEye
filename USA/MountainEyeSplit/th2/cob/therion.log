@@ -69,7 +69,7 @@ average distortion: 0.01%
 writing cob.pdf ...
 processing projection none ... done
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 15:15
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 21:48
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
@@ -79,17 +79,17 @@ This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31) 
 Here is how much of MetaPost's memory you used:
  1137 strings out of 1162
  13408 string characters out of 20720
- 127649 words of memory out of 1500000
+ 134649 words of memory out of 1500000
  1388 symbolic tokens out of 16384
  11i,75n,16p,288b,5f stack positions out of 300i,84n,5000p,312b,15f
- 183 string compactions (moved 2317482 characters, 191715 strings)
+ 183 string compactions (moved 2323282 characters, 192146 strings)
 35 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 15:15
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 21:48
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -101,14 +101,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  275 strings out of 95617
  2796 string characters out of 1171098
- 213344 words of memory out of 1674322
+ 224469 words of memory out of 1684447
  1688 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 162852 bytes).
+Output written on data.pdf (1 page, 166900 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

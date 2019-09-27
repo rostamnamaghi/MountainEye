@@ -12,6 +12,23 @@ input jesus_is_not_often_politically_correct-SCOOP.DAWGp.th2
 input jesus_is_not_often_politically_correct-CONNECTS2SUMWHEREELSEp.th2
 input jesus_is_not_often_politically_correct-PITCHp.th2
 
+  map jesus_is_not_often_politically_correct -projection plan
+  jesus_is_not_often_politically_correct-SCOOP.DAWGp
+  scrap248
+  jesus_is_not_often_politically_correct-CONNECTS2SUMWHEREELSEp
+  jesus_is_not_often_politically_correct-CONNECTING.LOOPp
+  jesus_is_not_often_politically_correct-SUNKENSHIPSp
+  jesus_is_not_often_politically_correct-SCOOP.DAWGp
+  jesus_is_not_often_politically_correct-DIRECTLY.abovep
+  scrap248
+  jesus_is_not_often_politically_correct-SUNKENSHIPSp
+  jesus_is_not_often_politically_correct-DIRECTLY.abovep
+  jesus_is_not_often_politically_correct-CONNECTING.LOOPp
+  jesus_is_not_often_politically_correct-PITCHp
+  jesus_is_not_often_politically_correct-CONNECTS2SUMWHEREELSEp
+  jesus_is_not_often_politically_correct-PITCHp
+endmap
+
   centerline
     date 2018.08.23 
     #team Chris Jones, Hannah Moulton, Ian Holmes, David Powlesland

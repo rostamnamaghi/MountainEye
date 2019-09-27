@@ -1,22 +1,30 @@
 %!PS
-%%BoundingBox: -57 -11 57 11 
-%%HiResBoundingBox: -56.85219 -10.02832 56.85219 10.02834 
+%%BoundingBox: -3 -2 3 3 
+%%HiResBoundingBox: -2.265 -1.63501 2.64427 2.22258 
 %%Creator: MetaPost 1.209
-%%CreationDate: 2018.11.10:1625
+%%CreationDate: 2019.09.26:1811
 %%Pages: 1
-%*Font: cmss10 17.9325 9.96265 2e:bd00010d24001515ef08
 %%BeginProlog
 %%EndProlog
 %%Page: 1 1
- 0 0 0 setrgbcolor
--54.79385 -4.4831 moveto
-(ME5.scrapSP2) cmss10 17.9325 fshow
- 0 0.11667 dtransform truncate idtransform setlinewidth pop [] 0 setdash
- 1 setlinejoin 10 setmiterlimit
-newpath -56.79385 -9.96999 moveto
-56.79385 -9.96999 lineto
-56.79385 9.97 lineto
--56.79385 9.97 lineto
- closepath stroke
+ 0 0 0 setrgbcolor 0 0.35 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath 1.26935 1.20883 moveto
+1.30328 1.1683 1.3438 1.13156 1.39 1.11 curveto
+1.54 1.04 1.58 0.9 1.77 0.9 curveto
+1.8084 0.9 1.8423 0.90285 1.87212 0.90823 curveto stroke
+newpath 1.54628 0.99481 moveto
+2.46927 2.04758 lineto stroke
+newpath 1.96957 1.24355 moveto
+1.89717 1.31442 1.7951 1.38277 1.71 1.42 curveto
+1.55492 1.47815 1.44682 1.5363 1.34016 1.53073 curveto stroke
+newpath 1.67569 1.43312 moveto
+1.1649 0.1297 lineto stroke
+newpath -2.09 -1.04 moveto
+1.57 1.92 lineto stroke
+newpath 1.57 1.92 moveto
+-2.09 -1.04 lineto stroke
+newpath 1.57 1.92 moveto
+0.71 -1.46 lineto stroke
 showpage
 %%EOF

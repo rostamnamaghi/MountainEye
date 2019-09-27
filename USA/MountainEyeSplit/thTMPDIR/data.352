@@ -1,0 +1,36 @@
+%!PS
+%%BoundingBox: -167 -98 162 126 
+%%HiResBoundingBox: -166.35735 -97.52605 161.53502 125.02197 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%*Font: cmss10 7.97015 9.96265 27:8000000843c4003ee7df
+%*Font: cmss10 5.97765 9.96265 34:80000000000304c
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor
+gsave [0.89102 0.45398 -0.45398 0.89102 -140.9755 28.77304 ] concat 0 0 moveto
+(The) cmss10 7.97015 fshow grestore
+gsave [0.89102 0.45398 -0.45398 0.89102 -126.95016 35.91937 ] concat 0 0 moveto
+(Capital) cmss10 7.97015 fshow grestore
+gsave [0.89102 0.45398 -0.45398 0.89102 -103.5943 47.8199 ] concat 0 0 moveto
+('M') cmss10 7.97015 fshow grestore
+gsave [0.95882 -0.284 0.284 0.95882 -34.46935 -79.1008 ] concat 0 0 moveto
+(Highline) cmss10 7.97015 fshow grestore
+gsave [0.95882 -0.284 0.284 0.95882 -5.91838 -87.5579 ] concat 0 0 moveto
+(Overpass) cmss10 7.97015 fshow grestore
+gsave [0.7997 0.60042 -0.60042 0.7997 -163.03415 89.27802 ] concat 0 0 moveto
+(Pits) cmss10 7.97015 fshow grestore
+gsave [0.7997 0.60042 -0.60042 0.7997 -150.5703 98.63614 ] concat 0 0 moveto
+(on) cmss10 7.97015 fshow grestore
+gsave [0.7997 0.60042 -0.60042 0.7997 -141.96596 105.09645 ] concat 0 0 moveto
+(the) cmss10 7.97015 fshow grestore
+gsave [0.7997 0.60042 -0.60042 0.7997 -131.41414 113.01897 ] concat 0 0 moveto
+(side) cmss10 7.97015 fshow grestore
+gsave [0.98294 0.18394 -0.18394 0.98294 138.84856 -60.52289 ] concat 0 0 moveto
+(4m) cmss10 5.97765 fshow grestore
+gsave [0.98294 0.18394 -0.18394 0.98294 148.41275 -58.73306 ] concat 0 0 moveto
+(climb) cmss10 5.97765 fshow grestore
+showpage
+%%EOF

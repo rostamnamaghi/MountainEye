@@ -1,0 +1,380 @@
+%!PS
+%%BoundingBox: -41 -21 41 22 
+%%HiResBoundingBox: -40.9125 -20.89252 40.79251 21.01251 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.24501 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath -39.85 -20.77 moveto
+-39.35 -20.32 lineto
+-38.89 -19.79 lineto
+-38.41 -19.42 lineto
+-37.85 -19.15 lineto
+-37.29 -18.82 lineto
+-36.76 -18.61 lineto
+-36.06 -18.33 lineto
+-35.49 -17.87 lineto
+-35.06 -17.47 lineto
+-34.56 -17.11 lineto
+-34.03 -16.69 lineto
+-33.49 -16.28 lineto
+-32.93 -15.97 lineto
+-32.43 -15.63 lineto
+-31.98 -15.13 lineto
+-31.49 -14.68 lineto
+-30.97 -14.32 lineto
+-30.48 -13.85 lineto
+-29.97 -13.5 lineto
+-29.27 -13.16 lineto
+-28.66 -13.02 lineto
+-27.91 -12.7 lineto
+-27.4 -12.33 lineto
+-27.09 -11.76 lineto
+-26.66 -11.34 lineto
+-26.08 -10.92 lineto
+-25.5 -10.66 lineto
+-24.91 -10.41 lineto
+-24.36 -10.01 lineto
+-23.92 -9.62 lineto
+-23.42 -9.12 lineto stroke
+newpath -23.42 -9.12 moveto
+-22.94 -8.76 lineto
+-22.48 -8.34 lineto
+-22.21 -8.39 lineto
+-22.18 -9 lineto
+-21.98 -9.51 lineto stroke
+newpath -21.98 -9.51 moveto
+-21.07 -9.77 lineto
+-20.56 -10.34 lineto stroke
+newpath -20.56 -10.34 moveto
+-20.29 -10.89 lineto
+-19.85 -11.25 lineto
+-19.79 -12.03 lineto stroke
+newpath -19.79 -12.03 moveto
+-20.31 -12.46 lineto
+-20.78 -12.97 lineto stroke
+newpath -20.78 -12.97 moveto
+-20.09 -13.53 lineto
+-19.31 -13.36 lineto
+-18.55 -13.05 lineto stroke
+newpath -18.55 -13.05 moveto
+-17.99 -12.52 lineto
+-17.37 -12.2 lineto
+-16.67 -11.88 lineto
+-15.98 -11.6 lineto
+-15.33 -11.19 lineto
+-14.74 -10.75 lineto
+-14.29 -10.19 lineto
+-13.58 -9.69 lineto
+-13 -9.21 lineto
+-12.37 -8.81 lineto
+-11.69 -8.44 lineto
+-11.09 -8.1 lineto
+-10.62 -7.5 lineto
+-10.05 -7.08 lineto
+-9.39 -6.69 lineto
+-8.78 -6.29 lineto
+-8.3 -5.79 lineto stroke
+newpath -8.3 -5.79 moveto
+-7.81 -5.51 lineto
+-6.79 -5.16 lineto
+-6.26 -5.06 lineto
+-5.77 -4.84 lineto
+-4.99 -4.55 lineto
+-4.44 -4.04 lineto
+-4.02 -3.65 lineto
+-3.44 -3.22 lineto
+-2.72 -2.79 lineto
+-2.22 -2.31 lineto stroke
+newpath -2.22 -2.31 moveto
+-1.67 -2.12 lineto
+-1.01 -1.96 lineto
+-0.39 -1.43 lineto
+0.09 -0.77 lineto
+0.49 -0.12 lineto
+0.92 0.47 lineto
+1.46 1.01 lineto
+2.03 1.4 lineto
+2.7 1.24 lineto
+3.2 0.81 lineto
+3.57 0.14 lineto stroke
+newpath 3.57 0.14 moveto
+4.36 0.23 lineto
+5.02 0.6 lineto
+5.98 0.82 lineto stroke
+newpath 5.98 0.82 moveto
+6.37 0.34 lineto
+7.11 -1.46 lineto stroke
+newpath 7.11 -1.46 moveto
+7.82 -2.48 lineto
+8.23 -3.12 lineto
+8.88 -3.51 lineto
+9.56 -3.75 lineto stroke
+newpath 9.56 -3.75 moveto
+10.45 -4.11 lineto
+11.16 -4.14 lineto
+11.94 -4.01 lineto
+12.74 -4 lineto
+13.67 -3.99 lineto
+14.32 -3.99 lineto
+15.22 -3.95 lineto
+16.24 -3.74 lineto
+17.38 -3.5 lineto
+18.36 -3.34 lineto
+19.12 -3.23 lineto
+20.01 -3.13 lineto
+20.9 -3.1 lineto
+21.78 -3.04 lineto
+22.51 -2.91 lineto stroke
+newpath 22.51 -2.91 moveto
+23.26 -2.31 lineto
+23.82 -1.75 lineto
+24.36 -1.31 lineto
+24.93 -0.95 lineto
+25.63 -0.6 lineto
+26.27 -0.33 lineto
+26.85 -0.14 lineto
+27.75 0.11 lineto
+28.4 0.33 lineto
+29.15 0.68 lineto
+29.68 1.01 lineto
+30.35 1.54 lineto
+30.8 1.92 lineto
+31.75 2.58 lineto
+32.6 3.11 lineto
+33.42 3.62 lineto
+34.09 4.12 lineto
+34.65 4.53 lineto stroke
+newpath 34.65 4.53 moveto
+35.04 4.94 lineto
+35.56 5.39 lineto
+36.11 5.7 lineto
+36.56 6.14 lineto
+37.11 6.62 lineto
+37.7 7.06 lineto
+38.2 7.57 lineto
+38.64 8.11 lineto
+39.05 8.65 lineto
+39.43 9.37 lineto
+39.7 10.01 lineto
+39.93 10.66 lineto
+40.19 11.4 lineto
+40.36 11.97 lineto
+40.51 12.61 lineto
+40.62 13.28 lineto
+40.67 13.89 lineto
+40.62 14.6 lineto
+40.54 15.42 lineto
+40.4 16.04 lineto
+40.01 16.61 lineto
+39.45 16.66 lineto
+38.27 16.2 lineto stroke
+newpath 38.27 16.2 moveto
+37.12 15.63 lineto
+36.6 15.38 lineto
+36.01 15.08 lineto
+35.47 14.89 lineto
+34.93 14.59 lineto
+34.45 14.21 lineto
+33.92 13.76 lineto
+33.31 13.42 lineto
+32.65 12.98 lineto
+32.19 12.65 lineto
+31.55 12.27 lineto
+31.04 11.98 lineto
+30.49 11.83 lineto
+30.06 12.13 lineto
+30.19 12.82 lineto stroke
+newpath 30.19 12.82 moveto
+30.79 12.99 lineto
+31.42 13.29 lineto
+32.05 13.46 lineto
+32.55 13.72 lineto
+33.08 14.07 lineto
+33.61 14.35 lineto
+34.32 14.63 lineto
+34.92 14.92 lineto
+35.5 15.39 lineto
+36.03 15.62 lineto
+36.52 15.96 lineto
+36.91 16.59 lineto
+37.1 17.28 lineto
+36.97 17.67 lineto stroke
+newpath 36.97 17.67 moveto
+37.01 18.37 lineto
+36.73 19.04 lineto
+36.31 19.56 lineto
+35.65 19.94 lineto
+35.17 20.29 lineto stroke
+newpath 35.17 20.29 moveto
+34.26 20.89 lineto stroke
+newpath 34.26 20.89 moveto
+33.56 20.72 lineto
+33.15 20.31 lineto
+32.56 19.85 lineto
+32.09 19.32 lineto
+31.29 18.7 lineto stroke
+newpath 31.29 18.7 moveto
+30.15 19.25 lineto stroke
+newpath 26.99 19.67 moveto
+26.47 19.21 lineto
+26.54 18.5 lineto
+26.77 17.67 lineto stroke
+newpath 26.77 17.67 moveto
+26.22 17.36 lineto
+25.53 17.21 lineto
+24.84 17.08 lineto
+24.28 17.02 lineto
+23.71 16.99 lineto
+23.14 17.08 lineto
+22.46 16.84 lineto
+21.93 16.48 lineto stroke
+newpath 21.93 16.48 moveto
+21.89 15.73 lineto
+22.19 15.17 lineto
+22.67 14.77 lineto
+23.23 14.48 lineto
+23.69 14.03 lineto
+24.01 13.44 lineto
+24.1 12.77 lineto
+23.86 12.21 lineto
+23.45 11.75 lineto
+22.98 11.27 lineto
+22.4 10.79 lineto
+21.84 10.32 lineto
+21.31 9.99 lineto
+20.76 9.71 lineto
+20.12 9.42 lineto
+19.58 9.16 lineto
+18.92 8.91 lineto
+18.38 8.76 lineto
+17.7 8.49 lineto
+17.04 8.22 lineto
+16.5 7.97 lineto
+15.97 7.58 lineto
+15.32 7.23 lineto
+14.84 6.86 lineto stroke
+newpath 14.84 6.86 moveto
+14.31 6.63 lineto
+13.53 6.12 lineto
+12.91 5.65 lineto
+12.22 5.23 lineto
+11.74 4.89 lineto
+11.44 4.35 lineto
+11 4.02 lineto stroke
+newpath 11 4.02 moveto
+10.43 3.93 lineto
+9.85 3.99 lineto
+9.39 4.25 lineto
+8.73 4.69 lineto
+8.01 4.66 lineto stroke
+newpath 8.01 4.66 moveto
+6.89 4.01 lineto stroke
+newpath 6.89 4.01 moveto
+5.98 3.46 lineto stroke
+newpath 5.98 3.46 moveto
+4.73 3.25 lineto stroke
+newpath 4.73 3.25 moveto
+2.66 3.31 lineto stroke
+newpath 2.66 3.31 moveto
+1.38 3.08 lineto
+0.52 2.45 lineto
+0.07 1.81 lineto
+-0.63 1.5 lineto
+-1.15 1.28 lineto
+-1.85 1.05 lineto
+-2.47 0.54 lineto
+-3.05 0.17 lineto
+-3.59 -0.21 lineto stroke
+newpath -3.59 -0.21 moveto
+-5.35 -1.66 lineto
+-6.02 -2.29 lineto
+-6.38 -2.77 lineto
+-6.81 -3.42 lineto
+-7.4 -3.86 lineto
+-7.99 -4.36 lineto
+-8.78 -4.75 lineto stroke
+newpath -8.78 -4.75 moveto
+-9.27 -5.26 lineto
+-9.85 -5.76 lineto
+-10.42 -6.25 lineto
+-10.9 -6.76 lineto
+-11.48 -7.3 lineto
+-11.91 -7.68 lineto
+-12.35 -8.12 lineto
+-13.05 -8.67 lineto
+-13.69 -8.96 lineto
+-14.44 -9.27 lineto
+-15.28 -9.63 lineto
+-15.87 -10.03 lineto
+-16.58 -10.55 lineto
+-17.02 -10.97 lineto
+-17.53 -11.21 lineto
+-18.13 -11.16 lineto stroke
+newpath -18.13 -11.16 moveto
+-18.57 -10.68 lineto
+-18.97 -10.17 lineto stroke
+newpath -18.97 -10.17 moveto
+-19.28 -9.39 lineto
+-19.64 -8.85 lineto
+-20.08 -8.42 lineto
+-20.57 -8.01 lineto
+-21.14 -7.72 lineto stroke
+newpath -21.14 -7.72 moveto
+-22.33 -6.81 lineto
+-22.81 -6.4 lineto
+-23.31 -6.08 lineto
+-23.87 -5.77 lineto
+-24.39 -5.49 lineto
+-24.92 -5.21 lineto
+-25.12 -5.51 lineto
+-24.73 -5.96 lineto
+-24.27 -6.36 lineto
+-23.76 -6.76 lineto
+-23.03 -7.74 lineto stroke
+newpath -23.03 -7.74 moveto
+-23.6 -8.47 lineto
+-24.21 -8.75 lineto
+-24.93 -9.06 lineto
+-25.48 -9.38 lineto
+-26.04 -9.78 lineto
+-26.65 -10.12 lineto
+-27.22 -10.53 lineto
+-27.63 -10.93 lineto
+-28.2 -11.38 lineto
+-28.7 -11.7 lineto
+-29.3 -11.98 lineto
+-29.87 -12.26 lineto
+-30.34 -12.58 lineto
+-31.03 -12.82 lineto
+-31.51 -13.11 lineto
+-31.91 -13.52 lineto
+-32.34 -14.01 lineto stroke
+newpath -32.34 -14.01 moveto
+-33.33 -14.31 lineto
+-33.95 -14.54 lineto
+-34.55 -14.83 lineto
+-34.83 -15.43 lineto
+-35.3 -15.91 lineto
+-35.6 -16.41 lineto
+-35.99 -16.83 lineto
+-36.35 -17.28 lineto stroke
+newpath -36.35 -17.28 moveto
+-37.28 -17.94 lineto
+-37.94 -18.06 lineto
+-38.59 -18.42 lineto
+-39.14 -18.85 lineto
+-39.58 -19.21 lineto
+-40.22 -19.47 lineto
+-40.79 -19.91 lineto stroke
+newpath -37.94 -18.06 moveto
+-37.88 -18.53 lineto
+-37.28 -18.74 lineto stroke
+newpath -18.25 -11.08 moveto
+-18.25 -11.08 lineto stroke
+showpage
+%%EOF

@@ -1,19 +1,33 @@
 %!PS
-%%BoundingBox: -95 -95 95 95 
-%%HiResBoundingBox: -94.6632 -94.6632 94.6632 94.6632 
+%%BoundingBox: -23 -42 23 28 
+%%HiResBoundingBox: -22.1325 -41.24251 22.48251 27.54251 
 %%Creator: MetaPost 1.209
-%%CreationDate: 2018.11.10:1625
+%%CreationDate: 2019.09.26:1811
 %%Pages: 1
 %%BeginProlog
 %%EndProlog
 %%Page: 1 1
- 0.5 0.5 0.5 setrgbcolor 0 0.35
- dtransform truncate idtransform setlinewidth pop [] 0 setdash 1 setlinecap
- 1 setlinejoin 10 setmiterlimit
-newpath -94.48819 0 moveto
-94.48819 0 lineto stroke
- 0.35 0 dtransform exch truncate exch idtransform pop setlinewidth
-newpath 0 -94.48819 moveto
-0 94.48819 lineto stroke
+ 0 0 0 setrgbcolor 0 0.24501 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath -22.01 -41.12 moveto
+-20.9 -39.79 -10.94 -30.97 -10.69 -30.59 curveto
+-10.43 -30.2 -7.99 -27.58 -7.56 -26.81 curveto
+-7.12 -26.04 -5.01 -23.09 -3.85 -23.05 curveto
+-2.69 -23.01 -1.11 -27.58 -0.61 -25.94 curveto
+-0.11 -24.3 1.82 -20.85 1.82 -20.85 curveto
+1.82 -20.85 3.79 -18.71 7.14 -15.86 curveto
+10.49 -13.01 9.01 -7.27 8.79 -4.9 curveto
+8.57 -2.53 10.73 1.44 10.7 1.79 curveto
+10.67 2.15 12.43 4.2 12.4 6.08 curveto
+12.37 7.96 15.48 14.27 18.23 17.35 curveto
+20.97 20.42 22.36 27.42 22.36 27.42 curveto stroke
+newpath 0.14 13.21 moveto
+0.14 13.21 -5.06 10.49 -5.84 8.02 curveto
+-6.62 5.55 -6.53 -0.69 -6.46 -1.41 curveto
+-6.4 -2.13 -7.12 -5.24 -7.26 -6.05 curveto
+-7.4 -6.86 -8.39 -13.32 -7.7 -14.42 curveto
+-7.02 -15.52 -6.96 -15.37 -7.37 -15.62 curveto
+-7.78 -15.88 -10.85 -18.78 -10.87 -19.29 curveto
+-10.9 -19.8 -9.92 -23.33 -9.92 -23.33 curveto stroke
 showpage
 %%EOF

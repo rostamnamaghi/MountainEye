@@ -1,0 +1,71 @@
+%!PS
+%%BoundingBox: -8 -17 8 17 
+%%HiResBoundingBox: -7.19 -16.05 7.19 16.05 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.7 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinejoin 10 setmiterlimit
+newpath -6.41 11.23 moveto
+-5.26 10.51 lineto
+-3.82 9.5 lineto
+-3.1 8.06 lineto
+-3.67 7.06 lineto
+-3.67 6.19 lineto
+-3.96 5.33 lineto
+-4.25 3.17 lineto
+-4.54 2.3 lineto
+-4.54 1.15 lineto
+-4.82 -0.14 lineto
+-4.82 -2.74 lineto
+-5.4 -3.89 lineto
+-6.7 -7.78 lineto
+-6.84 -12.67 lineto
+-5.54 -13.54 lineto
+-4.68 -14.4 lineto
+-3.53 -14.4 lineto
+-2.09 -15.7 lineto
+-0.65 -14.98 lineto
+1.66 -15.26 lineto
+2.95 -14.69 lineto
+3.96 -14.4 lineto
+5.11 -14.83 lineto
+5.83 -12.82 lineto
+6.84 -11.52 lineto
+6.41 -10.08 lineto
+6.41 -10.08 5.4 -6.77 5.54 -5.47 curveto
+5.69 -4.18 5.69 -0.86 5.69 -0.86 curveto
+5.69 -0.86 3.82 7.34 3.24 8.06 curveto
+2.66 8.78 4.68 12.67 4.68 12.67 curveto
+3.1 13.97 lineto
+1.8 14.4 lineto
+0.36 14.54 lineto
+-0.79 15.7 lineto
+-1.51 15.26 lineto
+-2.95 14.83 lineto
+-3.82 13.68 lineto
+-4.68 12.96 lineto
+ closepath stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop 1 setlinecap
+newpath 3.60002 -10.54 moveto
+6.39998 -10.54 lineto stroke
+ 0.24501 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 5 -11.93997 moveto
+5 -9.14001 lineto stroke
+ 0.00002 0.00018 0.0017 setrgbcolor
+newpath 5.56001 -10.54 moveto
+5.56001 -10.39146 5.501 -10.24904 5.39598 -10.14401 curveto
+5.29095 -10.03899 5.14853 -9.97998 5 -9.97998 curveto
+4.85147 -9.97998 4.70905 -10.03899 4.60402 -10.14401 curveto
+4.499 -10.24904 4.43999 -10.39146 4.43999 -10.54 curveto
+4.43999 -10.68852 4.499 -10.83095 4.60402 -10.93597 curveto
+4.70905 -11.041 4.85147 -11.1 5 -11.1 curveto
+5.14853 -11.1 5.29095 -11.041 5.39598 -10.93597 curveto
+5.501 -10.83095 5.56001 -10.68852 5.56001 -10.54 curveto closepath fill
+ 0 0 0 setrgbcolor 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath 5 -10.54 moveto 0 0 rlineto stroke
+showpage
+%%EOF

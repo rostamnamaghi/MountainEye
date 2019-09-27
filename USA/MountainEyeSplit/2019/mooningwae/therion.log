@@ -1,0 +1,120 @@
+therion 5.4.1 (2017-04-18)
+initialization file: C:\Program Files (x86)\Therion/therion.ini
+reading ... done
+configuration file: thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+processing survey data ... 
+####################### cavern log file ########################
+ 1> Survex 1.2.38
+ 2> Copyright ¸ 1990-2018 Olly Betts
+ 3> Survey has no fixed points. Therefore I've fixed 1 at (0,0,0)
+ 4> 
+ 5> Survey contains 139 survey stations, joined by 138 legs.
+ 6> There are 0 loops.
+ 7> Total length of survey legs = 1090.20m (1090.20m adjusted)
+ 8> Total plan length of survey legs = 1012.98m
+ 9> Total vertical length of survey legs =  308.86m
+10> Vertical range = 21.97m (from 78 at 12.95m to 124 at -9.03m)
+11> North-South range = 77.57m (from 49 at 38.30m to 111 at -39.27m)
+12> East-West range = 50.30m (from 59 at 7.55m to 138 at -42.75m)
+13>  124 1-nodes.
+14>    2 2-nodes.
+15>    1 5-node.
+16>    3 7-nodes.
+17>    2 9-nodes.
+18>    1 10-node.
+19>    2 12-nodes.
+20>    1 16-node.
+21>    1 17-node.
+22>    1 18-node.
+23>    1 19-node.
+24> 
+######################### transcription ########################
+ 3> 1 : 1.0@mooningwae
+ 5> 139 : -@mooningwae -- 138 : -@mooningwae
+10> 78 : -@mooningwae -- 124 : 252.13@mooningwae
+11> 49 : -@mooningwae -- 111 : -@mooningwae
+12> 59 : -@mooningwae -- 138 : -@mooningwae
+13> 124 : 252.13@mooningwae
+14> 2 : 252.0@mooningwae
+15> 1 : 1.0@mooningwae
+16> 3 : 252.1@mooningwae
+17> 2 : 252.0@mooningwae
+18> 1 : 1.0@mooningwae
+19> 2 : 252.0@mooningwae
+20> 1 : 1.0@mooningwae
+21> 1 : 1.0@mooningwae
+22> 1 : 1.0@mooningwae
+23> 1 : 1.0@mooningwae
+#################### end of cavern log file ####################
+done
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... done
+processing projection plan ... done
+average distortion: 0.01%
+writing mooningwae.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 21:34
+**data.mp
+(./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
+] [4011] [4012] [4013]
+[1] [2] [3] [4] (./mptextmp.mp) [5] )
+ 
+Here is how much of MetaPost's memory you used:
+ 1085 strings out of 1162
+ 13507 string characters out of 20720
+ 198680 words of memory out of 1500000
+ 1405 symbolic tokens out of 16384
+ 11i,75n,36p,238b,4f stack positions out of 300i,84n,5000p,250b,15f
+ 31 string compactions (moved 313950 characters, 25400 strings)
+18 output files written: data.1 .. data.4013
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 21:34
+entering extended mode
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
+(./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 55 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 252 strings out of 95617
+ 2547 string characters out of 1171098
+ 316878 words of memory out of 1764856
+ 1665 multiletter control sequences out of 15000+50000
+ 20080 words of font info for 63 fonts, out of 1000000 for 2000
+ 849 hyphenation exceptions out of 1000
+ 9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
+Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
+Output written on data.pdf (1 page, 75033 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing mooningwaeth.3d ... done
+writing xtherion file ... done
+compilation time: 3 sec
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.01%    0.18%  mooningwaeSP1@mooningwae
+################### end of scrap distortions ###################

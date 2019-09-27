@@ -1,0 +1,11 @@
+%!PS
+%%BoundingBox: -17 246 -10 248
+%%Page: 1 1
+newpath
+-10.89 247.46 moveto
+-12.75333 247.1 -14.61667 246.74 -16.48 246.38 curveto
+-16.48 246.38 -15.53 247.78 -14.67 247.84 curveto
+-13.81 247.9 -11.38 247.21 -10.89 247.46 curveto
+closepath fill
+showpage
+%%EOF

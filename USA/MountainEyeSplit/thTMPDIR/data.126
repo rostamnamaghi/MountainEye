@@ -1,0 +1,2002 @@
+%!PS
+%%BoundingBox: -192 -168 208 202 
+%%HiResBoundingBox: -191.875 -167.05501 207.27501 201.255 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 191.3 126.66 moveto
+191.91 126.15 192.07 125.78 192.07 125.78 curveto
+192.11 124.41 lineto
+191.28 124.08 lineto
+190.14 124.32 lineto
+190.11 125.61 lineto
+190.11 125.61 190.75 127.13 191.3 126.66 curveto closepath fill
+ 0 0 0 setrgbcolor 0 0.35 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinejoin 10 setmiterlimit
+newpath 191.3 126.66 moveto
+191.91 126.15 192.07 125.78 192.07 125.78 curveto
+192.11 124.41 lineto
+191.28 124.08 lineto
+190.14 124.32 lineto
+190.11 125.61 lineto
+190.11 125.61 190.75 127.13 191.3 126.66 curveto closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 185.81 108.09 moveto
+187.63 106.96 lineto
+187.22 105.81 lineto
+187.22 105.81 187.86 105.35 188.45 106.43 curveto
+189.04 107.51 189.12 108.56 189.12 108.56 curveto
+189.12 108.56 188.92 109.92 187.88 109.91 curveto
+186.57 109.91 186.66 109.2 186.66 109.2 curveto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 185.81 108.09 moveto
+187.63 106.96 lineto
+187.22 105.81 lineto
+187.22 105.81 187.86 105.35 188.45 106.43 curveto
+189.04 107.51 189.12 108.56 189.12 108.56 curveto
+189.12 108.56 188.92 109.92 187.88 109.91 curveto
+186.57 109.91 186.66 109.2 186.66 109.2 curveto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 188.13 117.86 moveto
+189.24 117.95 lineto
+190.18 118.04 lineto
+190.19 118.9 lineto
+190.24 121.14 lineto
+189.76 122.74 lineto
+187.94 121.89 lineto
+188.02 120.95 lineto
+187.35 118.82 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 188.13 117.86 moveto
+189.24 117.95 lineto
+190.18 118.04 lineto
+190.19 118.9 lineto
+190.24 121.14 lineto
+189.76 122.74 lineto
+187.94 121.89 lineto
+188.02 120.95 lineto
+187.35 118.82 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 186.34 101.17 moveto
+185.05 99.16 lineto
+184.62 98.17 lineto
+184.6 96.54 lineto
+185.61 95.85 lineto
+188.03 99.59 lineto
+187.52 103.34 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 186.34 101.17 moveto
+185.05 99.16 lineto
+184.62 98.17 lineto
+184.6 96.54 lineto
+185.61 95.85 lineto
+188.03 99.59 lineto
+187.52 103.34 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 188.3 112.02 moveto
+189.45 112.64 lineto
+189.62 113.68 lineto
+188.27 115.29 lineto
+186.1 114.49 lineto
+187.6 113.07 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 188.3 112.02 moveto
+189.45 112.64 lineto
+189.62 113.68 lineto
+188.27 115.29 lineto
+186.1 114.49 lineto
+187.6 113.07 lineto
+ closepath stroke
+ 1 setlinecap
+newpath 185.81 108.09 moveto
+184.67 108.25 lineto
+184.15 109.32 lineto
+183.37 107.45 lineto
+183.59 104.97 lineto
+184.42 104.35 lineto
+187.52 103.34 lineto
+187.1 105.19 lineto
+187.22 105.81 lineto stroke
+newpath 186.66 109.2 moveto
+188.3 112.02 lineto stroke
+newpath 185 119.13 moveto
+186.69 120.48 lineto
+187.9 125.24 lineto
+187.9 125.24 187.36 127.43 187.54 129.34 curveto
+187.71 131.25 187.2 131.2 187.2 131.2 curveto
+186.35 131.13 lineto
+184.63 131.06 lineto
+185.53 129.68 lineto
+186.42 127.35 lineto
+186.42 127.35 186.07 124.56 185.27 122.85 curveto
+185.19 122.68 184.21 124.86 182.76 125.9 curveto stroke
+newpath 182.76 125.9 moveto
+182.76 125.9 182.45 124.58 182.04 122.48 curveto
+181.62 120.38 181.62 120.38 182.26 119.92 curveto
+182.91 119.46 183.26 120.26 183.99 119.81 curveto
+184.72 119.36 185 119.13 185 119.13 curveto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 163.31 102.57 moveto
+164.82 101.15 lineto
+167.12 100.41 lineto
+169.42 100.7 lineto
+171.59 103.39 lineto
+171.59 103.39 172.71 104.43 174.2 105.08 curveto
+174.2 105.08 172.94 105.66 171.97 107.81 curveto
+171.01 109.96 169.61 112.16 169.61 112.16 curveto
+166.36 112.82 lineto
+164.17 109.35 lineto
+163.48 106.54 lineto
+163.12 104.7 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 163.31 102.57 moveto
+164.82 101.15 lineto
+167.12 100.41 lineto
+169.42 100.7 lineto
+171.59 103.39 lineto
+171.59 103.39 172.71 104.43 174.2 105.08 curveto
+174.2 105.08 172.94 105.66 171.97 107.81 curveto
+171.01 109.96 169.61 112.16 169.61 112.16 curveto
+166.36 112.82 lineto
+164.17 109.35 lineto
+163.48 106.54 lineto
+163.12 104.7 lineto
+ closepath stroke
+newpath 188.27 115.29 moveto
+188.9 116.89 lineto
+188.13 117.86 lineto
+187.17 117 lineto
+186.1 114.49 lineto stroke
+newpath 186.1 114.49 moveto
+185.88 114.99 lineto
+184.11 113.63 lineto
+183.94 111.72 lineto
+183.45 111.41 lineto
+184.15 109.32 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 153.67 107.3 moveto
+153.86 105.16 lineto
+156.37 104.1 lineto
+159.73 105.09 lineto
+161.79 105.18 lineto
+164.17 109.35 lineto
+162.58 110.85 lineto
+157.33 111.75 lineto
+155.18 111.65 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 153.67 107.3 moveto
+153.86 105.16 lineto
+156.37 104.1 lineto
+159.73 105.09 lineto
+161.79 105.18 lineto
+164.17 109.35 lineto
+162.58 110.85 lineto
+157.33 111.75 lineto
+155.18 111.65 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 169.6 98.74 moveto
+168.7 97.28 lineto
+168.79 95.22 lineto
+170.41 92.53 lineto
+174.79 94.55 lineto
+179.51 94.79 lineto
+181.43 95.39 lineto
+182.6 95.76 lineto
+182.38 97.29 lineto
+181.45 97.12 lineto
+181.95 99.23 lineto
+180.64 101.35 lineto
+178.69 101 lineto
+177.29 101.31 lineto
+175.92 101.19 lineto
+173.47 99.77 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 169.6 98.74 moveto
+168.7 97.28 lineto
+168.79 95.22 lineto
+170.41 92.53 lineto
+174.79 94.55 lineto
+179.51 94.79 lineto
+181.43 95.39 lineto
+182.6 95.76 lineto
+182.38 97.29 lineto
+181.45 97.12 lineto
+181.95 99.23 lineto
+180.64 101.35 lineto
+178.69 101 lineto
+177.29 101.31 lineto
+175.92 101.19 lineto
+173.47 99.77 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 175.73 105.3 moveto
+174.3 103.97 lineto
+173.77 102.2 lineto
+174.18 101.38 lineto
+176.9 101.79 lineto
+177.75 101.87 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 175.73 105.3 moveto
+174.3 103.97 lineto
+173.77 102.2 lineto
+174.18 101.38 lineto
+176.9 101.79 lineto
+177.75 101.87 lineto
+ closepath stroke
+newpath 182.38 97.29 moveto
+184.62 98.17 lineto stroke
+newpath 186.34 101.17 moveto
+186.34 101.17 186.42 102.12 185.78 102.58 curveto
+185.14 103.04 184.79 102.15 184.79 102.15 curveto
+184.79 102.15 182.82 101.03 181.95 99.23 curveto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 180.64 101.35 moveto
+182.12 101.14 lineto
+184.35 103.14 lineto
+183.59 104.97 lineto
+183.08 105.87 lineto
+181.54 105.73 lineto
+179.93 103.53 lineto
+180.15 102 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 180.64 101.35 moveto
+182.12 101.14 lineto
+184.35 103.14 lineto
+183.59 104.97 lineto
+183.08 105.87 lineto
+181.54 105.73 lineto
+179.93 103.53 lineto
+180.15 102 lineto
+ closepath stroke
+newpath 140.73 100.61 moveto
+138.41 99.25 135.43 94.08 132.76 91.06 curveto
+130.08 88.03 129.23 89.85 130.68 87.05 curveto
+132.14 84.26 135.61 84.09 138.36 84.36 curveto
+141.11 84.63 141.43 86.9 143.99 89.21 curveto
+146.55 91.51 149.42 92.29 150.97 94.15 curveto
+152.53 96.01 149.61 99.7 149.61 99.7 curveto
+145.33 103.27 lineto
+140.73 100.61 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 99.18 84.71 moveto
+96.34 79.97 lineto
+90.93 63.99 lineto
+88.46 58.96 lineto
+93.8 49.29 lineto
+97.67 48.43 lineto
+101.03 53.2 lineto
+102.18 55.71 lineto
+101.67 57.56 lineto
+102.19 61.39 lineto
+101.06 75.41 lineto
+102.09 77.4 lineto
+100.9 82.8 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 99.18 84.71 moveto
+96.34 79.97 lineto
+90.93 63.99 lineto
+88.46 58.96 lineto
+93.8 49.29 lineto
+97.67 48.43 lineto
+101.03 53.2 lineto
+102.18 55.71 lineto
+101.67 57.56 lineto
+102.19 61.39 lineto
+101.06 75.41 lineto
+102.09 77.4 lineto
+100.9 82.8 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 111.09 69.28 moveto
+116.75 71.37 lineto
+119.17 71.26 lineto
+120.32 71.89 lineto
+122.21 71.9 lineto
+126.26 74.7 lineto
+127.76 75.2 lineto
+125.57 78.43 lineto
+124.29 79.34 lineto
+118.45 79.11 lineto
+115.63 77.98 lineto
+111.96 74.87 lineto
+110.13 74.18 lineto
+110.01 71.76 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 111.09 69.28 moveto
+116.75 71.37 lineto
+119.17 71.26 lineto
+120.32 71.89 lineto
+122.21 71.9 lineto
+126.26 74.7 lineto
+127.76 75.2 lineto
+125.57 78.43 lineto
+124.29 79.34 lineto
+118.45 79.11 lineto
+115.63 77.98 lineto
+111.96 74.87 lineto
+110.13 74.18 lineto
+110.01 71.76 lineto
+ closepath stroke
+newpath 149.61 99.7 moveto
+151.28 98.48 lineto
+153.36 98.32 lineto
+157.06 97.45 lineto
+160.85 99.34 lineto
+162.17 101.86 lineto
+159.73 105.09 lineto stroke
+newpath 156.37 104.1 moveto
+154.3 103.22 lineto
+151.47 104 lineto
+149.51 102.79 lineto
+149.61 99.7 lineto stroke
+newpath 118.86 70.89 moveto
+117.99 70.12 lineto
+116.18 61.94 lineto
+116.44 60.93 lineto
+115.75 60.09 lineto
+113.75 47.4 lineto
+115.11 44.77 lineto
+114.75 43.96 lineto
+116.13 40.22 lineto
+115.86 39.42 lineto
+117.28 37.15 lineto
+124.38 34.04 lineto
+128.43 34.18 lineto
+127.42 37.69 lineto
+127.68 42.36 lineto
+126.56 43.29 lineto
+125.59 42.59 lineto
+123.58 42.83 lineto
+117.96 40.05 lineto
+116.13 40.22 lineto stroke
+newpath 128.43 34.18 moveto
+128.46 34.78 lineto
+132.73 34.25 lineto
+133.85 35.22 lineto
+133.85 35.22 137.32 39.68 138.15 42.86 curveto
+138.97 46.03 140.06 48.2 140.06 48.2 curveto
+140.68 48.95 lineto
+141.71 52.57 lineto
+140.87 56.03 lineto
+140.11 55.78 lineto
+136.22 52.39 lineto
+131.81 49.82 lineto
+128.28 46.04 lineto
+128.28 46.04 127.81 44.7 127.68 42.36 curveto stroke
+newpath 131.81 49.82 moveto
+130.87 49.73 lineto
+130.51 48.92 lineto
+129.69 49.44 lineto
+129.96 53.86 lineto
+130.5 65.29 lineto
+124.25 68.57 lineto
+122.06 68.96 lineto
+118.86 70.89 lineto stroke
+newpath 131.81 49.82 moveto
+132.08 50.62 lineto
+133.32 51.08 lineto
+134.26 52.98 lineto
+142.38 58.24 lineto
+143.01 62.43 lineto
+144.4 65.93 lineto
+144.09 68.41 lineto
+144.7 72.18 lineto
+144.01 73.16 lineto
+141.54 71.79 lineto
+136.36 71.72 lineto
+131.48 69.52 lineto
+130.46 68.48 lineto
+130.5 65.29 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 156.56 77.01 moveto
+156.07 74.72 lineto
+156.52 73.56 lineto
+158.47 73.91 lineto
+161.87 77.31 lineto
+164.05 77.94 lineto
+165.24 79.07 lineto
+166.05 80.61 lineto
+165.49 82.11 lineto
+164.15 82.68 lineto
+162.28 82.42 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 156.56 77.01 moveto
+156.07 74.72 lineto
+156.52 73.56 lineto
+158.47 73.91 lineto
+161.87 77.31 lineto
+164.05 77.94 lineto
+165.24 79.07 lineto
+166.05 80.61 lineto
+165.49 82.11 lineto
+164.15 82.68 lineto
+162.28 82.42 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 148 71.99 moveto
+147 72.58 lineto
+146.04 71.71 lineto
+144.83 68.74 lineto
+145.11 67.64 lineto
+146.52 67.26 lineto
+147.89 69.29 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 148 71.99 moveto
+147 72.58 lineto
+146.04 71.71 lineto
+144.83 68.74 lineto
+145.11 67.64 lineto
+146.52 67.26 lineto
+147.89 69.29 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 148.17 67.25 moveto
+147.15 67.06 lineto
+147.05 66.27 lineto
+144.88 63.65 lineto
+144.38 61.62 lineto
+146.71 63.39 lineto
+148.6 65.39 lineto
+148.7 66.09 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 148.17 67.25 moveto
+147.15 67.06 lineto
+147.05 66.27 lineto
+144.88 63.65 lineto
+144.38 61.62 lineto
+146.71 63.39 lineto
+148.6 65.39 lineto
+148.7 66.09 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 148.7 66.09 moveto
+150.41 65.39 lineto
+152.71 65.7 lineto
+153.75 66.66 lineto
+154.05 68.24 lineto
+153.48 68.8 lineto
+150.42 68.16 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 148.7 66.09 moveto
+150.41 65.39 lineto
+152.71 65.7 lineto
+153.75 66.66 lineto
+154.05 68.24 lineto
+153.48 68.8 lineto
+150.42 68.16 lineto
+ closepath stroke
+newpath 153.75 66.66 moveto
+155.05 65.66 lineto
+155.73 65.82 lineto
+156.07 66.88 lineto
+156.66 69.95 lineto
+155.73 69.78 lineto
+153.48 68.8 lineto stroke
+newpath 155.73 69.78 moveto
+155.72 70.82 lineto
+154.34 72.84 lineto
+153.42 73.45 lineto
+150.22 72.37 lineto
+148.51 70.13 lineto
+148.08 68.19 lineto
+149.22 67.95 lineto
+150.42 68.16 lineto stroke
+newpath 156.66 69.95 moveto
+156.21 73.19 lineto
+155.53 75.97 lineto
+154.77 76.76 lineto
+153.67 75.54 lineto
+153.42 73.45 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 156.66 69.95 moveto
+157.03 68.78 lineto
+160.92 65.86 lineto
+162.06 65.61 lineto
+162.06 65.61 163.06 64.07 164.41 63.41 curveto
+165.76 62.76 168.97 63.31 170.29 63.95 curveto
+170.76 64.18 170.68 65.36 170.68 65.36 curveto
+168.83 66.91 lineto
+168.83 66.91 166.08 66.84 164.06 68.29 curveto
+162.03 69.75 161.74 70.15 161.74 70.15 curveto
+160.69 71.26 lineto
+159.06 72.15 lineto
+157.31 72.42 lineto
+156.8 71.34 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 156.66 69.95 moveto
+157.03 68.78 lineto
+160.92 65.86 lineto
+162.06 65.61 lineto
+162.06 65.61 163.06 64.07 164.41 63.41 curveto
+165.76 62.76 168.97 63.31 170.29 63.95 curveto
+170.76 64.18 170.68 65.36 170.68 65.36 curveto
+168.83 66.91 lineto
+168.83 66.91 166.08 66.84 164.06 68.29 curveto
+162.03 69.75 161.74 70.15 161.74 70.15 curveto
+160.69 71.26 lineto
+159.06 72.15 lineto
+157.31 72.42 lineto
+156.8 71.34 lineto
+ closepath stroke
+newpath 161.74 70.15 moveto
+162.65 71.44 lineto
+162.28 72.7 lineto
+160.88 73 lineto
+160.69 71.26 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 166.8 71.29 moveto
+168.23 71.68 lineto
+169.08 72.7 lineto
+170.3 75.39 lineto
+170.53 76.7 lineto
+170.36 77.72 lineto
+168.56 77.56 lineto
+167.62 76.53 lineto
+167.33 74.01 lineto
+166.52 72.47 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 166.8 71.29 moveto
+168.23 71.68 lineto
+169.08 72.7 lineto
+170.3 75.39 lineto
+170.53 76.7 lineto
+170.36 77.72 lineto
+168.56 77.56 lineto
+167.62 76.53 lineto
+167.33 74.01 lineto
+166.52 72.47 lineto
+ closepath stroke
+newpath 165.24 79.07 moveto
+166.42 78.4 lineto
+167.59 78.85 lineto
+168.66 80.33 lineto
+168.12 83.46 lineto
+166.36 85.89 lineto
+162.28 82.42 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 163.26 71.41 moveto
+162.46 70.73 lineto
+162.88 69.82 lineto
+165.39 68.76 lineto
+169.03 67.53 lineto
+170.56 68.71 lineto
+165.6 71.27 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 163.26 71.41 moveto
+162.46 70.73 lineto
+162.88 69.82 lineto
+165.39 68.76 lineto
+169.03 67.53 lineto
+170.56 68.71 lineto
+165.6 71.27 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 172.68 66.06 moveto
+173.63 68.03 lineto
+173.9 70.81 lineto
+172.95 71.76 lineto
+172.13 71.34 lineto
+171.57 68.88 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 172.68 66.06 moveto
+173.63 68.03 lineto
+173.9 70.81 lineto
+172.95 71.76 lineto
+172.13 71.34 lineto
+171.57 68.88 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 174.7 71.48 moveto
+175.07 70.23 lineto
+176.09 68.42 lineto
+176.73 69 lineto
+178.1 69.03 lineto
+178.23 70.51 lineto
+178.13 71.62 lineto
+177.36 72.5 lineto
+176.88 72.11 lineto
+175.37 72.58 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 174.7 71.48 moveto
+175.07 70.23 lineto
+176.09 68.42 lineto
+176.73 69 lineto
+178.1 69.03 lineto
+178.23 70.51 lineto
+178.13 71.62 lineto
+177.36 72.5 lineto
+176.88 72.11 lineto
+175.37 72.58 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 173.02 76.75 moveto
+173.79 73.9 lineto
+174.87 73.39 lineto
+175.99 73.41 lineto
+175.73 74.41 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 173.02 76.75 moveto
+173.79 73.9 lineto
+174.87 73.39 lineto
+175.99 73.41 lineto
+175.73 74.41 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 168.88 83.61 moveto
+170.33 82.88 lineto
+171.59 84.11 lineto
+170.04 85.18 lineto
+169.3 84.77 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 168.88 83.61 moveto
+170.33 82.88 lineto
+171.59 84.11 lineto
+170.04 85.18 lineto
+169.3 84.77 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 179.45 80.85 moveto
+179.03 79.87 lineto
+179.19 78.94 lineto
+180.17 78.59 lineto
+182.31 79.64 lineto
+182.01 80.13 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 179.45 80.85 moveto
+179.03 79.87 lineto
+179.19 78.94 lineto
+180.17 78.59 lineto
+182.31 79.64 lineto
+182.01 80.13 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 181.23 78.34 moveto
+182.71 76.15 lineto
+184.67 78.3 lineto
+183.64 79.24 lineto
+181.94 79.01 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 181.23 78.34 moveto
+182.71 76.15 lineto
+184.67 78.3 lineto
+183.64 79.24 lineto
+181.94 79.01 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 184.12 82.55 moveto
+185.56 82.77 lineto
+186.47 83.28 lineto
+186.76 84.77 lineto
+185.23 84.55 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 184.12 82.55 moveto
+185.56 82.77 lineto
+186.47 83.28 lineto
+186.76 84.77 lineto
+185.23 84.55 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 171.37 84.7 moveto
+172.52 83.33 lineto
+173.98 83.38 lineto
+175.64 85.07 lineto
+175.21 85.98 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 171.37 84.7 moveto
+172.52 83.33 lineto
+173.98 83.38 lineto
+175.64 85.07 lineto
+175.21 85.98 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 175.79 84.4 moveto
+176.71 85.6 lineto
+176.39 87.29 lineto
+174.16 86.23 lineto
+175.21 85.98 lineto
+175.64 85.07 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 175.79 84.4 moveto
+176.71 85.6 lineto
+176.39 87.29 lineto
+174.16 86.23 lineto
+175.21 85.98 lineto
+175.64 85.07 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 178.16 81.85 moveto
+179.45 80.85 lineto
+181.32 81.19 lineto
+181.66 82.16 lineto
+179.31 87.38 lineto
+178.47 88.08 lineto
+178.49 88.77 lineto
+177.38 89.7 lineto
+176.7 89.64 lineto
+176.49 88.07 lineto
+176.39 87.29 lineto
+176.71 85.6 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 178.16 81.85 moveto
+179.45 80.85 lineto
+181.32 81.19 lineto
+181.66 82.16 lineto
+179.31 87.38 lineto
+178.47 88.08 lineto
+178.49 88.77 lineto
+177.38 89.7 lineto
+176.7 89.64 lineto
+176.49 88.07 lineto
+176.39 87.29 lineto
+176.71 85.6 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 179.31 87.38 moveto
+180.34 86.35 lineto
+180.34 86.35 182.63 85.78 183.77 86.57 curveto
+184.9 87.36 185.23 87.47 186.32 88.86 curveto
+187.4 90.24 188.31 90.67 188.12 91.77 curveto
+187.94 92.87 187.25 92.81 186.26 93.33 curveto
+185.27 93.84 184.67 93.79 184.67 93.79 curveto
+183.17 93.31 lineto
+182.24 92.11 lineto
+179.26 89.78 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 179.31 87.38 moveto
+180.34 86.35 lineto
+180.34 86.35 182.63 85.78 183.77 86.57 curveto
+184.9 87.36 185.23 87.47 186.32 88.86 curveto
+187.4 90.24 188.31 90.67 188.12 91.77 curveto
+187.94 92.87 187.25 92.81 186.26 93.33 curveto
+185.27 93.84 184.67 93.79 184.67 93.79 curveto
+183.17 93.31 lineto
+182.24 92.11 lineto
+179.26 89.78 lineto
+ closepath stroke
+newpath 186.26 93.33 moveto
+186.26 93.33 187.38 95.23 185.61 95.85 curveto stroke
+newpath 179.51 94.79 moveto
+178.51 93.41 lineto
+178.27 91.24 lineto
+178.78 90.34 lineto
+178.78 90.34 180.77 91.2 182.24 92.11 curveto stroke
+newpath 177.75 101.87 moveto
+179.96 101.29 lineto
+180.15 102 lineto stroke
+newpath 179.93 103.53 moveto
+178.88 104.64 lineto
+177.3 105.01 lineto
+175.73 105.3 lineto stroke
+newpath 181.54 105.73 moveto
+177.48 105.89 lineto
+175.73 105.3 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 177.48 105.89 moveto
+180.32 105.97 lineto
+181.65 107.47 lineto
+180.19 107.34 lineto
+179.2 106.9 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 177.48 105.89 moveto
+180.32 105.97 lineto
+181.65 107.47 lineto
+180.19 107.34 lineto
+179.2 106.9 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 180.19 107.34 moveto
+181.65 107.47 lineto
+183.37 107.45 lineto
+184.15 109.32 lineto
+183.45 111.41 lineto
+181.99 111.37 lineto
+180.12 108.87 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 180.19 107.34 moveto
+181.65 107.47 lineto
+183.37 107.45 lineto
+184.15 109.32 lineto
+183.45 111.41 lineto
+181.99 111.37 lineto
+180.12 108.87 lineto
+ closepath stroke
+newpath 184.11 113.63 moveto
+184.54 114.61 lineto
+184.4 116.15 lineto
+182.6 115.13 lineto
+181.61 113.66 lineto
+181.45 111.58 lineto
+181.99 111.37 lineto stroke
+newpath 183.99 119.81 moveto
+181.86 117.64 lineto
+181.84 114.97 lineto
+182.6 115.13 lineto stroke
+newpath 184.4 116.15 moveto
+185.55 116.85 lineto
+186.55 119.18 lineto
+186.69 120.48 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 182.76 125.9 moveto
+182.76 125.9 182.27 128.61 183.34 130.08 curveto
+184.41 131.56 184.63 131.06 184.63 131.06 curveto
+183.51 132.08 lineto
+181.98 130.82 lineto
+181.4 129.65 lineto
+181.96 127.21 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 182.76 125.9 moveto
+182.76 125.9 182.27 128.61 183.34 130.08 curveto
+184.41 131.56 184.63 131.06 184.63 131.06 curveto
+183.51 132.08 lineto
+181.98 130.82 lineto
+181.4 129.65 lineto
+181.96 127.21 lineto
+ closepath stroke
+newpath 181.43 95.39 moveto
+180.84 94.31 lineto
+181.48 92.9 lineto
+183.17 93.31 lineto
+184.67 93.79 lineto
+185.05 94.42 lineto
+182.6 95.76 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 191.51 130.21 moveto
+191.29 132.6 lineto
+188.75 132.2 lineto
+189.44 131.23 lineto
+190.23 131.04 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 191.51 130.21 moveto
+191.29 132.6 lineto
+188.75 132.2 lineto
+189.44 131.23 lineto
+190.23 131.04 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 187.95 131.53 moveto
+187.9 130.15 lineto
+188.77 130.05 lineto
+189.5 130.46 lineto
+189.44 131.23 lineto
+188.75 132.2 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 187.95 131.53 moveto
+187.9 130.15 lineto
+188.77 130.05 lineto
+189.5 130.46 lineto
+189.44 131.23 lineto
+188.75 132.2 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 185.92 132.98 moveto
+184.88 134.01 lineto
+183.94 133.92 lineto
+183.92 132.2 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 185.92 132.98 moveto
+184.88 134.01 lineto
+183.94 133.92 lineto
+183.92 132.2 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 186.13 132.57 moveto
+185.49 132 lineto
+187.2 131.2 lineto
+187.95 131.53 lineto
+187.85 132.64 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 186.13 132.57 moveto
+185.49 132 lineto
+187.2 131.2 lineto
+187.95 131.53 lineto
+187.85 132.64 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 185.92 132.98 moveto
+187.85 132.64 lineto
+187.13 133.86 lineto
+185.68 134.68 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 185.92 132.98 moveto
+187.85 132.64 lineto
+187.13 133.86 lineto
+185.68 134.68 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 182.27 135.32 moveto
+184.11 135.83 lineto
+183.62 136.56 lineto
+184.11 136.86 lineto
+183.07 137.89 lineto
+180.78 138.46 lineto
+180.39 137.99 lineto
+180.94 135.72 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 182.27 135.32 moveto
+184.11 135.83 lineto
+183.62 136.56 lineto
+184.11 136.86 lineto
+183.07 137.89 lineto
+180.78 138.46 lineto
+180.39 137.99 lineto
+180.94 135.72 lineto
+ closepath stroke
+newpath 184.11 135.83 moveto
+184.53 135.09 lineto
+185.55 135.19 lineto
+185.45 136.3 lineto
+184.11 136.86 lineto stroke
+newpath 185.05 94.42 moveto
+184.6 96.54 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 163.56 157.75 moveto
+164.55 160.16 lineto
+165.95 162.78 lineto
+165.95 162.78 166.83 164.49 166.07 165.28 curveto
+165.31 166.07 164.4 165.65 164.4 165.65 curveto
+163.38 165.56 lineto
+161.92 164.48 lineto
+160.86 161.89 lineto
+162.71 159.48 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 163.56 157.75 moveto
+164.55 160.16 lineto
+165.95 162.78 lineto
+165.95 162.78 166.83 164.49 166.07 165.28 curveto
+165.31 166.07 164.4 165.65 164.4 165.65 curveto
+163.38 165.56 lineto
+161.92 164.48 lineto
+160.86 161.89 lineto
+162.71 159.48 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 164.22 158.06 moveto
+164.78 157.51 lineto
+165.97 157.7 lineto
+167.84 157.01 lineto
+167.85 158.82 lineto
+167.33 159.8 lineto
+165.45 159.64 lineto
+164.5 158.78 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 164.22 158.06 moveto
+164.78 157.51 lineto
+165.97 157.7 lineto
+167.84 157.01 lineto
+167.85 158.82 lineto
+167.33 159.8 lineto
+165.45 159.64 lineto
+164.5 158.78 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 167.11 155.57 moveto
+166.69 153.47 lineto
+167.12 152.47 lineto
+168.46 152.94 lineto
+168.69 156.14 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 167.11 155.57 moveto
+166.69 153.47 lineto
+167.12 152.47 lineto
+168.46 152.94 lineto
+168.69 156.14 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 168.46 152.94 moveto
+167.89 151.59 lineto
+169.03 150.41 lineto
+170.46 151.74 lineto
+170.98 154.54 lineto
+169.8 154.26 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 168.46 152.94 moveto
+167.89 151.59 lineto
+169.03 150.41 lineto
+170.46 151.74 lineto
+170.98 154.54 lineto
+169.8 154.26 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 171.86 155.31 moveto
+171.71 154.17 lineto
+173.67 154.35 lineto
+174.72 154.18 lineto
+175.37 154.59 lineto
+175.7 156.6 lineto
+175.15 156.98 lineto
+174.02 156.19 lineto
+172.4 156.04 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 171.86 155.31 moveto
+171.71 154.17 lineto
+173.67 154.35 lineto
+174.72 154.18 lineto
+175.37 154.59 lineto
+175.7 156.6 lineto
+175.15 156.98 lineto
+174.02 156.19 lineto
+172.4 156.04 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 174.56 152.11 moveto
+173.63 149.96 lineto
+176.43 148.57 lineto
+176.43 148.57 177.66 148.25 178.44 149.1 curveto
+179.23 149.94 179.62 150.41 179.62 150.41 curveto
+178 152.16 lineto
+176.95 152.32 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 174.56 152.11 moveto
+173.63 149.96 lineto
+176.43 148.57 lineto
+176.43 148.57 177.66 148.25 178.44 149.1 curveto
+179.23 149.94 179.62 150.41 179.62 150.41 curveto
+178 152.16 lineto
+176.95 152.32 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 170.48 157.33 moveto
+170.64 156.49 lineto
+172.4 156.04 lineto
+172.93 156.86 lineto
+172.86 157.63 lineto
+172.21 158.18 lineto
+171.74 157.62 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 170.48 157.33 moveto
+170.64 156.49 lineto
+172.4 156.04 lineto
+172.93 156.86 lineto
+172.86 157.63 lineto
+172.21 158.18 lineto
+171.74 157.62 lineto
+ closepath stroke
+newpath 172.86 157.63 moveto
+173.67 157.19 lineto
+173.25 159.99 lineto
+172.47 161.04 lineto
+171.37 160.85 lineto
+170.74 158.22 lineto
+171.74 157.62 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 170.25 163.76 moveto
+171.59 163.19 lineto
+171.5 164.22 lineto
+170.86 164.59 lineto
+170.35 165.49 lineto
+169.66 165.52 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 170.25 163.76 moveto
+171.59 163.19 lineto
+171.5 164.22 lineto
+170.86 164.59 lineto
+170.35 165.49 lineto
+169.66 165.52 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 165.08 167.69 moveto
+167.87 165.36 lineto
+168.5 165.07 lineto
+169.66 165.52 lineto
+169.69 166.21 lineto
+168.08 167.78 lineto
+168.08 168.82 lineto
+165.73 169.12 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 165.08 167.69 moveto
+167.87 165.36 lineto
+168.5 165.07 lineto
+169.66 165.52 lineto
+169.69 166.21 lineto
+168.08 167.78 lineto
+168.08 168.82 lineto
+165.73 169.12 lineto
+ closepath stroke
+newpath 164.4 165.65 moveto
+164.63 166.01 lineto
+165.26 166.59 lineto
+164.27 169.08 lineto
+163.79 167.66 lineto
+163.38 165.56 lineto stroke
+newpath 179.58 148.94 moveto
+179.1 145.63 lineto
+179.84 146.04 lineto
+181.08 146.58 lineto
+180.46 148.68 lineto
+179.8 149.31 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 179.84 146.04 moveto
+179.4 144.19 lineto
+180.09 142.27 lineto
+181.34 142.73 lineto
+181.5 143.86 lineto
+182.07 144.17 lineto
+181.01 145.45 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 179.84 146.04 moveto
+179.4 144.19 lineto
+180.09 142.27 lineto
+181.34 142.73 lineto
+181.5 143.86 lineto
+182.07 144.17 lineto
+181.01 145.45 lineto
+ closepath stroke
+newpath 182.07 144.17 moveto
+182.48 145.41 lineto
+181.08 146.58 lineto
+181.01 145.45 lineto stroke
+newpath 181.34 142.73 moveto
+180.95 140.37 lineto
+181.39 139.37 lineto
+182.22 138.67 lineto
+182.98 138.83 lineto
+183.81 138.3 lineto
+185.17 138.42 lineto
+185.07 139.53 lineto
+185.8 140.12 lineto
+185.87 143.14 lineto
+186.23 143.94 lineto
+184.78 144.76 lineto
+182.07 144.17 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 174.78 142.91 moveto
+176.74 140.25 lineto
+177.54 140.92 lineto
+176.1 142.6 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 174.78 142.91 moveto
+176.74 140.25 lineto
+177.54 140.92 lineto
+176.1 142.6 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 178.18 140.55 moveto
+179.94 141.14 lineto
+178.38 143.15 lineto
+177.75 141.46 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 178.18 140.55 moveto
+179.94 141.14 lineto
+178.38 143.15 lineto
+177.75 141.46 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 180.29 136.26 moveto
+180.39 137.99 lineto
+180.78 138.46 lineto
+180.48 139.81 lineto
+179.74 140.43 lineto
+179.28 139.79 lineto
+177.88 140.09 lineto
+177.92 138.63 lineto
+179.42 136.36 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 180.29 136.26 moveto
+180.39 137.99 lineto
+180.78 138.46 lineto
+180.48 139.81 lineto
+179.74 140.43 lineto
+179.28 139.79 lineto
+177.88 140.09 lineto
+177.92 138.63 lineto
+179.42 136.36 lineto
+ closepath stroke
+newpath 180.39 137.99 moveto
+179.07 138.31 lineto
+179.28 139.79 lineto stroke
+newpath 164.28 170.89 moveto
+164.22 169.59 lineto
+165.25 169.68 lineto stroke
+newpath 165.25 169.68 moveto
+165.93 169.75 lineto
+167.69 169.3 lineto
+166.86 170.95 lineto
+164.28 170.89 lineto stroke
+newpath 160.54 173.32 moveto
+160.89 175.15 lineto
+163.48 174.09 lineto
+164.55 173.75 lineto
+164.23 172.44 lineto
+163.33 171.93 lineto
+160.9 173.09 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 157.79 174.4 moveto
+158.68 173.93 lineto
+158.68 173.93 160.18 175.44 160.12 177.07 curveto
+160.06 178.7 159.75 179.36 159.75 179.36 curveto
+158.85 178.85 lineto
+158.01 176.62 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 157.79 174.4 moveto
+158.68 173.93 lineto
+158.68 173.93 160.18 175.44 160.12 177.07 curveto
+160.06 178.7 159.75 179.36 159.75 179.36 curveto
+158.85 178.85 lineto
+158.01 176.62 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 162.71 175.06 moveto
+163.38 175.2 lineto
+163.38 175.2 163.8 178.34 164.08 179.05 curveto
+164.36 179.76 162.14 182.49 162.14 182.49 curveto
+161.52 181.67 lineto
+160.81 181 lineto
+160.87 179.28 lineto
+160.7 177.29 lineto
+161.05 176.29 lineto
+161.65 175.39 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 162.71 175.06 moveto
+163.38 175.2 lineto
+163.38 175.2 163.8 178.34 164.08 179.05 curveto
+164.36 179.76 162.14 182.49 162.14 182.49 curveto
+161.52 181.67 lineto
+160.81 181 lineto
+160.87 179.28 lineto
+160.7 177.29 lineto
+161.05 176.29 lineto
+161.65 175.39 lineto
+ closepath stroke
+newpath 164.08 179.05 moveto
+165.49 179.71 lineto stroke
+newpath 166.95 182.81 moveto
+166.95 182.81 164.35 185.62 163.37 187 curveto
+162.39 188.37 162.25 188.87 162.25 188.87 curveto
+161.09 189.37 lineto
+160.17 185.83 lineto
+161.01 183.6 lineto
+161.01 183.6 161.49 183.04 161.52 181.67 curveto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 158.1 180.42 moveto
+158.97 180.41 lineto
+160.08 181.45 lineto
+158.89 182.21 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 158.1 180.42 moveto
+158.97 180.41 lineto
+160.08 181.45 lineto
+158.89 182.21 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 157.57 178.74 moveto
+158.8 179.36 lineto
+158.1 180.42 lineto
+157.55 179.85 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 157.57 178.74 moveto
+158.8 179.36 lineto
+158.1 180.42 lineto
+157.55 179.85 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 157.55 179.85 moveto
+158.02 181.44 lineto
+158.89 182.21 lineto
+159.55 183.56 lineto
+159.09 183.86 lineto
+158.63 183.22 lineto
+158.46 184.24 lineto
+157.49 184.49 lineto
+157.65 183.65 lineto
+156.78 183.74 lineto
+156.67 183.05 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 157.55 179.85 moveto
+158.02 181.44 lineto
+158.89 182.21 lineto
+159.55 183.56 lineto
+159.09 183.86 lineto
+158.63 183.22 lineto
+158.46 184.24 lineto
+157.49 184.49 lineto
+157.65 183.65 lineto
+156.78 183.74 lineto
+156.67 183.05 lineto
+ closepath stroke
+newpath 157.65 183.65 moveto
+157.54 182.95 lineto
+158.02 181.44 lineto stroke
+ 0.35 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 158.63 183.22 moveto
+158.89 182.21 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 158.77 184.61 moveto
+159.84 184.1 lineto
+160.31 184.66 lineto
+160.17 185.83 lineto
+ closepath fill
+ 0 0 0 setrgbcolor 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath 158.77 184.61 moveto
+159.84 184.1 lineto
+160.31 184.66 lineto
+160.17 185.83 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 156.46 184.49 moveto
+158.12 185.15 lineto
+159.5 186.05 lineto
+159.2 186.54 lineto
+157.44 186.04 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 156.46 184.49 moveto
+158.12 185.15 lineto
+159.5 186.05 lineto
+159.2 186.54 lineto
+157.44 186.04 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 159.59 187.95 moveto
+158.67 187.69 lineto
+157.11 186.87 lineto
+158.22 186.88 lineto
+159.41 187.07 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 159.59 187.95 moveto
+158.67 187.69 lineto
+157.11 186.87 lineto
+158.22 186.88 lineto
+159.41 187.07 lineto
+ closepath stroke
+newpath 159.41 187.07 moveto
+160.49 187.51 lineto
+160.66 189.42 lineto
+160.01 189.01 lineto
+159.59 187.95 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 161.28 191.1 moveto
+160.66 189.42 lineto
+162.02 189.54 lineto
+163.1 189.98 lineto
+162.47 191.3 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 161.28 191.1 moveto
+160.66 189.42 lineto
+162.02 189.54 lineto
+163.1 189.98 lineto
+162.47 191.3 lineto
+ closepath stroke
+newpath 163.1 189.98 moveto
+162.92 189.1 lineto
+164.28 189.23 lineto
+163.6 191.14 lineto
+162.47 191.3 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 162.92 189.1 moveto
+163.37 187 lineto
+164.67 186.85 lineto
+164.33 187.77 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 162.92 189.1 moveto
+163.37 187 lineto
+164.67 186.85 lineto
+164.33 187.77 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 160.01 189.01 moveto
+160.66 189.42 lineto
+161.28 191.1 lineto
+161.48 191.72 lineto
+160.46 191.63 lineto
+160.16 190.14 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 160.01 189.01 moveto
+160.66 189.42 lineto
+161.28 191.1 lineto
+161.48 191.72 lineto
+160.46 191.63 lineto
+160.16 190.14 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 161.25 192.39 moveto
+162.26 191.71 lineto
+163.49 192.33 lineto
+163.27 192.91 lineto
+162.16 192.81 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 161.25 192.39 moveto
+162.26 191.71 lineto
+163.49 192.33 lineto
+163.27 192.91 lineto
+162.16 192.81 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 160.61 193.79 moveto
+161.02 193.06 lineto
+163.11 193.67 lineto
+162.55 194.22 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 160.61 193.79 moveto
+161.02 193.06 lineto
+163.11 193.67 lineto
+162.55 194.22 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 204.04 20.32 moveto
+204.86 19.7 lineto
+205.45 19.93 lineto
+206.17 19.48 lineto
+207.1 21.62 lineto
+205.89 23.67 lineto
+204.5 21.91 lineto
+204.65 21.15 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 204.04 20.32 moveto
+204.86 19.7 lineto
+205.45 19.93 lineto
+206.17 19.48 lineto
+207.1 21.62 lineto
+205.89 23.67 lineto
+204.5 21.91 lineto
+204.65 21.15 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 25.27 13.91 moveto
+23.93 10.61 lineto
+24.14 6.33 lineto
+25.18 6.33 lineto
+24.22 2.55 lineto
+24.8 1.83 lineto
+26.65 1.39 lineto
+26.06 -1.59 lineto
+27.02 -2.71 lineto
+27.72 -4.8 lineto
+29.2 -5.96 lineto
+31.95 -4.94 lineto
+32.94 -3.56 lineto
+34.91 -4.42 lineto
+35.41 -3.25 lineto
+34.96 -2 lineto
+39.48 -1.6 lineto
+40 -0.69 lineto
+43.06 0.7 lineto
+44.21 3.3 lineto
+43.44 4.18 lineto
+46.19 8.12 lineto
+45.12 9.49 lineto
+49.75 10.59 lineto
+50.04 11.22 lineto
+47.76 13.6 lineto
+47.2 16.04 lineto
+45.95 16.53 lineto
+46.64 17.54 lineto
+44.26 21.03 lineto
+42.73 20.81 lineto
+40.12 17.3 lineto
+37.2 18.16 lineto
+33.95 16.93 lineto
+31.87 14.24 lineto
+30.85 14.07 lineto
+31.08 16.33 lineto
+30.32 17.12 lineto
+27.68 16.8 lineto
+26.12 15.97 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 25.27 13.91 moveto
+23.93 10.61 lineto
+24.14 6.33 lineto
+25.18 6.33 lineto
+24.22 2.55 lineto
+24.8 1.83 lineto
+26.65 1.39 lineto
+26.06 -1.59 lineto
+27.02 -2.71 lineto
+27.72 -4.8 lineto
+29.2 -5.96 lineto
+31.95 -4.94 lineto
+32.94 -3.56 lineto
+34.91 -4.42 lineto
+35.41 -3.25 lineto
+34.96 -2 lineto
+39.48 -1.6 lineto
+40 -0.69 lineto
+43.06 0.7 lineto
+44.21 3.3 lineto
+43.44 4.18 lineto
+46.19 8.12 lineto
+45.12 9.49 lineto
+49.75 10.59 lineto
+50.04 11.22 lineto
+47.76 13.6 lineto
+47.2 16.04 lineto
+45.95 16.53 lineto
+46.64 17.54 lineto
+44.26 21.03 lineto
+42.73 20.81 lineto
+40.12 17.3 lineto
+37.2 18.16 lineto
+33.95 16.93 lineto
+31.87 14.24 lineto
+30.85 14.07 lineto
+31.08 16.33 lineto
+30.32 17.12 lineto
+27.68 16.8 lineto
+26.12 15.97 lineto
+ closepath stroke
+newpath 43.44 4.18 moveto
+38.02 7.05 lineto
+38.08 4.47 lineto
+35.84 2.55 lineto
+38.13 2.93 lineto
+39.18 0.78 lineto
+40 -0.69 lineto stroke
+newpath 45.12 9.49 moveto
+43.85 10.15 lineto
+38.22 10.59 lineto
+38.9 9.71 lineto
+38.18 8.18 lineto
+37.28 7.59 lineto
+38.02 7.05 lineto stroke
+newpath 47.76 13.6 moveto
+45.99 14.13 lineto
+42.74 12.98 lineto
+43.85 10.15 lineto stroke
+newpath 45.95 16.53 moveto
+44.32 17.42 lineto
+39.07 15.49 lineto
+37.86 14.61 lineto
+42.04 14.12 lineto
+42.74 12.98 lineto stroke
+newpath 40.12 17.3 moveto
+39.07 15.49 lineto stroke
+newpath 37.86 14.61 moveto
+36.56 12.77 lineto
+38.22 10.59 lineto stroke
+newpath 26.65 1.39 moveto
+28.27 0.59 lineto
+28.23 5.92 lineto
+28.35 7.39 lineto
+26.82 8.11 lineto
+25.18 6.33 lineto stroke
+newpath 26.82 8.11 moveto
+27.85 9.15 lineto
+26.96 11.4 lineto
+26.79 13.27 lineto
+25.85 12.24 lineto
+25.48 13.5 lineto
+25.27 13.91 lineto stroke
+newpath 27.85 9.15 moveto
+30.41 12.31 lineto
+33.47 11.72 lineto
+33.45 13.87 lineto
+31.87 14.24 lineto
+30.85 14.07 lineto
+27.85 13.02 lineto
+26.96 11.4 lineto stroke
+newpath 36.56 12.77 moveto
+35.94 14.01 lineto
+34.69 13.46 lineto
+33.47 11.72 lineto
+33.81 9.86 lineto
+32.65 7.43 lineto
+33.24 6.62 lineto
+34.11 8.42 lineto
+35.04 9.62 lineto
+36.54 9.15 lineto
+37.28 7.59 lineto stroke
+newpath 28.23 5.92 moveto
+30.72 6.91 lineto
+32.65 7.43 lineto stroke
+newpath 27.02 -2.71 moveto
+29.94 -2.71 lineto
+30.39 -1.98 lineto
+29.6 1.13 lineto
+29.81 3.56 lineto
+28.23 5.92 lineto stroke
+newpath 35.84 2.55 moveto
+34.01 1.87 lineto
+34.15 0.25 lineto
+34.73 -1.42 lineto
+31.5 -2.83 lineto
+30.39 -1.98 lineto stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 34.01 1.87 moveto
+33.01 1.44 lineto
+32.35 1.21 lineto
+31.35 2.75 lineto
+30.36 4.21 lineto
+31.18 6.52 lineto
+32.45 5.78 lineto
+32.8 3.83 lineto
+32.79 2.97 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 34.01 1.87 moveto
+33.01 1.44 lineto
+32.35 1.21 lineto
+31.35 2.75 lineto
+30.36 4.21 lineto
+31.18 6.52 lineto
+32.45 5.78 lineto
+32.8 3.83 lineto
+32.79 2.97 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 190.32 133.81 moveto
+188.32 135.95 lineto
+186.77 136.93 lineto
+185.17 138.42 lineto
+187.05 134.8 lineto
+188.14 133.18 lineto
+188.75 132.2 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 190.32 133.81 moveto
+188.32 135.95 lineto
+186.77 136.93 lineto
+185.17 138.42 lineto
+187.05 134.8 lineto
+188.14 133.18 lineto
+188.75 132.2 lineto
+ closepath stroke
+ 0.00002 0.00018 0.00061 setrgbcolor
+newpath 183.51 132.08 moveto
+183.94 133.92 lineto
+184.57 134.58 lineto
+183.93 135.04 lineto
+182.27 135.32 lineto
+182.89 134.09 lineto
+183.02 132.72 lineto
+ closepath fill
+ 0 0 0 setrgbcolor
+newpath 183.51 132.08 moveto
+183.94 133.92 lineto
+184.57 134.58 lineto
+183.93 135.04 lineto
+182.27 135.32 lineto
+182.89 134.09 lineto
+183.02 132.72 lineto
+ closepath stroke
+newpath 182.27 135.32 moveto
+180.33 134.89 lineto
+179.68 134.4 lineto
+180.02 132.54 lineto
+181.04 131.68 lineto
+183.51 132.08 lineto stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop
+newpath 142.11 38.17 moveto
+142.69241 39.44308 lineto stroke
+newpath 143.82468 38.53854 moveto
+143.15872 39.76997 lineto stroke
+newpath 145.48193 39.09088 moveto
+145.23462 40.46886 lineto stroke
+newpath 146.80257 39.95262 moveto
+145.53676 40.55074 lineto stroke
+newpath 148.33455 40.70291 moveto
+147.85211 42.01717 lineto stroke
+newpath 150.0256 41.22119 moveto
+149.6229 42.562 lineto stroke
+newpath 151.7083 41.762 moveto
+151.16283 43.05135 lineto stroke
+newpath 153.30775 42.49135 moveto
+152.23227 43.38759 lineto stroke
+newpath 154.44022 43.85027 moveto
+153.36473 44.7465 lineto stroke
+ 0.24501 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 155.7031 44.912 moveto
+155.77246 46.31029 lineto stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop
+newpath 157.11578 45.59677 moveto
+156.0111 46.45676 lineto stroke
+ 0.24501 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 158.46523 46.39229 moveto
+158.58282 47.78734 lineto stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop
+newpath 159.86887 47.35126 moveto
+158.95506 48.41187 lineto stroke
+newpath 161.06569 48.60066 moveto
+159.73166 49.02527 lineto stroke
+newpath 161.60223 50.28629 moveto
+160.2682 50.71092 lineto stroke
+newpath 162.04892 51.96733 moveto
+160.76537 51.40836 lineto stroke
+newpath 161.69106 53.6184 moveto
+160.33226 53.9554 lineto stroke
+newpath 162.1169 55.33542 moveto
+160.75809 55.67242 lineto stroke
+newpath 162.51108 57.05722 moveto
+161.11382 57.14458 lineto stroke
+newpath 162.62141 58.82277 moveto
+161.22415 58.9101 lineto stroke
+newpath 161.64352 58.5363 moveto
+160.74893 57.45944 lineto stroke
+newpath 160.16966 58.15233 moveto
+160.89426 56.95445 lineto stroke
+newpath 158.65604 57.23674 moveto
+159.38062 56.03885 lineto stroke
+ 0.24501 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 156.92659 57.16464 moveto
+156.86644 55.76596 lineto stroke
+newpath 155.15921 57.24068 moveto
+155.09908 55.842 lineto stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop
+newpath 153.63596 56.49384 moveto
+154.44897 55.35413 lineto stroke
+newpath 152.19582 55.46648 moveto
+153.00883 54.32677 lineto stroke
+newpath 150.5761 54.8507 moveto
+150.85876 53.47954 lineto stroke
+newpath 148.96147 54.25462 moveto
+149.87834 53.19669 lineto stroke
+ 0.24501 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 147.50047 53.44958 moveto
+147.44666 52.05063 lineto stroke
+ 0 0.24501 dtransform truncate idtransform setlinewidth pop
+newpath 145.92123 52.90189 moveto
+146.74883 51.77269 lineto stroke
+newpath 144.73787 51.64233 moveto
+145.96422 50.96704 lineto stroke
+newpath 143.88457 50.09276 moveto
+145.1109 49.41743 lineto stroke
+newpath 143.715 48.61563 moveto
+144.62436 47.55121 lineto stroke
+newpath 142.958 47.11946 moveto
+144.32925 46.83737 lineto stroke
+newpath 142.3006 45.49966 moveto
+143.51906 44.81023 lineto stroke
+newpath 141.4294 43.95999 moveto
+142.64786 43.27057 lineto stroke
+newpath 140.55827 42.4204 moveto
+141.77673 41.73097 lineto stroke
+newpath 140.00525 40.82259 moveto
+141.38882 41.03625 lineto stroke
+newpath 140.79741 39.356 moveto
+141.736 40.39474 lineto stroke
+newpath 142.11 38.17 moveto
+142.69241 39.44308 lineto stroke
+ 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath 142.11 38.17 moveto
+143.55 38.39 lineto
+144.53 38.92 lineto
+146.48 39.27 lineto
+146.91 40.18 lineto
+148.49 40.76 lineto
+151.42 41.64 lineto
+153.24 42.41 lineto
+155.34 44.93 lineto
+156.55 44.87 lineto
+157.78 46.45 lineto
+158.73 46.37 lineto
+160.97 48.3 lineto
+162.1 51.85 lineto
+161.56 53.09 lineto
+162.5 56.88 lineto
+162.64 59.12 lineto
+161.94 58.29 lineto
+161.29 58.83 lineto
+158.43 57.1 lineto
+154.71 57.26 lineto
+151.64 55.07 lineto
+149.36 54.6 lineto
+148.01 53.43 lineto
+146.71 53.48 lineto
+145.1 52.3 lineto
+143.85 50.03 lineto
+144.2 49.03 lineto
+143.17 48.15 lineto
+142.81 46.4 lineto
+139.93 41.31 lineto
+140.14 39.95 lineto
+ closepath stroke
+ 0.35 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath -172.29 -166.88 moveto
+-172.04578 -161.28528 lineto stroke
+newpath -169.12 -94.25 moveto
+-169.36421 -99.84473 lineto stroke
+ 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath 162.76 193.62 moveto
+157.08 201.08 lineto stroke
+newpath 162.76 193.62 moveto
+160.45 185.99 lineto stroke
+newpath 168.56 76.75 moveto
+166.40709 71.58038 lineto stroke
+newpath 160.41 57.18 moveto
+162.56291 62.34961 lineto stroke
+newpath 168.56 76.75 moveto
+168.56 76.75 lineto stroke
+newpath 160.41 57.18 moveto
+154.82382 57.574 lineto stroke
+newpath 104.27 61.14 moveto
+109.85619 60.74599 lineto stroke
+newpath 160.41 57.18 moveto
+154.82382 57.574 lineto stroke
+newpath 104.27 61.14 moveto
+109.85619 60.74599 lineto stroke
+newpath 160.41 57.18 moveto
+162.56291 62.34961 lineto stroke
+newpath 168.56 76.75 moveto
+166.40709 71.58038 lineto stroke
+newpath 104.27 61.14 moveto
+109.85619 60.74599 lineto stroke
+newpath 160.41 57.18 moveto
+154.82382 57.574 lineto stroke
+newpath 104.27 61.14 moveto
+101.20262 65.82529 lineto stroke
+newpath 87.15 87.29 moveto
+90.21738 82.6047 lineto stroke
+newpath 104.27 61.14 moveto
+99.8344 57.72151 lineto stroke
+newpath 31.53 5.08 moveto
+35.9656 8.49849 lineto stroke
+newpath 104.27 61.14 moveto
+109.85619 60.74599 lineto stroke
+newpath 160.41 57.18 moveto
+154.82382 57.574 lineto stroke
+newpath 31.53 5.08 moveto
+26.21144 3.32701 lineto stroke
+newpath -61.1 -25.45 moveto
+-55.78145 -23.697 lineto stroke
+newpath 31.53 5.08 moveto
+35.9656 8.49849 lineto stroke
+newpath 104.27 61.14 moveto
+99.8344 57.72151 lineto stroke
+newpath -61.1 -25.45 moveto
+-66.33849 -27.42943 lineto stroke
+newpath -175.11 -68.53 moveto
+-169.87152 -66.55057 lineto stroke
+newpath -61.1 -25.45 moveto
+-55.78145 -23.697 lineto stroke
+newpath 31.53 5.08 moveto
+26.21144 3.32701 lineto stroke
+newpath -175.11 -68.53 moveto
+-173.8398 -73.98407 lineto stroke
+newpath -169.12 -94.25 moveto
+-170.3902 -88.79593 lineto stroke
+newpath -175.11 -68.53 moveto
+-169.87152 -66.55057 lineto stroke
+newpath -61.1 -25.45 moveto
+-66.33849 -27.42943 lineto stroke
+newpath -169.12 -94.25 moveto
+-173.8416 -97.26108 lineto stroke
+newpath -191.7 -108.65 moveto
+-186.9784 -105.63892 lineto stroke
+newpath -169.12 -94.25 moveto
+-172.85533 -98.42224 lineto stroke
+newpath -182.03 -108.67 moveto
+-178.29466 -104.49776 lineto stroke
+newpath -169.12 -94.25 moveto
+-168.53108 -99.819 lineto stroke
+newpath -163.9 -143.61 moveto
+-164.4889 -138.041 lineto stroke
+ 0.35 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath -169.12 -94.25 moveto
+-169.36421 -99.84473 lineto stroke
+newpath -172.29 -166.88 moveto
+-172.04578 -161.28528 lineto stroke
+ 0 0.35 dtransform truncate idtransform setlinewidth pop
+newpath -169.12 -94.25 moveto
+-170.3902 -88.79593 lineto stroke
+newpath -175.11 -68.53 moveto
+-173.8398 -73.98407 lineto stroke
+newpath 194.4 92.72 moveto
+193.72955 98.27977 lineto stroke
+newpath 189.68 131.86 moveto
+190.35043 126.30023 lineto stroke
+newpath 194.4 92.72 moveto
+189.63635 89.77592 lineto stroke
+newpath 168.56 76.75 moveto
+173.32364 79.69408 lineto stroke
+newpath 189.68 131.86 moveto
+186.41446 136.40933 lineto stroke
+newpath 174.52 152.98 moveto
+177.78554 148.43066 lineto stroke
+newpath 189.68 131.86 moveto
+190.35043 126.30023 lineto stroke
+newpath 194.4 92.72 moveto
+193.72955 98.27977 lineto stroke
+newpath 174.52 152.98 moveto
+171.58464 157.74902 lineto stroke
+newpath 166.34 166.27 moveto
+169.27536 161.50098 lineto stroke
+newpath 174.52 152.98 moveto
+177.78554 148.43066 lineto stroke
+newpath 189.68 131.86 moveto
+186.41446 136.40933 lineto stroke
+newpath 166.34 166.27 moveto
+164.7373 171.6358 lineto stroke
+newpath 160.45 185.99 moveto
+162.05269 180.6242 lineto stroke
+newpath 166.34 166.27 moveto
+169.27536 161.50098 lineto stroke
+newpath 174.52 152.98 moveto
+171.58464 157.74902 lineto stroke
+newpath 160.45 185.99 moveto
+162.76 193.62 lineto stroke
+newpath 160.45 185.99 moveto
+162.05269 180.6242 lineto stroke
+newpath 166.34 166.27 moveto
+164.7373 171.6358 lineto stroke
+newpath 199.88 24.3 moveto
+194.81 34.16 lineto stroke
+newpath 199.88 24.3 moveto
+197.0089 29.10808 lineto stroke
+newpath 168.56 76.75 moveto
+171.4311 71.94193 lineto stroke
+newpath 199.88 24.3 moveto
+199.06781 18.7592 lineto stroke
+newpath 192 -29.46 moveto
+192.8122 -23.9192 lineto stroke
+newpath 168.56 76.75 moveto
+168.56 76.75 lineto stroke
+newpath 168.56 76.75 moveto
+173.32364 79.69408 lineto stroke
+newpath 194.4 92.72 moveto
+189.63635 89.77592 lineto stroke
+newpath 168.56 76.75 moveto
+171.4311 71.94193 lineto stroke
+newpath 199.88 24.3 moveto
+197.0089 29.10808 lineto stroke
+showpage
+%%EOF

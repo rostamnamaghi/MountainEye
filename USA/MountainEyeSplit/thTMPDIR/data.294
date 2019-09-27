@@ -1,0 +1,21 @@
+%!PS
+%%BoundingBox: -1 15 30 47 
+%%HiResBoundingBox: -0.07379 15.64444 29.12146 46.83557 
+%%Creator: MetaPost 1.209
+%%CreationDate: 2019.09.26:1811
+%%Pages: 1
+%*Font: cmss10 4.98132 9.96265 2c:80001000020007fffff4
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor
+gsave [0.54465 0.83868 -0.83868 0.54465 9.61964 16.17197 ] concat 0 0 moveto
+(Rampant) cmss10 4.98132 fshow grestore
+gsave [0.54465 0.83868 -0.83868 0.54465 20.82202 33.4223 ] concat 0 0 moveto
+(Rabbit) cmss10 4.98132 fshow grestore
+gsave [0.93234 0.36163 -0.36163 0.93234 1.17712 19.08101 ] concat 0 0 moveto
+(cra) cmss10 4.98132 fshow grestore
+gsave [0.93234 0.36163 -0.36163 0.93234 6.93079 21.31265 ] concat 0 0 moveto
+(wl) cmss10 4.98132 fshow grestore
+showpage
+%%EOF
