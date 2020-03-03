@@ -29,11 +29,13 @@ endline
 line water-flow
   3320.0 3536.0
   3320.0 3536.0 3276.0 3264.0 3348.0 3164.0
+  smooth off
 endline
 
 line water-flow
   3260.0 4108.0
   3260.0 4108.0 3316.0 4032.0 3320.0 3912.0
+  smooth off
 endline
 
 point 4024.0 3956.0 blocks
@@ -244,7 +246,18 @@ area clay
 endarea
 
 area flowstone
+  l58-4380-7908
+  l27-5108-7756
 endarea
+
+line border -id l58-4380-7908 -subtype invisible
+  4076.0 8112.0
+  4076.0 8112.0 4056.0 8420.0 4144.0 8412.0
+  4232.0 8404.0 4452.0 8312.0 4456.0 8248.0
+  4460.0 8184.0 4444.0 7976.0 4388.0 7912.0
+  4332.0 7848.0 4336.0 7780.0 4336.0 7780.0
+  smooth off
+endline
 
 line border -id l27-5108-7756 -close on -subtype invisible
   3116.0 7168.0
@@ -343,7 +356,7 @@ line wall -subtype invisible
   5612.0 7712.0
 endline
 
-line wall
+line wall -id l50-4272-8312
   5612.0 7712.0
   5612.0 7712.0 5508.0 7728.0 5372.0 7684.0
   5236.0 7640.0 5164.0 7620.0 5084.0 7620.0

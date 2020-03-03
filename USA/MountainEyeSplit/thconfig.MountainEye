@@ -1,6 +1,6 @@
 encoding  utf-8
 source MountainEye.th
-  export map -o export/MountaineyeMap3.pdf -layout Layout2
+  export map -o export/MountaineyeMap4.pdf -layout Layout2
   export map -proj plan -o mountaineye_Walls.3d
   
   
@@ -9,8 +9,8 @@ layout Layout2
   base-scale 1 1000
   symbol-hide group text
   #Foreground color - turn on altitdude to see various heights
-  #colour map-fg [100 100 100]
-  color map-fg altitude
+  colour map-fg [90 90 95]
+  #color map-fg altitude
   #color-legend on
   colour map-bg [100 100 100]
   #sketches on 
@@ -161,7 +161,7 @@ def p_blocks(expr pos,theta,sc,al) =
   pickup PenB;
   thdraw p;
   % The following line uses the code from Colour Dependant Visualization of Symbols by Bruce Mutton
-  if known colour_block_bg: thfill p withcolor colour_block_bg; else: thfill p withcolor (1,1,1); fi;
+  if known colour_block_bg: thfill p withcolor colour_block_bg; else: fi;
   q := (-2.5u,-0.5u)--(-2u,-0.65u)--(-0.3u,-0.65u)--(0.6u,-0.7u)--(1.1u,-0.5u)--(2.1u,-0.15u)--(2.3u,0.9u)--(2.5u,0.7u)--(2.5u,0.5u)--(2.25u,-0.9u)--(1.1u,-1.3u)--(0.5u,-1.5u)--(-0.75u,-1.4u)--(-2u,-1.15u)--(-2.35u,-0.65u)--cycle;
   pickup PenD;
   path p;
@@ -175,6 +175,32 @@ def p_blocks(expr pos,theta,sc,al) =
   thdraw p;
 enddef;
 initsymbol("p_blocks");
+endcode
+code metapost
+    def a_clay (expr p) =
+      T:=identity;
+      thfill p withcolor (0.8, 0.7, 0.38);
+    enddef;
+  endcode
+  code metapost
+    def a_water (expr p) =
+      T:=identity;
+      thfill p withcolor (0.52, 0.85, 1);
+    enddef;
+  endcode
+  code metapost
+    def a_sand (expr p) =
+      T:=identity;
+      thfill p withcolor (1, 0.9, 0.52);
+    enddef;
+  endcode
+code metapost
+def a_flowstone (expr Path) =
+  T:=identity;
+  thclean Path;
+  thfill Path withpattern pattern_flowstone;
+    thfill Path withcolor (1, 0.9, 0.4);
+enddef;
 endcode
 debug off
 map-header 0 0 ne

@@ -24,7 +24,7 @@ layout custom_water_blue
     # code to change the colour of the water
     def a_water (expr p) =
         T:=identity;
-        thfill p withcolor (0.1, 0.2, 0.8);
+        thfill p withcolor (0.5, 0.8, 1.0);
     enddef;
   endcode
 endlayout

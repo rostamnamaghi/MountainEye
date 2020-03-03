@@ -45,7 +45,7 @@ processing projection plan ... done
 average distortion: 0.01%
 writing mountaineye_th2.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  27 SEP 2019 03:09
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  27 SEP 2019 11:09
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
@@ -58,17 +58,17 @@ This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31) 
 Here is how much of MetaPost's memory you used:
  1068 strings out of 1162
  14421 string characters out of 20720
- 1495058 words of memory out of 1500000
+ 1421058 words of memory out of 1500000
  1396 symbolic tokens out of 16384
  11i,75n,14p,208b,4f stack positions out of 300i,84n,5000p,250b,15f
- 95 string compactions (moved 1167301 characters, 91670 strings)
+ 95 string compactions (moved 1167285 characters, 91669 strings)
 28 output files written: data.1 .. data.4014
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  27 SEP 2019 03:09
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  27 SEP 2019 11:09
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
@@ -80,14 +80,14 @@ entering extended mode
 Here is how much of TeX's memory you used:
  259 strings out of 95617
  2611 string characters out of 1171098
- 3498705 words of memory out of 3500000
+ 3311126 words of memory out of 3500000
  1672 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 829767 bytes).
+Output written on data.pdf (1 page, 772937 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
@@ -98,7 +98,7 @@ PDF statistics:
 done
 writing xtherion file ... 
 C:\Program Files (x86)\Therion\therion.exe: warning -- can't open xtherion file for output -- thconfig.xth
-compilation time: 9 sec
+compilation time: 10 sec
 
 
 ###################### scrap distortions #######################

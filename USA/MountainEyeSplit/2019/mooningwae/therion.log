@@ -61,56 +61,57 @@ processing projection plan ... done
 average distortion: 0.01%
 writing mooningwae.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  26 SEP 2019 21:34
+This is MetaPost, version 1.209 (kpathsea version 5.1.0) (mem=mpost 2010.01.31)  2 FEB 2020 15:40
 **data.mp
 (./data.mp [4001] [4002] [4003] [4004] [4005] [4006] [4007] [4008] [4009] [4010
 ] [4011] [4012] [4013]
-[1] [2] [3] [4] (./mptextmp.mp) [5] )
+Warning: undefined pattern ignored
+Warning: undefined pattern ignored [1] [2] [3] [4] (./mptextmp.mp) [5] )
  
 Here is how much of MetaPost's memory you used:
- 1085 strings out of 1162
- 13507 string characters out of 20720
- 198680 words of memory out of 1500000
- 1405 symbolic tokens out of 16384
- 11i,75n,36p,238b,4f stack positions out of 300i,84n,5000p,250b,15f
- 31 string compactions (moved 313950 characters, 25400 strings)
+ 1076 strings out of 1162
+ 14384 string characters out of 20720
+ 61500 words of memory out of 1500000
+ 1404 symbolic tokens out of 16384
+ 11i,75n,36p,199b,4f stack positions out of 300i,84n,5000p,200b,15f
+ 30 string compactions (moved 305678 characters, 24547 strings)
 18 output files written: data.1 .. data.4013
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  26 SEP 2019 21:34
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdftex 2010.1.2)  2 FEB 2020 15:40
 entering extended mode
 **data.tex
 (./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
 (c:/Program Files (x86)/Therion/texmf/tex/glyphtounicode.tex))
 (./th_fontdef.tex{c:/Program Files (x86)/Therion/texmf/fonts/pdftex.map})
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
- 55 numeric registers used out of 32768
+ 53 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 252 strings out of 95617
- 2547 string characters out of 1171098
- 316878 words of memory out of 1764856
- 1665 multiletter control sequences out of 15000+50000
+ 250 strings out of 95617
+ 2539 string characters out of 1171098
+ 59262 words of memory out of 1540240
+ 1663 multiletter control sequences out of 15000+50000
  20080 words of font info for 63 fonts, out of 1000000 for 2000
  849 hyphenation exceptions out of 1000
  9i,5n,8p,238b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/Program Files (x86)/Therion/texmf/fonts/type1/cmss10.pfb><c:/Program 
 Files (x86)/Therion/texmf/fonts/type1/cmssi10.pfb>
-Output written on data.pdf (1 page, 75033 bytes).
+Output written on data.pdf (1 page, 33045 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
 done
 writing mooningwaeth.3d ... done
 writing xtherion file ... done
-compilation time: 3 sec
+compilation time: 2 sec
 
 
 ###################### scrap distortions #######################
